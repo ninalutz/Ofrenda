@@ -29,6 +29,7 @@ void setup() {
   // since it relies on texture mapping to deform
   size(1200, 850, P3D);
   initProjection();
+  loadData();
 }
 
 void draw() {

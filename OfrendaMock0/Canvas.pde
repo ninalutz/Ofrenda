@@ -5,6 +5,7 @@ int skullBox = 6;
 int canvasWidth = 960;
 int canvasHeight = 685;
 
+PImage testImage;
 
 void drawResolutionTest(PGraphics p){
   
@@ -22,6 +23,7 @@ void drawResolutionTest(PGraphics p){
     p.text(res, offset, fontSize*i + offset);
   }
   
+  p.image(testImage, textWidth(res) + 10*fontSize, offset, 800, 800);
   p.colorMode(RGB);
   p.endDraw();
 }
