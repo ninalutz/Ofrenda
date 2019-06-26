@@ -1,13 +1,14 @@
+
 void initProjection(){
   ks = new Keystone(this);
-  surface = ks.createCornerPinSurface(400, 300, 20);
+  surface = ks.createCornerPinSurface(canvasWidth, canvasHeight, 20);
   
   // We need an offscreen buffer to draw the surface we
   // want projected
   // note that we're matching the resolution of the
   // CornerPinSurface.
   // (The offscreen buffer can be P2D or P3D)
-  offscreen = createGraphics(400, 300, P3D);
+  offscreen = createGraphics(canvasWidth, canvasHeight, P3D);
   
 }
 
