@@ -15,5 +15,15 @@ void keyPressed() {
     // saves the layout
     ks.save();
     break;
+  
+  
+  case 'r':
+    machineState = 2;
+    break;
+    
+  case 'm':
+    machineState = 1;
+    break;
+    
   }
 }
