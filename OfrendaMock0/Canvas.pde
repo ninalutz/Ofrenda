@@ -7,6 +7,9 @@ int canvasHeight = 685;
 
 PImage testImage;
 
+/*
+This tests the resolution of the image with color, text, and a picture of tiling
+*/
 void drawResolutionTest(PGraphics p){
   
   p.beginDraw();
@@ -26,4 +29,22 @@ void drawResolutionTest(PGraphics p){
   p.image(testImage, textWidth(res) + 10*fontSize, offset, 800, 800);
   p.colorMode(RGB);
   p.endDraw();
+}
+
+void testWorkInProgressImage(PGraphics p){
+
+}
+
+int skullNum = 32;
+int skullWidth = 60;
+int xOffset = 15;
+int yOffset = 15;
+int shelfSpace = 60;
+ArrayList<Calavera> skulls;
+
+void testBasicSkullImage(PGraphics p){
+  for(int i = 0; i<skullNum; i++){
+      Calavera c = new Calavera(i*skullWidth + xOffset, yOffset + (shelfSpace)*(i%8 + 1));
+  }
+  
 }

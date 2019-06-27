@@ -16,7 +16,6 @@ void keyPressed() {
     ks.save();
     break;
   
-  
   case 'r':
     machineState = 2;
     break;

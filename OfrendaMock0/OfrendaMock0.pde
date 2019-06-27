@@ -18,10 +18,8 @@
  */
 
 import deadpixel.keystone.*;
-
 Keystone ks;
 CornerPinSurface surface;
-
 PGraphics offscreen;
 
 void setup() {
@@ -29,6 +27,7 @@ void setup() {
   // since it relies on texture mapping to deform
   size(1200, 850, P3D);
   initProjection();
+  initStructures();
   loadData();
 }
 
