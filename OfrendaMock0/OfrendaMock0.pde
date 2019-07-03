@@ -8,7 +8,7 @@ PGraphics offscreen;
 void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
   // since it relies on texture mapping to deform
-  size(1200, 850, P3D);
+  size(2000, 1500, P3D);
   initProjection();
   initStructures();
   loadData();

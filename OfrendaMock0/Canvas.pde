@@ -2,8 +2,8 @@ int shelfWidth = 48;
 float shelfHeight = 34.25;
 int skullBox = 6;
 
-int canvasWidth = 960;
-int canvasHeight = 685;
+int canvasWidth = 2000;
+int canvasHeight = 1500;
 
 PImage testImage;
 
@@ -13,7 +13,7 @@ This tests the resolution of the image with color, text, and a picture of tiling
 void drawResolutionTest(PGraphics p){
   
   p.beginDraw();
-  p.background(0);
+  p.background(255, 200, 0);
   String res = "This is a resolution test.";
   int repeats = 50;
   int fontSize = 30;
