@@ -31,8 +31,12 @@ void getRender(){
     break;
   
   case 3: 
+    drawBasicSkulls(offscreen);
+    break;
+  case 4: 
     drawSkullEyes(offscreen);
     break;
+  
   }
 }
 
