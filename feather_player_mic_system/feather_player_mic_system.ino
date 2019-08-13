@@ -52,7 +52,7 @@
 
 #endif
 
-const int AUDIO_IN = A2; //pin where microphone is connected
+const int AUDIO_IN = A2; //pin where microphone is connected --> should be A2 
 const int audio_threshold = 2000; //if things get louder than this, all the audio files on the SD card will be played
 bool passed_threshold;
 
@@ -103,12 +103,19 @@ void loop() {
     passed_threshold = true;
   }
   if (passed_threshold){
-  // Play a file in the background, REQUIRES interrupts!
+  // Play a file in the background, REQUIRES interrupts!p
   Serial.println(F("Playing full track 001"));
   musicPlayer.playFullFile("/track001.mp3");
 
   Serial.println(F("Playing track 002"));
-  musicPlayer.startPlayingFile("/track002.mp3");
+  musicPlayer.playFullFile("/track002.mp3");
+  //musicPlayer.startPlayingFile("/track002.mp3");
+
+  
+  Serial.println(F("Playing track 003"));
+  musicPlayer.playFullFile("/track003.mp3");
+  //musicPlayer.startPlayingFile("/track003.mp3");
+  
   }
   if (musicPlayer.stopped()) {
     Serial.println("Done playing music");
