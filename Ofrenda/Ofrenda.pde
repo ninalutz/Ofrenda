@@ -8,8 +8,10 @@ PGraphics offscreen;
 void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
   // since it relies on texture mapping to deform
-  //size(2000, 1500, P3D);
-  size(1200, 800, P3D);
+  //size(1600, 900, P3D);
+ // size(1200, 800, P3D);
+   size(displayWidth, displayHeight, P3D);
+ 
   initProjection();
   initSkulls();
   loadData();

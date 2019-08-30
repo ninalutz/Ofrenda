@@ -24,21 +24,22 @@ void drawResolutionTest(PGraphics p){
 }
 
 
-
-
+/*
+Draws basic ovals for skulls without eyes or features 
+*/
 void drawBasicSkulls(PGraphics p){
   p.beginDraw();
-  p.background(0);
+  p.background(255, 0, 0);
   for(Calavera c : skulls) c.draw(p);
   p.endDraw();
 }
 
-/**
-
-*/
-void drawSkullEyes(PGraphics p){
+void drawMouseSkull(PGraphics p){
   p.beginDraw();
-  p.background(0);
-  for(Calavera c : skulls) c.draw(p);
+  p.background(255, 0, 0);
+  color c = color(255, 255, 0);
+  PVector loc = surface.getTransformedMouse();
+  Calavera cal = new Calavera(loc, skullWidth, skullHeight, c);
+  cal.draw(p);
   p.endDraw();
 }

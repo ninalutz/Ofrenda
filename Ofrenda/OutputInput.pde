@@ -27,9 +27,14 @@ void keyPressed() {
   case '3':
     machineState = 3;
     break;
-    
+  
   case '4':
     machineState = 4;
     break;
+    
+  case 'f': 
+    showFeatures = !showFeatures;
+    break;
+
   }
 }
