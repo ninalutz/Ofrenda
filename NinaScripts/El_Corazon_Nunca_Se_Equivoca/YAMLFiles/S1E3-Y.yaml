@@ -1,0 +1,657 @@
+isf_version: '0.1'
+scriptconv_version: '0.1'
+src: put something here? --> A bit unsure not gonna lie lol oops
+---
+- character: ubaldo
+  line: te estoy confiando la misión de cambiar la vida de aris y temo. vamos a ver si sobreviven estando separados.
+- character: mateo
+  line: tengo que estructurarlo bien para no fallarle, señor. pero le quiero demostrar que soy leal a usted.
+- character: ubaldo
+  line: bien, muy bien, mateo. porque para mí, la lealtad es de los valores más importantes.
+- character: mateo
+  line: yo quiero demostrarle de lo que soy capaz.
+- character: ubaldo
+  line: actúa y ya veremos.
+- character: mateo
+  line: lo haré, señor. solo quería decirle que usted tiene un aliado en mí. soy leal a lo que creo.
+- character: ubaldo
+  line: aprobado. porque si alguien me traiciona, simplemente desaparece de mi vida.
+- character: eduardo
+  line: pues, hoy tocaron enchiladas de mole para que no extrañen tanto oaxaca.
+- character: amapola
+  line: wow.
+- character: eduardo
+  line: y por supuesto, no podía faltar el tasaxo.
+- character: aris
+  line: muchísimas gracias, eduardo. ¿o prefieres "padrastro"?
+- character: eduardo
+  line: eduardo a secas está bien, hijastro.
+- character: amapola
+  line: a ver, el punto es que estábamos hablando de los retos. y ustedes cuentan con nuestro apoyo incondicional porque somos una familia unida.
+- character: eduardo
+  line: por supuesto, amor. estoy actualizado en todas las leyes, así que si necesitas alguna asesoría, aquí estoy para ayudarte, temo.
+- character: temo
+  line: gracias, eduardo. bueno, me dijeron que necesito más vocabulario, así que quiero leer libros un poquito más serios en las noches.
+- character: aris
+  line: ah, pues yo creo que eduardo te puede prestar algunos, ¿no? en lo que yo analizo cómo le hizo thiago para despuntar en su carrera.
+- character: amapola
+  line: necesitamos promocionar tu nueva canción, hijo. voy a armarte varias propuestas en lo que encuentro trabajo. porque esto del desempleo está bien feo.
+- character: aris
+  line: sí, igual que las enchiladas. qué bárbaro.
+- character: eduardo
+  line: ¿en serio? seguí la receta al pie de la letra.
+- character: amapola
+  line: no me digan que le pasé lo mala cocinera a lalo.
+- character: aris
+  line: iah, no es cierto!
+- character: amapola
+  line: ay. [ríe]
+- character: aris
+  line: es una broma.
+- character: amapola
+  line: yo me la creí.
+- character: eduardo
+  line: además de que estuve cocinando toda la noche.
+- character: aris
+  line: ay, tampoco--[celular]
+- character: eduardo
+  line: amor, estuve poniendo los chiles y remojándolos.
+- character: temo
+  line: ¿qué pasó, amigo?
+- character: diego
+  line: no tarden mucho, temo. les tengo preparada una fiesta de bienvenida. y no acepto un no por respuesta.
+- character: temo
+  line: ¿una fiesta, diego? ¿ahorita?
+- character: aris
+  line: ¿qué?
+- character: ubaldo
+  line: ¿alguien te vio entrar al edificio? perfecto. ¿sabes? ya te extrañaba.
+- character: carlota
+  line: yo también. pero entiendo que estás muy ocupado.
+- character: ubaldo
+  line: por muy ocupado que esté, siempre me voy a hacer un espacio para estar contigo.
+- character: carlota
+  line: perdón, ubaldo, pero no me he sentido bien. he estado mareada.
+- character: ubaldo
+  line: no me vayas a salir con que estás embarazada, carlota.
+- character: carlota
+  line: no te quiero aburrir con mis cosas, pero son días difíciles. con muchos recuerdos.
+- character: ubaldo
+  line: ja... eso es normal, carlota. el evento de andres sacudió sentimientos profundos.
+- character: carlota
+  line: ¿por qué no me cuentas más anécdotas de cuando trabajó contigo?
+- character: ubaldo
+  line: ya te he contado todas. lo cierto es lo que siempre te repito. andres era un gran estudiante. era muy eficiente en el trabajo y yo lo quería como a un hijo.
+- character: temo
+  line: no es nada, aris, de verdad estoy bien.
+- character: aris
+  line: temo, te conozco. ya dime qué pasa, por favor.
+- character: temo
+  line: está bien, fue un día muy feo. isarnio caballero me hizo sentir fatal. ni siquiera quería mirarme a los ojos. porque-- me dijo que yo era... una florecita.
+- character: aris
+  line: ¿qué? pero no es posible que te traten así.
+- character: temo
+  line: yo le hice frente. tuve que levantar la voz para demostrarle que yo no me voy a dejar.
+- character: aris
+  line: y ese tipo, ese tipo mateo, ¿qué hizo? supongo que le dijo algo--
+- character: temo
+  line: escúchame. te voy a decir si prometes que te vas a mantener tranquilo.
+- character: aris
+  line: sí, sí, lo prometo.
+- character: temo
+  line: mateo, mateo symanski no dejaba de burlarse. y me dijo que llorar era para los débiles.
+- character: aris
+  line: iqué! iay, es que ese tipo ya me tiene harto, temo--!
+- character: temo
+  line: aristoteles, relájate--
+- character: aris
+  line: no, no me voy a relajar porque ¿sabes qué? la próxima vez que me lo tope, él va a ser el que va a terminar llorando, te lo juro.
+- character: temo
+  line: violencia trae violencia, aristoteles. relájate.
+- character: aris
+  line: ¿cómo se llama? mateo ¿qué? ¿simenski? ¿cómo se escribe esa cosa? con "z" de zonzo, ¿verdad?
+- character: temo
+  line: son "s"--
+- character: aris
+  line: no me importa cómo se escriba. a mí no me gusta que te ofendan y punto. [jadea]
+- character: elsa
+  line: hola. se me acumularon muchos pendientes, olegario, así que te pido por favor que seas breve. porque tengo que madrugar, ¿sí?
+- character: olegario
+  line: sí, sí, tranquila. solo vine a explicarme un poco más sobre lo que te propuse en el restaruante. elsa, he dormido muhcísimas noches solo. me despierto solo muchísimos días también. sí, es cierto que recorrí lugares maravillosos, pero... pero no tenía con quién compartirlos. y ahí fue que me di cuenta que al perderte, perdí el único complemento que tenía en la vida. y también mi estabilidad por completo.
+- character: elsa
+  line: [aplaude] muy bonito discurso, olegario. pero date cuenta de la realidad. me dejaste sola con nuestra hija; y lo hiciste después de que andres se fue. y eso, perdóname, pero solamente lo hace un cobarde--
+- character: olegario
+  line: sí, lo acepto. acepto que me ganó la cobardía. lo acepto y estoy muy arrepentdo, elsa. pero también entiéndeme. me cegó el dolor--
+- character: elsa
+  line: ¿tú crees que a mí no? ioye, había días que yo no podáía ni respirar! la diferencia entre tú y yo es que yo sí me quedé aquí para enfrentarlo. y tú decidiste escapar.
+- character: olegario
+  line: porque esa fue mi forma de afrontar el dolor. escapar. tú piensas que a mí no me dolió la muerte de andres, ¿verdad? ¿tú piensas que me fui como si nada? no, elsa, y siempre me he tenido que tragar tus reproches. como si tú fueras la única a la que le dolió.
+- character: elsa
+  line: pues, escondiste muy adentro el dolor.
+- character: olegario
+  line: y ahí lo tengo, lo tengo muy adentro. siempre lo voy a llevar ahí. porque yo amaba a mi hijo igual que tú.
+- character: elsa
+  line: mira, olegario, de verdad. tú puedes ver a carlota las veces que quieras, ¿sí? pero no pretendas que haga así, de la nada, como si nada pasó. porque no puedo. ni siquiera sé si algún día voy a poder volver contigo. querías una respuesta, ¿no? pues, aquí está la respuesta. mi respuesta es no. no creo que podamos tener una segunda oportunidad.
+- character: olegario
+  line: pues, no voy a quitar el dedo del renglón. voy a luchar por ti.
+- character: aris
+  line: en cuanto lo vea, me las va a pagar.
+- character: temo
+  line: ari, vamos a entrar a la casa. nos tranquilizamos, ¿vale? la fiesta te va a distraer un poco. vente, vamos.
+- character: aris
+  line: es que lo que quiero que entienda ese tipo... es que nadie te puede molestar. porque tienes quien te defienda.
+- character: temo
+  line: gracias por defenderme, pero yo también soy fuerte y me puedo defender solo. confía en mí.
+- character: aris
+  line: sí, está bien.
+- character: dora
+  line: qué barbaridad. en esta privada no quiero sus cosas pecaminosas. el mundo no tiene por qué enterarse.
+- character: temo
+  line: buenas noches, señora. ya nos íbamos a meter a la casa.
+- character: dora
+  line: ¿qué no me van a echar pleito?
+- character: temo
+  line: la violencia no resuelve nada, señora. con acciones le vamos a mostrar que lo que usted piensa de nosotros está equivocado.
+- character: dora
+  line: más les vale.
+- character: nora
+  line: qué bueno que son valientes, muchachos. ustedes son buenas personas. yo hubiera dado lo que sea por ser como ustedes dos.
+- character: dora
+  line: inora! inora! a la casa.
+- character: nora
+  line: voy. bebé: [llora] [música de fiesta]
+- character: diego
+  line: [apaga la música]
+- character: aris
+  line: a ver, ¿carlota ya sabe de tu plan?
+- character: diego
+  line: le mandé un mensaje y no me contesta. pero no se malviajen, va a ser una ruinión chica, muy "petite".
+- character: aris
+  line: bueno.
+- character: diego
+  line: pues, ya casi cumples 18, amigo. siempre hay una primera vez para todo. a ver. eh, salud. qué aburridos. en fin... invité a bernardo a la fiesta. y por lo visto, no es san bernardo.
+- character: temo
+  line: ¿vas a meter a un desconocido a la casa, diego?
+- character: diego
+  line: tampoco exageres, temo. ya llevo 15 minutos hablando con él.
+- character: aris
+  line: uy.
+- character: carlota
+  line: tengo mucha tarea y quiero adelantar el documental.
+- character: ubaldo
+  line: carlota, me salí temprano por ti. mínimo me merezco una recompensa, ¿no? quiero estar un poco más contigo. eres lo único que me quita el estrés. [música] [música] [música de fiesta]
+- character: temo
+  line: diego. diego, ya es mucha gente. no me metas en broncas. además, ya le dije a nora que vamos a dar un buen ejemplo, por favor.
+- character: diego
+  line: ya, ya, temo, ya.
+- character: temo
+  line: ¿ya qué? [timbre]
+- character: aris
+  line: dora nos odia. si se entera de esto nos va a correr a todos.
+- character: diego
+  line: ay, ya, ya, ya. san bernardo.
+- character: bernardo
+  line: dieguito.
+- character: diego
+  line: qué bueno que viniste. ¿qué? ¿te echas unos shots de bienvenida o te da frío?
+- character: bernardo
+  line: me echo dos.
+- character: diego
+  line: ay, san bernardo.
+- character: elsa
+  line: ajá... [recuerda]
+- character: andres
+  line: ¿ya te contentaste con carlota?
+- character: elsa
+  line: ay, se encerró en su cuarto porque no la dejé ir de viaje.
+- character: andres
+  line: yo creo que deberías ser un poquito menos dura con ella, ma, ¿no crees?
+- character: elsa
+  line: ay, mi amor, no soy dura, por favor. es que ustedes no entienden que yo necesito ponerles reglas. es por su bien.
+- character: andres
+  line: pero hay límites, mamá, ¿sí? digo, ¿por qué nos tratas así, eh?
+- character: elsa
+  line: ay.
+- character: andres
+  line: hemos sido buenos hijos. te obedecemos en
+- character: todo
+  line: no llegamos noche, no salimos de antro y cuando salimos no bebemos. digo, sí sabes que nosotros no somos tus alumnos, ¿verdad?
+- character: elsa
+  line: sí, lo sé.
+- character: andres
+  line: somos tus hijos, ma.
+- character: elsa
+  line: [suspira] está bien.
+- character: andres
+  line: y además yo también quiero ir a ese viaje, ¿eh?
+- character: elsa
+  line: no, mi amor, discúlpame pero tú no puedes ir. tú estás trabajando con ubaldo y conmigo--
+- character: andres
+  line: bueno, ¿y si te dijera que ya no quiero trabajar ahí?
+- character: elsa
+  line: ¿es en serio?
+- character: andres
+  line: ¿qué?
+- character: elsa
+  line: o sea, tu hermana siempre ha sido la más rebelde. ¿pero tú? andres, tú eres obediente.
+- character: andres
+  line: sí, pero porque tú eres muy exigente.
+- character: elsa
+  line: ah--
+- character: andres
+  line: no, mira, ma. entiendo las normas, las reglas con las cuales nos educaste, la obediencia. a callar cuando yo quiero hablar. pero por favor, entiende que tus tiempos no son los míos, ma, ¿ok?
+- character: elsa
+  line: hay muchísimas cosas que no nos hacen felices, pero que tenemos que hacerlas. por favor, andres. tú eres el más responsable. no me falles.
+- character: andres
+  line: siempre con la misma letanía. "no me falles, no me falles, no me falles".
+- character: elsa
+  line: le fallé yo. [solloza]
+- character: temo
+  line: ey, no, no. no tiren refresco.
+- character: aris
+  line: no se metan a la cocina, por favor.
+- character: temo
+  line: aquí no se fuma. todo en su lugar, por favor.
+- character: aris
+  line: [gime] solamente nos va a ver recoger.
+- character: temo
+  line: por favor, la basura aquí, se los suplico. por favor.
+- character: diego
+  line: a ver, temo, saca las bolsas de basura.
+- character: carlota
+  line: idiego, dijiste que era una fiesta chica!
+- character: aris
+  line: es que nosotros pensamos lo mismo.
+- character: temo
+  line: además, diego ya tomó de más y no entiende razones. ioye, no! ¿qué te dije de ese adorno?
+- character: carlota
+  line: yo no le puedo decir nada a diego porque ya sabes.
+- character: aris
+  line: no, yo sé. pero yo le estoy mintiendo a temo y no me gusta para nada.
+- character: carlota
+  line: pues, sí, pero porfa aguántatelo un poco más. te juro que es por una cosa muy, muy buena, ¿sí?
+- character: aris
+  line: bueno, entonces ayuda.
+- character: carlota
+  line: no.
+- character: todos
+  line: [vitorean]
+- character: temo
+  line: oye, ¿les apagamos la luz para que se vayan? ¿no?
+- character: amapola
+  line: me costó muchísimo poder salir adelante. darme cuenta de que merezco amor, respeto. de que merezco ser feliz. el valor de una persona no está en su edad, sino en los valores que tiene.
+- character: soledad
+  line: [solloza] [música de fiesta]
+- character: temo
+  line: insisto en que hay que quitar [indistinto] [timbre]
+- character: diego
+  line: iyo voy!
+- character: aris
+  line: lo que faltaba. diego, no quiero a este tipo en mi casa.
+- character: mateo
+  line: ¿y qué? ¿tú me vas a sacar o qué, pueblerino? [gritos y barullo]
+- character: amapola
+  line: investigué de intern--
+- character: eduardo
+  line: [chista] está durmiendo.
+- character: amapola
+  line: ah... [susurra] hay una posibilidad de ir de oyente a unas clases en la universidad.
+- character: eduardo
+  line: suena increíble, chaparrita. así vas a poder estudiar un poco en lo que decides una carrera.
+- character: amapola
+  line: la plancha, la plancha. sí, porque además no tengo tanto tiempo ni tanto dinero para pagar una carrera universitaria. iau!
+- character: eduardo
+  line: ¿estás bien, mi amor?
+- character: amapola
+  line: sí.
+- character: eduardo
+  line: ¿segura?
+- character: amapola
+  line: tú la plancha. con mi dedo todo bien. el problema es que las clases, pues, son en la misma universidad del aris.
+- character: aris
+  line: no sé por qué diego te invitó.
+- character: diego
+  line: no, no, no, no, no. yo no lo invité. seguramente vio la invitación en mi face. aprende.
+- character: aris
+  line: ¿y qué? ¿solamente viniste para fregar?
+- character: mateo
+  line: no, en realidad, aristoteles, estoy aquí porque quería ver dónde vive la princesita cuauhtemoc.
+- character: todos
+  line: uh...
+- character: mateo
+  line: ¿ya te contó cómo se soltó a llorar cuando nos pusieron la prueba? lo bueno es que te tiene a ti para que le enseñes lo que es un hombre de verdad. deberías de decirle que se tiene que defender mejor, a ver si así deja de ser tan llorón.
+- character: temo
+  line: y no cabe duda que tú tienes muchos complejos, mateo. se nota que tú eres el más inseguro y por eso tienes que andar humillando a los demás para sentirte mejor. pero por más que me ofendas, eso no va a hacer que te tomen en serio. yo sé quién soy y no me da pena. tal parece que tú me tienes envidia por eso. y es evidente que tú no eres feliz con quien eres. y la neta, me das lástima.
+- character: todos
+  line: uh... [golpe] [gritos] [golpes] [gritos] [música] [música] >> no, diego, ahorita no, por favor.
+- character: dora
+  line: ¿qué pasa? ieh, qué pasa aquí! ¿quién les dijo que podían hacer una fiesta en mi departamento? estos desmanes están prohibidos, carlota. y tú, sepárate de diego, por amor de dios. es una aberración que anden pegados, sinverguenzas. mírate nada más, diego. eres ua verguenza para la familia. cayéndote de borracho. les dije que no me gustaba verlos juntos, ¿eh? pero ya no voy a soportar más su indecencia. porque en este momento quiero que tú corras a tus tres inquilinos de mi privada, carlota, ¿eh?
+- character: eduardo
+  line: no creo que aristoteles tenga problema en compartir alguna clase contigo, amor.
+- character: amapola
+  line: yo no estoy tan segura, lalo. no sé si le dé oso la idea que esté su mamá ahí en la escuela con él. no quiero que le vuelvan a hacer bullying.
+- character: eduardo
+  line: no tienen por qué, polita. tú eres una mujer que se quiere superar. el camino más lógico es estudiar.
+- character: amapola
+  line: creo que tengo que abrir el corazón para que entienda por qué necesito tener una carrera.
+- character: eduardo
+  line: la comunicación es lo más importante en nuestra familia.
+- character: amapola
+  line: me gusta cómo se oye. "nuestra familia".
+- character: eduardo
+  line: todavía no estamos casados. pero eso somos, polita.
+- character: dora
+  line: salgan, salgan antes de que le hable a una patrulla. vamos, vamos. y llévense toda su basura, ¿eh? toda.
+- character: mateo
+  line: esto no se va a quedar así, ¿eh?
+- character: temo
+  line: eh, ya tuvimos suficiente, ¿eh?
+- character: carlota
+  line: vete ya.
+- character: dora
+  line: y tú, ¿te ibas a hacer responsable de estos tres?
+- character: carlota
+  line: la fiesta se salió de control, pero le juro que no va a volver a suceder.
+- character: dora
+  line: por supuesto que no va a volver a suceder. porque estos jóvenes ya se van. y date de santos que no te corro a ti también, porque soy amiga de tu madre.
+- character: temo
+  line: aristoteles me estaba defendiendo, de verdad. es que--
+- character: dora
+  line: lo bueno es que me iban a demostrar buenas acciones, ¿no? jamás hemos tenido una fiesta así; y mucho menos golpes aquí. ustedes dos solo son anormales. también son violentos. así que recojan sus cosas y váyanse, ¿eh?
+- character: diego
+  line: pero tía--
+- character: dora
+  line: pero nada, niño. para ti no existe el autocontrol. y tú, avísale a tu madre que también se va con ustedes.
+- character: aristoteles
+  line: pe-- no--
+- character: carlota
+  line: no quiero que se vayan.
+- character: temo
+  line: no, pues nosotros no nos queremos ir.
+- character: diego
+  line: ¿qué vamos a hacer?
+- character: temo
+  line: por lo pronto, curarle las heridas a ari y bajarte la borrachera.
+- character: aris
+  line: creo que queda un bistec congelado para mis golpes.
+- character: diego
+  line: de familia elegida vamos a ser familia destruida.
+- character: amapola
+  line: hola, hola. carlota, necesito hablar con mi hijo. ¿qué pasó aquí?
+- character: aris
+  line: no, no. estoy bien.
+- character: dora
+  line: [gime]
+- character: nora
+  line: ¿qué pasa? [resuella]
+- character: dora
+  line: esos mocosos van a aprender que todo pecado merece un castigo.
+- character: nora
+  line: pero ¿qué pasó? ¿de qué estás hablando? ¿quiénes?
+- character: dora
+  line: diego y sus amigos. los aristemios o esos, como se llamen.
+- character: nora
+  line: ¿qué buscas?
+- character: dora
+  line: esto, esto, esto. aquí está. el reglamento detallado. ubaldo se va a enterar que su hijito se embriagó.
+- character: soledad
+  line: siempre sí llegaste. quería cenar contigo.
+- character: ubaldo
+  line: tenía mucha hambre. soledad, muchísimas gracias de verdad por cocinar mi platillo favorito. te quedó muy, pero muy rico. te hiciste otra cirugía y no me di cuenta, ¿verdad?
+- character: soledad
+  line: no. aprendí muy tarde que ni con todas las cirugías te voy a volver a gustar como antes.
+- character: ubaldo
+  line: no te sientas mal, soledad. de todas maneras te vas a comprar todos los productos que vengan de parís. [celular] [tose] ya son horas de dormir para ti, hermana. [gime] ¿cómo que diego se emborrachó?
+- character: amapola
+  line: tú decidiste agarrarte a golpes, hijo. elegiste pésimo el camino de la violencia. así que vas a aguantarte el dolor, los golpes, todo eso. y tú, dieguito, decidiste ponerte hasta las chanclas. así que lo mareado y lo crudo es lo menos que te mereces.
+- character: temo
+  line: mi suegra tiene razón. no debiste pelearte con mateo.
+- character: aris
+  line: ah, ¿y qué querías que hiciera? ¿que dejara que te golpeara?
+- character: temo
+  line: no, pero tampoco que terminara en una golpiza. tú eres mucho más inteligente que eso, aristoteles.
+- character: amapola
+  line: estoy segura que van a aprender la lección. ahora voy a hablar con dora para ver si nos deja quedarnos.
+- character: carlota
+  line: por favor, mínimo esta noche. [timbre]
+- character: diego
+  line: ay, el timbre de esta casa suena más que mi "whats".
+- character: carlota
+  line: yo voy. tómatelo, diego.
+- character: temo
+  line: por favor, tómatelo.
+- character: amapola
+  line: te lo tienes que tomar.
+- character: ubaldo
+  line: te debiste haber quedado en el coche.
+- character: soledad
+  line: no, yo quiero saber cómo está mi hijo.
+- character: ubaldo
+  line: idiego!
+- character: soledad
+  line: ¿diego tomó demasiado?
+- character: ubaldo
+  line: ¿de qué sirvió confiar en ti? ¿de qué? te dejamos vivir con tus amigos para darte más independencia y tranquilidad. ¿qué es lo que haces? embriagarte. mírame a los ojos. ilevanta la cara!
+- character: diego
+  line: solo era una fiesta de bienvenida y se me pasaron los shots.
+- character: ubaldo
+  line: como también se te pasó decirme que ibas al psiquiatra.
+- character: soledad
+  line: ubaldo, no exhibas así a tu hijo, por favor.
+- character: ubaldo
+  line: es necesario exhibirlo. porque evidentemente necesita mucha más ayuda de lo que yo pensaba. así que te vas a regresar a la casa a vivir con nosotros.
+- character: diego
+  line: yo no quiero vivir con ustedes, papá. no quiero estar en esa casa tan triste. necesito estar con mis amigos. [música] [música] [golpe] [piano]
+- character: elsa
+  line: ay, no. ay no. ¿qué hago, qué hago? ya sé, esto. no, no duele nada. [golpe] sí, este. este. estoy segura. vamos. [golpe]
+- character: olegario
+  line: iay, elsa! [gime]
+- character: elsa
+  line: olegario, pero-- ¿cómo te atreves a entrar así? me asustaste, tonto. pensé que era un ladrón.
+- character: olegario
+  line: ¿un ladrón? si soy incapaz de robar, elsa. al contrario, mira, te traje algo y quería que lo vieras de sorpresa por la mañana. mañana que tenga contracturado el hombro--
+- character: elsa
+  line: pues, sí, eso te mereces. eso te pasa por meterte en una casa ajena, ¿eh?
+- character: olegario
+  line: tampoco pensé que seguías trabajando a esta hora. ya se me había olvidado que eres ua mujer adicta al trabajo.
+- character: elsa
+  line: sí, y tú a las ocurrencias ridíduclas, por cierto, ¿eh? haz el favor de irte y no volver nunca jamás.
+- character: olegario
+  line: claro, el país de nunca jamás. ese es el país donde los niños no crecen, ¿verdad?
+- character: elsa
+  line: sí, y sería un excelente lugar para que tú vivieras ahí, fíjate. y ya vete, por favor. vete ya, vete.
+- character: olegario
+  line: está bien. solo espero que te guste.
+- character: elsa
+  line: ¿qué es o qué?
+- character: olegario
+  line: ¿quieres saber?
+- character: elsa
+  line: sí, ¿qué es?
+- character: olegario
+  line: sorpresa. [ríe] ya--
+- character: elsa
+  line: tonto. iya vete! qué susto. [jadea] ay, qué susto. a ver qué es esto. ay, qué hermosas. ay, hijo. ¿qué hago? [celular] "reunión de mujeres urgente".
+- character: amapola
+  line: nuestros hijos no midieron el alcance de esto. podríamos darles otra oportunidad.
+- character: temo
+  line: sí, por favor.
+- character: diego
+  line: ya me voy a portar bien, papá.
+- character: amapola
+  line: y yo voy a estar más pendiente que nunca.
+- character: ubaldo
+  line: usted ya está viviendo aquí y no puedo impedir ni la fiesta, ni la golpiza, ni la borrachera. los hijos se las ingenian para engañar a sus padres.
+- character: aris
+  line: pero con todo respeto, señor. temo, carlota, diego, yo, ya somos un gran equipo.
+- character: ubaldo
+  line: equipo que se apoya en sus desastres.
+- character: temo
+  line: pero nos estamos conociendo, nos estamos acoplando. de verdad queremos ser una familia.
+- character: carlota
+  line: la fiesta se nos fue de las manos, señor. pero yo me voy a encargar del orden aquí.
+- character: soledad
+  line: ubaldo, este es un buen lugar. los muchachos son buena compañía para diego. el en la casa está solo. yo me comprometo a venir a verlo más seguido.
+- character: ubaldo
+  line: no quiero que me vean como el malo de la película. pero es la última, la última vez que tolero algo así. al mínimo incidente, diego se va de aquí.
+- character: amapola
+  line: ahora el problema va a ser convencer a doña dora.
+- character: ubaldo
+  line: yo me encargo de eso, doña pola. voy a ser directo. mi hijo y sus amigos no se pueden ir de aquí.
+- character: dora
+  line: pero ¿tú ya supiste lo que hicieron? son una mala influencia. y los tres juntos, peor.
+- character: ubaldo
+  line: yo creo que todo lo contrario. diego necesita estar acompañado de buenos amigos.
+- character: dora
+  line: pero los tres comparten... prefencias. y entre ellos se dan cuerda.
+- character: nora
+  line: sabemos que siempre has sido homofóbica, dora. pero necesitamos apoyar a nuestro sobrino. ¿o qué no dices que la familia es lo más importante?
+- character: ubaldo
+  line: nora tiene razón. además, diego está atrevesando una depresión. aunque a mí me costó ceder, regresar a la casa le puede afectar mucho más.
+- character: dora
+  line: diego se puede quedar, pero sus dos amiguitos no.
+- character: ubaldo
+  line: no estás entendiendo, dora. no fue una pregunta de mi parte. ¿o te recuerdo que yo soy el dueño de esta privada y de la farmacia que la sostiene? las he dejado controlar esta privada y su negocio para que se mantengan ocupadas y tranquilas. solamente vine a informarles mis órdenes.
+- character: diego
+  line: no quería tener otro problema con mi papá.
+- character: soledad
+  line: ay, amor. pues, mira, yo voy a intentar hablar con él.
+- character: diego
+  line: gracias, ma, pero... no te hace mucho caso que digamos.
+- character: amapola
+  line: mañana te podemos preparar unpos chilaquilitos bien picocitos. bueno, digo, eduardo va a tener que ayudar. pero desayunamos y nos animamos entre todos.
+- character: soledad
+  line: mi amor, tú tienes que entender que el alcohol no te hace bien. y mucho menos si tienes depresión.
+- character: amapola
+  line: correcto. tomarse unos drinks, como ustedes dicen, los puede hacer olvidar unas horas. pero luego viene la cruda realidad. [música] [música]
+- character: temo
+  line: ¿te duele mucho?
+- character: aris
+  line: sí.
+- character: temo
+  line: lo peor es que el odioso de mateo tuvo que pegarme justo en el labio. van a ser algunos días sin besos. [ríe]
+- character: temo
+  line: siempre hemos sido pacientes. ahora estás pensativo otra vez. ¿seguro que ese cerebrito no esconde algo?
+- character: aris
+  line: no, estoy pensando que vamos a tener un enemigo muy fuerte. neta, no se va a quedar tranquilo después de la bronca.
+- character: temo
+  line: no, y lo peor es que yo trabajo con él. o sea, quiere hacer todo para que me tumben. pero ¿sabes algo? estamos juntos, aris. y juntos lo vamos a lograr.
+- character: dora
+  line: sí, es cierto que somos amigas. pero ya estoy muy grande para ser la nana de sus hijos.
+- character: elsa
+  line: ay, por dios. no te estamos pidiendo que seas su niñera. pero ay, por dios, nora. tú bien sabes que carlota no quiere vivir conmigo.
+- character: soledad
+  line: y diego necesita su independencia.
+- character: elsa
+  line: y yo trabajo casi todo el día.
+- character: dora
+  line: pues, yo también trabajo. aunque no lo crean.
+- character: soledad
+  line: se supone que estamos aquí reunidas para encontrar una solución, ¿no? a mí me da mucho miedo que diego se salga de control. y mi marido, pues cada vez está más distanciado de í.
+- character: nora
+  line: ay, sí, ubaldo es tan complicado que yo no sé cómo has aguantado tantos años, soledad.
+- character: soledad
+  line: cuñada, yo creo que lo aguanto, pues porque lo amo.
+- character: elsa
+  line: pero el amor no es suficiente, amiga. llega un punto donde la dignidad debe estar arriba de todo. y el amor que más nos cuesta trabajo es el amor a uno mismo.
+- character: nora
+  line: muy cierto. porque aceptar a la que vemos ahí en el espejo no es nada fácil, ¿eh? pero al mismo tiempo, somos nuestra única compañía. porque cuando nos morimos, pues solas nosotras nos morimos.
+- character: dora
+  line: no es que no las comprenda. sé que ser madre es un gran reto. bueno, digo, no lo sé como tal porque la vida me quitó el privilegio de ser madre.
+- character: elsa
+  line: pero nos estás ayudando con nuestros hijos. y nos has dado los mejores consejos para educarlos.
+- character: soledad
+  line: mira, dora, ya sé que diego no es santo de tu devoción, pero es tu sobrino y él te quiere. y le viene muy bien estar aquí.
+- character: dora
+  line: voy a hacer lo posible por aguantar a esos jovencitos, pero no les aseguro nada, ¿eh?
+- character: elsa
+  line: con el intento es suficiente. gracias. ay, ¿qué creen? tengo algo que contarles. inesperadamente, yo diría demasiado, olegario me pidió una segunda oportunidad.
+- character: soledad
+  line: ¿qué dices?
+- character: nora
+  line: pero ¿y qué piensas hacer, elsa?
+- character: elsa
+  line: es que no sé qué siento por olegario. enterré muchos sentimientos y como que los tengo adormecidos.
+- character: nora
+  line: pero ¿no los puedes despertar, desenterrarlos?
+- character: elsa
+  line: no les puedo mentir. me encantaría sentir que tengo nuevamente una familia. y sobre todo, que carlota la tenga.
+- character: nora
+  line: sí.
+- character: carlota
+  line: al fin es hora de cenar.
+- character: todos
+  line: [hablan a la vez]
+- character: carlota
+  line: ey, ey, ey.
+- character: diego
+  line: au.
+- character: carlota
+  line: ustedes solo tienen derecho a una rebanada, por portarse muy mal. ah, ¿verdad? es broma. de hecho, tienen que comer más. y tú más porque estás bien flaco.
+- character: temo
+  line: [ríe]
+- character: carlota
+  line: oigan, escuchen. yo no quiero ser doña dora junior. pero sí tenemos que organizarnos y obedecer las reglas, ¿va?
+- character: diego
+  line: ya lo capté. y gracias a todos por defenderme.
+- character: temo
+  line: para eso estamos, ¿no? nos tenemos a nosotros cuatro.
+- character: aris
+  line: creo que esta es nuestra oficial fiesta de bienvenida. [inaudible] [timbre]
+- character: carlota
+  line: yo voy.
+- character: temo
+  line: andale, come. [ríe]
+- character: aris
+  line: ya se comió toda la pizza. sale.
+- character: elsa
+  line: no te quito mucho tiempo, hija. solamente vine para ver si todo está más tranquilo.
+- character: carlota
+  line: sí, ya levantamos todo y estamos cenando pizza.
+- character: elsa
+  line: no duerman muy tarde porque mañana hay escuela.
+- character: carlota
+  line: con esa frase nos despedías todas las noches de niños.
+- character: elsa
+  line: y después hacía algo que no sé si ahora me des permiso.
+- character: ninos
+  line: [ríen y conversan]
+- character: elsa
+  line: también vine a decirte que cuentas conmigo para todo. y lo más importante te amo.
+- character: carlota
+  line: gracias por venir, ma. yo también te amo.
+- character: amapola
+  line: no sé si decirle a ari que voy a estudiar con él antes; o verlo ahorita en la universidad.
+- character: carlota
+  line: es una demanda por daños y lesiones que puso en tu contra mateo symanzki.
+- character: aris
+  line: ¿es neta? ¿estás de acuerdo que este tipo nunca me va a dejar en paz?
+- character: carlota
+  line: mira, cálmate. podemos arreglarlo. podemos pedirle ayuda a ubaldo.
+- character: aris
+  line: no, no, no, no. yo no confío en ubaldo después de lo que me contaste.
+- character: temo
+  line: ¿por qué no confías en ubaldo? ¿qué te contó carlota? ¿por eso has estado tan raro? ¿no confías en mí?
+- character: aris
+  line: perdón, carlota, pero ya no puedo mentirle a temo. [música]
+---
+characters:
+- diego
+- aristoteles
+- ubaldo
+- dora
+- bernardo
+- eduardo
+- elsa
+- soledad
+- amapola
+- mateo
+- nora
+- olegario
+- todos
+- aris
+- ninos
+- temo
+- carlota
+- todo
+- andres

@@ -1,0 +1,18 @@
+project_format_version: '0.1'
+description: >-
+  Character training project for the Doctor from Doctor Who that doesn't
+  recognize the identities of other characters
+---
+scripts_path: brief-scripts.isf/
+characters:
+  - DOCTOR
+  - COMPANION
+character_map:
+  AMY: COMPANION
+model_characters:
+  - DOCTOR
+max_turn_history: 16
+num_distractors: 4
+outputs:
+  train.yaml: 90
+  valid.yaml: 10
