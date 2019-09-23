@@ -36,6 +36,11 @@ void getRender(){
   
   case 4: 
     drawMouseSkull(offscreen);
+    break;
+    
+  case 5:
+    drawTileOnly(offscreen);
+    break;
   }
 }
 

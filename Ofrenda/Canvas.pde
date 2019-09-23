@@ -43,3 +43,11 @@ void drawMouseSkull(PGraphics p){
   cal.draw(p);
   p.endDraw();
 }
+
+
+void drawTileOnly(PGraphics p){
+  p.beginDraw();
+  p.background(0);
+  p.image(testImage, 0, 0,p.width, p.height);
+  p.endDraw();
+}

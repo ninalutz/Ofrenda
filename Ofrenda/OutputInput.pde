@@ -32,6 +32,10 @@ void keyPressed() {
     machineState = 4;
     break;
     
+  case '5':
+    machineState = 5;
+    break;
+    
   case 'f': 
     showFeatures = !showFeatures;
     break;
