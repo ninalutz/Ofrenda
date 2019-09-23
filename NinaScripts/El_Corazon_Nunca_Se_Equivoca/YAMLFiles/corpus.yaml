@@ -1,0 +1,20 @@
+project_format_version: '0.1'
+description: >-
+  Character training project for characters of El Corazón Nunca Se Equivoca
+  Creates a Pancho character that doesn't recognize identities of others
+
+  English Wiki: https://en.wikipedia.org/wiki/El_corazón_nunca_se_equivoca
+---
+scripts_path: brief-scripts.isf/
+characters:
+  - PANCHO
+  - SON
+character_map:
+  TEMO: SON
+model_characters:
+  - PANCHO
+max_turn_history: 16
+num_distractors: 4
+outputs:
+  train.yaml: 90
+  valid.yaml: 10

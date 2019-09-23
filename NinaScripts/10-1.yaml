@@ -1,0 +1,2806 @@
+isf_version: '0.1'
+scriptconv_version: '0.1'
+src: /nfs/science/u/jalonso/DoctorWhoScripts/10-1.htm
+---
+- location: Outside the Lodge
+- direction: A long, silver weather balloon has brought its payload to earth by the
+    edge of a lake, and a man carrying a shotgun finds it. Meanwhile, a Land Rover
+    comes over the bridge at the entrance to the Minsbridge Wild Life Sanctuary and
+    heads for the warden's lodge. A woman comes out to meet it.
+- character: MRS OLLIS
+  line: Doctor Tyler, is it?
+- character: TYLER
+  line: Yeah. Sorry to be a trouble. Thanks very much for calling.
+- character: MRS OLLIS
+  line: Arthur's keeping an eye on it, down by the lake. He hasn't touched it.
+- character: TYLER
+  line: Oh good.
+- character: MRS OLLIS
+  line: It's not chemicals, is it? Only the birds, you see.
+- character: TYLER
+  line: No, you'll be all right. Nothing to worry about.
+- location: Lake side
+- direction: The orange payload is clearly marked with Doctor Tyler's name and contact
+    details at Wessex University, and the word Reward in three languages. As the Land
+    Rover drives round the side of the lake towards Arthur Ollis, the box starts make
+    a crackling sound. There is a flash, and Ollis vanishes. The birds take off from
+    the lake in fright. Tyler arrives and looks around for Ollis.
+- character: TYLER
+  line: Mister Ollis! Mister Ollis?
+- direction: Tyler goes back to his Land Rover and gets on the radio.
+- character: TYLER
+  line: Put me through to UNIT HQ will you, please?
+- location: UNIT Laboratory
+- direction: Jo brings in a tray of drinks.
+- character: TYLER
+  line: So there you are. Mrs Ollis says her husband's down there, I see him wave,
+    get there and there he is, gone. So I got in touch with you lot.
+- character: BRIGADIER
+  line: Well quite right too. That's what we're here for, eh, Doctor?
+- character: DOCTOR
+  line: Yes of course.
+- character: JO
+  line: What exactly is this machine for?
+- character: TYLER
+  line: Cosmic Ray Research, Miss Grant.
+- character: JO
+  line: And you still use balloons?
+- character: TYLER
+  line: That's right. We may not be NASA, but we get the results. Inside that is the
+    most sophisticated Cosmic Ray Monitoring device between here and Cape Kennedy.
+    You see, I was going to get in touch with you people anyway, even before this
+    business.
+- character: BRIGADIER
+  line: Oh? Why was that?
+- character: TYLER
+  line: Can you give me that briefcase, please?
+- character: DOCTOR
+  line: Yes, of course.
+- character: TYLER
+  line: Well, we've been getting some pretty funny results on these latest tests.
+    Now this is the first one you see. Ah, this is normal.
+- direction: Tyler hands the Doctor an x-ray picture.
+- character: TYLER
+  line: Now then, this is why I'm here. Last week's test. Now, look at that.
+- character: DOCTOR
+  line: Thank you. Good grief.
+- direction: The second image is very narrow compared to the first.
+- character: TYLER
+  line: Yeah. Nobody knows what to make of it. Well, they've all seen it. Yanks, and
+    the other lot.
+- character: BRIGADIER
+  line: Oh?
+- character: TYLER
+  line: Now here somewhere, oh yes. Now this is what really put the tin hat on it.
+    From that deep space monitor Houston put up. Just take a look at those readings.
+- direction: Tyler shows a large printout to the Brigadier.
+- character: BRIGADIER
+  line: Er, the Doctor's the
+- character: TYLER
+  line: What?
+- character: BRIGADIER
+  line: The Doctor's the man you
+- character: TYLER
+  line: Oh, I see.
+- character: DOCTOR
+  line: Thank you. Well, it's travelling faster than light.
+- character: TYLER
+  line: Yes. And it can't, can it. I don't know what to make of it. It's come all
+    that way, through millions of star systems. It must have been directed, and it
+    must have been directed at us. Now why?
+- character: DOCTOR
+  line: Why indeed, Professor Tyler, why indeed.
+- character: BRIGADIER
+  line: Thing is, Doctor, is there anything I can do?
+- character: DOCTOR
+  line: Yes. Pass me a silicon rod will you?
+- direction: The rod is passed from the Brigadier to Tyler to Jo to the Doctor, who
+    stirs his drink with it.
+- character: BRIGADIER
+  line: Yes, what I meant was, is there anything that UNIT can do about this space
+    lightning business?
+- character: DOCTOR
+  line: Lightning? Yes, I suppose it could look like lightning, only it isn't. No.
+    If there where such a thing I would say it was compressed light. A sort of controlled
+    superlucent emission.
+- character: BRIGADIER
+  line: A what?
+- character: JO
+  line: He means it travels faster than light.
+- character: BRIGADIER
+  line: Thank you, Miss Grant.
+- character: DOCTOR
+  line: Tell me, Professor, is this machine of yours functioning properly?
+- character: TYLER
+  line: Far as I can tell. Haven't developed that latest plate yet, of course.
+- character: DOCTOR
+  line: Then I suggest that you do so immediately and let me know the result of your
+    findings. Jo, you and I are going to take a look at the scene of the crime.
+- character: JO
+  line: Right.
+- character: DOCTOR
+  line: I think you'll find everything you need here.
+- character: TYLER
+  line: Oh, right. Er, thanks.
+- direction: The Doctor and Jo leave. Tyler takes the x-ray plate from the box and
+    starts using lab equipment.
+- character: TYLER
+  line: Oh, I can manage now, thank you.
+- character: BRIGADIER
+  line: I'm delighted to hear it. Make yourself at home. We're only supposed to be
+    a top secret security establishment. Liberty Hall, Doctor Tyler. Liberty Hall.
+- direction: The Brigadier leaves. Tyler checks his watch then gets the developed
+    image from the machine.
+- character: TYLER
+  line: That shouldn't happen.
+- direction: He puts the image on a light box. It looks like a face contorted in fear.
+- character: TYLER
+  line: That definitely shouldn't happen.
+- direction: Tyler starts dismantling the box, and it begins crackling. There is a
+    flash, and Tyler has vanished. Then some red and blue energy creeps out of the
+    box onto the bench.
+- location: Lake side
+- direction: The Doctor's Geiger counter is rattling away.
+- character: MRS OLLIS
+  line: This here's the place all right.
+- character: JO
+  line: Are you sure, Mrs Ollis?
+- character: MRS OLLIS
+  line: Well, the Land Rover tracks stop here, don't they? I told you, you're too
+    late. The other gentleman's been and gone.
+- character: DOCTOR
+  line: You haven't seen your husband since this morning?
+- character: MRS OLLIS
+  line: No. Nothing unusual in that. Oh, he'll be off somewhere. We shan't see him
+    now until dark. I'll look for him if you like.
+- character: DOCTOR
+  line: No. No, it's not important.
+- character: MRS OLLIS
+  line: Please yourself. I'll be getting on then.
+- direction: Mrs Ollis walks off.
+- character: JO
+  line: It is important, isn't it, Doctor?
+- character: DOCTOR
+  line: Yes, Jo. Yes, it's much more important than I thought.
+- location: UNIT Laboratory
+- character: BRIGADIER
+  line: Doctor Tyler, these reports might interest
+- direction: The Brigadier realises the room is empty.
+- character: BRIGADIER
+  line: Tyler? Doctor Tyler? Sergeant Benton!
+- direction: Benton enters.
+- character: BENTON
+  line: Sir?
+- character: BRIGADIER
+  line: Doctor Tyler appears to be wandering around UNIT Head Quarters. Go and find
+    him and bring him here at once.
+- character: BENTON
+  line: Yes, sir.
+- location: Behind UNIT HQ
+- direction: The top secret HQ is actually well advertised. The notice in front of
+    the Denham Manor clearly states Ministry of Defence U.N.I.T. Headquarters Brigadier
+    Lethbridge Stewart No Unauthorised Entry - without a guard to be seen. The Doctor
+    and Jo drive round the back to the garage area and park up.
+- character: DOCTOR
+  line: Right, let's see what Doctor Tyler's found out about that plate.
+- character: JO
+  line: What's that?
+- direction: A bright red and blue something is coming out of the drain in the middle
+    of the area.
+- character: DOCTOR
+  line: Jo! Back slowly away behind the car. Do as I say!
+- direction: The thing is growing.
+- character: JO
+  line: What is it?
+- character: DOCTOR
+  line: When I tell you to run, you run. Right, run!
+- direction: They run for the shrubbery as there is a flash and Bessie vanishes. The
+    Doctor and Jo peer out from behind a tree.
+- character: JO
+  line: What happened? What is that?
+- character: DOCTOR
+  line: I don't know.
+- direction: The Thing goes back down the drain.
+- character: JO
+  line: Poor old Bessie.
+- character: DOCTOR
+  line: Right, Come on.
+- location: UNIT Laboratory
+- direction: Benton enters.
+- character: BRIGADIER
+  line: Well, where is he?
+- character: BENTON
+  line: Sorry sir, we just couldn't find him. Doctor Tyler has just disappeared. We've
+    searched the grounds and the buildings, sir, and there's no sign of him. Oh, and
+    there was an explosion in the garage, sir.
+- character: BRIGADIER
+  line: Explosion? What explosion? I heard nothing.
+- direction: The Doctor and Jo enter.
+- character: DOCTOR
+  line: No, you wouldn't, Brigadier.
+- character: BENTON
+  line: But there was a flash, Doctor.
+- character: DOCTOR
+  line: A flash, yes, not an explosion. It was a release of kinetic energy.
+- character: BRIGADIER
+  line: One of Bessie's gadgets misfire?
+- character: JO
+  line: It's far more serious than that, Brigadier.
+- character: BRIGADIER
+  line: You'd better check, Benton.
+- character: BENTON
+  line: Right, sir.
+- character: DOCTOR
+  line: No. I shouldn't go anywhere near it. Not just at the moment.
+- character: BENTON
+  line: What shall I do, sir?
+- character: DOCTOR
+  line: I suggest that you put a guard on the drains, Benton.
+- character: BENTON
+  line: The drains?
+- character: DOCTOR
+  line: Yes, the drains!
+- character: BRIGADIER
+  line: Put the men on stand by, Benton.
+- character: BENTON
+  line: Right away, sir.
+- direction: Benton leaves.
+- character: DOCTOR
+  line: All right, Brigadier. Now then, what's the situation as you see it?
+- character: BRIGADIER
+  line: Well, I've just had a call from Mrs Ollis. Her husband hasn't returned.
+- character: JO
+  line: Oh, no.
+- character: DOCTOR
+  line: Yes, I was rather afraid that might happen.
+- character: BRIGADIER
+  line: We're cooperating with the local Police, but we have got fifteen hundred acres
+    to cover.
+- character: DOCTOR
+  line: Well, I shouldn't bother going on looking for him, Brigadier. I think you'll
+    find that that's Mister Ollis.
+- direction: The Doctor shows the Brigadier the new image.
+- character: BRIGADIER
+  line: Is this the plate that Tyler was developing when we left?
+- character: DOCTOR
+  line: Yes, that's right.
+- character: BRIGADIER
+  line: When I came back with these satellite reports, Tyler had disappeared and this
+    box was open as it is now.
+- character: DOCTOR
+  line: Nothing's been moved?
+- character: BRIGADIER
+  line: Nothing.
+- character: DOCTOR
+  line: Excuse me a minute, will you?
+- character: BRIGADIER
+  line: Hmm.
+- direction: The Brigadier and Jo stand back as the Doctor waves his Geiger counter
+    over the box. Background only until he gets to the sink and plug hole.
+- character: DOCTOR
+  line: All right, Brigadier, go on.
+- character: BRIGADIER
+  line: These are tracking reports and assessments from just about every country in
+    the world.
+- character: DOCTOR
+  line: Thank you. It looks as if Tyler was right. That light beam or whatever it
+    is, seems to have scanned the Earth like a searchlight and picked on us.
+- character: BRIGADIER
+  line: Since UNIT is now in charge of this investigation, Doctor, it would help if
+    you were a little more forthcoming.
+- character: JO
+  line: Tell him about Bessie, Doctor.
+- character: DOCTOR
+  line: Huh? Oh, yes. Well, Brigadier, now Bessie has disappeared.
+- character: BRIGADIER
+  line: What?
+- character: JO
+  line: But it was after us.
+- character: BRIGADIER
+  line: Yes, but what was after you?
+- character: DOCTOR
+  line: Well, some kind of powerful organism thing with a very strong hunting instinct.
+- character: JO
+  line: It was hunting you, wasn't it, Doctor?
+- character: DOCTOR
+  line: Yes. Yes, I'm afraid so.
+- character: BRIGADIER
+  line: Are you trying to tell me that this whole thing has been arranged just for
+    your benefit?
+- character: JO
+  line: Oh yes, that's right. You see that stuff simply ignored me as soon as it saw
+    the Doctor.
+- character: BRIGADIER
+  line: What about this chap Ollis?
+- character: DOCTOR
+  line: Oh, I don't know. Well, perhaps this thing was confused, or its instructions
+    weren't getting through.
+- character: BRIGADIER
+  line: And Tyler?
+- character: DOCTOR
+  line: Tyler? Yeah. Yes, that was its second mistake, here in this laboratory where
+    I usually work. And its third mistake was Bessie.
+- character: JO
+  line: And you were in Bessie.
+- character: DOCTOR
+  line: Yes.
+- character: BRIGADIER
+  line: And you think there's a link between the beam and this, this organism thing.
+- character: DOCTOR
+  line: Yes, I do. I think that that beam was the method it used to get here.
+- character: BRIGADIER
+  line: Well, now it's arrived, and it's hostile, and it's still here, so what do
+    we do and how do we find it?
+- character: DOCTOR
+  line: We don't find it, Brigadier. If we wait around here long enough, it'll find
+    us.
+- location: Outside UNIT HQ
+- direction: Three strange objects appear out of nowhere, looking like snowmen made
+    of red balls. Apparently these are called Gel guards.
+- character: GUARD
+  line: Holy Moses! What's that?
+- direction: The objects advance, growling.
+- character: GUARD
+  line: Get Sergeant Benton, quick!
+- direction: The second soldier runs inside. Meanwhile, more of the objects appear
+    in the woodland around the buildings.
+- character: BENTON
+  line: How many of them?
+- character: GUARD
+  line: I'm not sure, Sarge. They seem to be springing out all over the place.
+- character: BENTON
+  line: Right. You hold them off here, and I'll cover the back. Right, you men come
+    with me. Hurry.
+- direction: Two soldiers stay with the guard.
+- character: GUARD
+  line: Fire at will!
+- direction: Bullets have no effect. One object raises a claw-like hand and fires.
+    There's a big bang and just two soldiers retreat.
+- location: UNIT Laboratory
+- direction: Watching from the window.
+- character: BRIGADIER
+  line: What are those creatures? Where are they coming from?
+- character: DOCTOR
+  line: Obviously from the same source as that organism thing. First the scout, then
+    the reinforcements.
+- character: BRIGADIER
+  line: Their grasp of military tactics is very good.
+- character: JO
+  line: Well, let's hope Sergeant Benton's are even better.
+- location: Outside UNIT HQ
+- direction: More Gels are popping into existence on the lawns. A machine gun is brought
+    out and set up.
+- character: BENTON
+  line: Hurry, men, and keep your heads down.
+- direction: The machine guns is soon destroyed. By a handy signpost to the Laboratory
+    and Stores, one of Benton's men fires a bazooka which seems to stop one.
+- character: BENTON
+  line: Great shot, Johnson.
+- direction: But it keeps coming. Benson reports in.
+- character: BENTON
+  line: Brigadier, do you read me? Over.
+- character: BRIGADIER
+  direction: OC
+  line: What's the situation, Benton? Over.
+- character: BENTON
+  line: We're under attack from all sides. Weapons are useless. Nothing seems to touch
+    them. Nothing. Over.
+- location: UNIT Laboratory
+- character: BRIGADIER
+  line: Get the men out, Benton. Complete evacuation, then report to me in the laboratory.
+    Is that clear? Over.
+- character: BENTON
+  direction: OC
+  line: Okay, lads, fall back! Complete evacuation. I want everyone out of the building.
+    Everybody. Now, move.
+- character: BRIGADIER
+  line: I'd better see what's happening. You stay here, Doctor.
+- character: DOCTOR
+  line: Not much point in my going anywhere else is there?
+- direction: The Brigadier leaves, and the Thing comes out of a vent in the corridor.
+- character: DOCTOR
+  line: I think you ought to get out of here too, Jo.
+- character: JO
+  line: Not a chance. I'm staying right here with you.
+- character: DOCTOR
+  line: Now please, Jo, do as I ask. They won't harm you. You ignore them, they'll
+    ignore you. I'm the one they're after.
+- character: JO
+  line: Well, I'll just have to risk it, won't I?
+- direction: Benton climbs in through the window.
+- character: BENTON
+  line: Right, Jo, Doctor, have you seen the Brigadier?
+- character: DOCTOR
+  line: Sergeant Benton. Just the man I wanted to see. Will you please take Miss Grant
+    with you? Even if you have to carry her.
+- character: BENTON
+  line: I'm sorry, Doc, my orders were to report to the Brigadier.
+- character: DOCTOR
+  line: Your orders, Sergeant
+- direction: There is a flash, and the doors and part of the wall vanish.
+- character: DOCTOR
+  line: Into the Tardis, quickly!
+- location: Tardis
+- direction: This is Benton's first time, so he looks around as the doors close.
+- character: DOCTOR
+  line: Right, force field on.
+- direction: The Thing zaps the laboratory bench.
+- character: JO
+  line: You were going off without me, weren't you?
+- character: DOCTOR
+  line: Well, Sergeant, aren't you going to say it that it's bigger on the inside
+    than it is on the outside. Everybody else does.
+- character: BENTON
+  line: It's pretty obvious, isn't it? Anyway, nothing to do with you surprises me
+    anymore, Doctor.
+- character: DOCTOR
+  line: Oh, thank you for the complement.
+- direction: The Doctor pulls a lever but there is only a thudddd sound. He tries
+    again.
+- character: DOCTOR
+  line: It's not reacting. There's only one thing for it. I'll have to send an SOS.
+    I hate having to call them, but, there we are.
+- character: JO
+  line: What were you planning to do, anyhow?
+- character: DOCTOR
+  line: I was planning to lure that stuff away from Earth, Jo, but now as it seems
+    to have immobilised the Tardis, I'm not going anywhere. We're trapped.
+- character: JO
+  line: So what are we going to do?
+- character: DOCTOR
+  line: At least we can watch that thing in comfort, and then we can send in a report
+    and see what they have to say about it.
+- character: BENTON
+  line: Who are they?
+- character: JO
+  line: The Time Lords. Oh, things are pretty serious.
+- character: DOCTOR
+  line: Yes, they are.
+- direction: The scanner flickers into life. and the Extreme Emergency red light flashes.
+- location: Time control
+- direction: On a planet far away in time and space.
+- character: PRESIDENT
+  line: Is the Doctor holding out?
+- character: TIME LORD
+  line: We are giving his Tardis all the energy we can spare.
+- character: PRESIDENT
+  line: And the hostile?
+- character: TIME LORD
+  line: Unidentified so far, my lord.
+- character: CHANCELLOR
+  line: And the source of this beam?
+- direction: The Time Lord brings it up on his wall screen.
+- character: PRESIDENT
+  line: You see, Chancellor? The black hole.
+- character: CHANCELLOR
+  line: That's a nowhere, no place, a void. According to all known laws, nothing can
+    exist there.
+- character: PRESIDENT
+  line: Yet somehow, through this black hole, vital cosmic energy is draining away
+    in spite of all we can do to check it.
+- character: CHANCELLOR
+  line: Already the time travel facility is in danger, my lord.
+- character: PRESIDENT
+  line: Without it, we shall be helpless. Unless the energy loss is stopped the whole
+    fabric of space time will be destroyed. We are being consumed and we can find
+    no way to fight back.
+- character: CHANCELLOR
+  line: Are you telling me we are up against an adversary, a force, equal to our own?
+- character: PRESIDENT
+  line: Equal and opposite to our own.
+- character: CHANCELLOR
+  line: A force which inhabits a universe where by definition even we cannot exist?
+- character: PRESIDENT
+  line: Yes. A force in the universe of antimatter.
+- character: CHANCELLOR
+  line: But that's too terrible to contemplate. Someone must go and help the Doctor.
+- character: PRESIDENT
+  line: I agree, but no one can be spared, your Excellency. Everyone is needed to
+    combat the energy drain.
+- character: CHANCELLOR
+  line: Are you saying we can't help him?
+- character: PRESIDENT
+  line: Yes, I am, but perhaps he can help himself. Show me the Doctor's time stream,
+    the section for his earlier self before he changed his form.
+- character: CHANCELLOR
+  line: You can't allow him to cross his own time stream. Apart from the enormous
+    energy it would need, the First Law of Time expressly forbids him to meet his
+    other selves.
+- character: PRESIDENT
+  line: I am aware of that, your Excellency, but this is an emergency.
+- character: CHANCELLOR
+  line: But you can't!
+- character: PRESIDENT
+  line: Your Excellency, I have to.
+- character: CHANCELLOR
+  line: Be it on your own head.
+- direction: The Chancellor leaves.
+- character: PRESIDENT
+  line: Now, show me.
+- direction: The image on the screen changes to Patrick Troughton running from something,
+    as usual.
+- location: Tardis
+- direction: There is a materialisation sound, but the time rotor is still.
+- character: DOCTOR
+  line: That's odd. Nobody touched anything did they?
+- character: DOCTOR
+  line: But you heard it though, didn't you?
+- character: JO
+  line: Yes, and felt it too. Could it be that stuff outside?
+- character: DOCTOR
+  line: No, I don't think so. Hello, what's this?
+- direction: There is a descant recorder on the console. He picks it up.
+- character: DOCTOR
+  line: It seems strangely familiar. Is it yours, Jo?
+- character: JO
+  line: A flute? No.
+- character: DOCTOR
+  line: Well, properly speaking it's a recorder.
+- character: DOCTOR 2
+  line: Thank you.
+- direction: First of all Patrick's hand takes the recorder then the rest of him appears.
+    Jo gasps.
+- character: DOCTOR 2
+  line: I was wondering where that had got too.
+- direction: He blows a few notes.
+- character: DOCTOR 2
+  line: You haven't been trying to play this have you? Oh. I can see you've been doing
+    the Tardis up a bit. Hmm. I don't like it.
+- direction: He looks at the scanner.
+- character: DOCTOR 2
+  line: Oh my word.
+- direction: The Thing is wrecking the laboratory.
+- character: DOCTOR 2
+  line: Oh dear, we are in trouble, aren't we. Just as well I turned up.
+- character: JO
+  line: Doctor, who on earth
+- character: BENTON
+  line: Doctor! Where did you spring from?
+- character: DOCTOR 2
+  line: Now don't tell me. Corporal Benton, isn't it?
+- character: BENTON
+  line: Sergeant Benton now.
+- character: DOCTOR 2
+  line: How do you do, my dear fellow.
+- character: BENTON
+  line: Nice to see you.
+- character: DOCTOR 2
+  line: I haven't seen you since that nasty business with the Cybermen.
+- character: BENTON
+  line: It happened all those years ago.
+- character: JO
+  line: Who is he and how did he get in here.
+- character: DOCTOR
+  line: Well it's a bit difficult to explain, Jo.
+- character: JO
+  line: He's not one of them, is he?
+- character: DOCTOR
+  line: Well, not so much one of them as one of us. One of me to be precise.
+- character: DOCTOR 2
+  line: Oh no, no, no, no. I'm sorry, my dear, I hate to be contrary but I can see
+    he's a little bit confused, poor old chap, and I do feel you should have the correct
+    explanation. You don't mind, do you.
+- character: DOCTOR
+  line: Yes.
+- character: DOCTOR 2
+  line: I didn't think you would. You see, Jo. I may call you Jo, mayn't I? You see,
+    he is one of me.
+- character: JO
+  line: Oh, I see. You're both Time Lords.
+- character: DOCTOR 2
+  line: Well quite. Well, not quite.
+- character: JO
+  line: Oh.
+- character: DOCTOR 2
+  line: Not, not just Time Lords. We're the same Time Lord.
+- character: DOCTOR
+  line: Now please, you're only confusing my assistant. Jo, it's all quite simple.
+    I am he and he is me.
+- character: JO
+  line: '"And we are all together, goo goo ga joob?"'
+- character: DOCTORS
+  line: What?
+- character: DOCTOR 2
+  line: Oh, how does it go?
+- character: DOCTOR
+  line: Oh, please be quiet.
+- character: JO
+  line: Look, is he really you?
+- character: DOCTOR
+  line: Yes, yes, I'm afraid so.
+- character: BENTON
+  line: I think he is Miss Grant. You see, when the Brig and I first met the Doctor,
+    he looked like him.
+- character: JO
+  line: How?
+- character: DOCTOR
+  line: Yes, that's what I'd like to know. You've got no right to be here.
+- character: DOCTOR 2
+  line: Perhaps
+- character: DOCTOR
+  line: What about the First Law of Time?
+- character: DOCTOR 2
+  line: Perhaps I could explain?
+- character: DOCTOR
+  line: Perhaps you could.
+- character: DOCTOR 2
+  line: Well, our fellow Time Lords out there are just as much under siege as we are.
+- character: DOCTOR
+  line: What?
+- character: DOCTOR 2
+  line: And they couldn't send anyone to help you. But they did summon up enough temporal
+    energy to lift me out of my bit of our time stream and pop me down here, into
+    my own future, so to speak.
+- character: DOCTOR
+  line: Why?
+- character: DOCTOR 2
+  line: My dear fellow, you are being a bit dim, aren't you? Your effectiveness is
+    now doubled!
+- character: DOCTOR
+  line: Halved, more like.
+- character: DOCTOR 2
+  line: Now, now. There's no need to be ungracious. Suppose we have a look at our
+    problem, shall we? Er, you don't mind, do you?
+- character: DOCTOR
+  line: Oh, be my guest.
+- character: DOCTOR 2
+  line: Oh, thank you.
+- location: Outside the Laboratory
+- character: SOLDIER
+  line: Good grief, sir. What's that?
+- character: BRIGADIER
+  line: Don't just stand there, man. Open fire!
+- direction: He does. There is a flash and the water dispenser in the corridor next
+    to them vanishes.
+- character: SOLDIER
+  line: Sir!
+- character: BRIGADIER
+  line: Fall back!
+- location: Tardis
+- character: DOCTOR 2
+  line: Dear old Lethbridge Stewart. Still blazing away as usual.
+- character: BENTON
+  line: Can't we do something to help them, Doctor?
+- character: DOCTOR
+  line: They'll be all right as long as they keep out of its way. Right, now you can
+    see our problem, can't you.
+- character: DOCTOR 2
+  line: Yes. Most unpleasant. They are very worried, you know.
+- character: DOCTOR
+  line: Yes, and so am I. I think perhaps I ought to put you in the picture.
+- character: DOCTOR 2
+  line: Right.
+- direction: The two Doctors stand side by side and close their eyes.
+- character: DOCTOR
+  line: Contact.
+- character: DOCTOR 2
+  line: Contact.
+- direction: After a few moments they open their eyes again.
+- character: DOCTOR 2
+  line: I see. So it's after you, or should I say us?
+- character: DOCTOR
+  line: That's right. And as they can't help us, we'll just have to help ourselves.
+- character: DOCTOR 2
+  line: Twinkle, twinkle little star.
+- direction: And starts to play it on the recorder.
+- character: BENTON
+  line: Now what was all that about?
+- character: JO
+  line: A sort of telepathic conference, I think.
+- character: DOCTOR
+  line: Must you?
+- character: DOCTOR 2
+  line: Are we going to take this attitude to my music all the time?
+- character: DOCTOR
+  line: Yes, I'm rather afraid we are.
+- character: JO
+  line: Oh dear.
+- location: Time Control
+- direction: The Time Lords are watching the scene in the Tardis.
+- character: TIME LORD
+  line: We've achieved a transference, sir.
+- character: PRESIDENT
+  line: Splendid.
+- character: TIME LORD
+  line: But I don't think it's going to work.
+- character: PRESIDENT
+  line: Why, what's wrong?
+- character: TIME LORD
+  line: They refuse to co-operate.
+- character: PRESIDENT
+  line: I see. Well, we'll soon settle that. Show me the earliest Doctor.
+- character: TIME LORD
+  line: Him too, sir? But surely
+- character: PRESIDENT
+  line: Show me.
+- direction: William Hartnell is in a garden.
+- character: PRESIDENT
+  line: He'll keep them in order.
+- location: Tardis
+- character: DOCTOR 2
+  line: Well, you've been fiddling with it, haven't you?
+- character: DOCTOR
+  line: It was perfectly all right until you touched it. Now if only you'd leave things
+    to me.
+- character: DOCTOR 2
+  line: If we were to leave things with you, my dear fellow, we'd be in a fine pickle,
+    wouldn't we.
+- character: DOCTOR
+  line: Look, you lost the image, not me.
+- character: BENTON
+  line: There they go again.
+- character: DOCTOR 2
+  line: I did not loose the image!
+- character: DOCTOR
+  line: I set this thing up
+- character: JO
+  line: Doctor, look. Both of you!
+- character: DOCTOR
+  line: What?
+- character: JO
+  line: Look.
+- direction: The scanner shows William inside a pyramid shape. He was too ill to act,
+    bless him.
+- character: DOCTOR 1
+  line: '[on scanner] Ah, there you are. I seem to be stuck up here. Hmm? Hmm? Oh,
+    so you''re my replacements. Huh. A dandy and a clown. Have you done anything?'
+- character: DOCTOR 2
+  line: Well, we've, er, assessed the situation.
+- character: DOCTOR
+  line: Well it's not easy, you know.
+- character: DOCTOR 2
+  line: It's not as if we know what that stuff is.
+- character: DOCTOR
+  line: No.
+- character: DOCTOR 2
+  line: It's a what?
+- character: DOCTOR
+  line: I see.
+- character: DOCTOR 2
+  line: Well, er
+- character: DOCTOR
+  line: Crossing?
+- direction: The image fades.
+- character: DOCTOR 2
+  line: No! No wait!
+- character: DOCTOR
+  line: You faded him again.
+- character: DOCTOR 2
+  line: I did not fade him. You saw
+- character: DOCTOR
+  line: Yes, you certainly did.
+- character: JO
+  line: I hate to ask, but who was that?&nbsp;
+- character: DOCTORS
+  line: Me. Me!
+- direction: Patrick takes a coin from his pocket.
+- character: DOCTOR 2
+  line: Call, will you?
+- character: DOCTOR
+  line: Heads.
+- direction: Patrick tosses the coin, catches it and looks at it then puts it back
+    in his pocket without letting Jon see it.
+- character: DOCTOR 2
+  line: Hard luck.
+- character: DOCTOR
+  line: All right. Stand by to disconnect the force field.
+- character: BENTON
+  line: What are you going to do?
+- character: DOCTOR
+  line: Now!
+- character: JO
+  line: Doctor, no!
+- location: UNIT Laboratory
+- direction: The Doctor runs out of the Tardis into the lab, followed by Jo.
+- character: DOCTOR
+  line: Jo, get back!
+- direction: There is a flash of light and they both vanish.
+- location: Tardis
+- direction: Benton runs to the door.
+- character: DOCTOR 2
+  line: Steady now, Sergeant. He knows what he's doing. At least I hope he does.
+- character: BENTON
+  line: Yes, but what about Jo?
+- character: DOCTOR 2
+  line: Yes, it's a pity she ran after him like that. Let's have a look, shall we?
+- character: BENTON
+  line: Will they be all right?
+- direction: The scanner image shows the Tardis in the corner of the lab, and the
+    massive red and blue Thing pulsing nearby.
+- character: BENTON
+  line: Well, where are they? Doctor!
+- character: DOCTOR 2
+  line: As far as I can see, that stuff's gone to a great deal of trouble to find
+    me, er, him, so whoever or whatever it was that sent it can't merely want to kill
+    him. No, no, they've been transported somewhere.
+- character: BENTON
+  line: Transported? What do you mean, transported? Transported to where?
+- character: DOCTOR 2
+  line: No, wait a minute. Do you know, Sergeant, I think our friend has gone off
+    the boil, so to speak.
+- character: BENTON
+  line: Right then. Now I'm going to take this chance to blow it to bits. I'll get
+    a grenade. We'll soon see
+- character: DOCTOR 2
+  line: No, I think we could try a more subtle approach. Let's turn off the force
+    field and open the doors first, shall we?
+- character: BENTON
+  line: Right.
+- character: DOCTOR 2
+  line: Wait a minute. Let me go first.
+- location: UNIT Laboratory
+- direction: They step out carefully, Benton with his sub-machine gun at the ready.
+- character: DOCTOR 2
+  line: Hmm. Awaiting further instructions, I would think.
+- direction: The Thing suddenly crackles and they dash back into the Tardis. It settles
+    down again and they come out again.
+- character: BENTON
+  line: You're not going near that thing, Doctor, are you?
+- character: DOCTOR 2
+  line: It's all right. I think it was just hiccups. Fascinating.
+- direction: The Thing crackles again.
+- character: BRIGADIER
+  line: For heaven's sake be careful, Doctor!
+- location: Outside the UNIT Laboratory
+- direction: Patrick and Benton go into the corridor through the remains of the wall.
+- character: DOCTOR 2
+  line: No, no, Brigadier. Leave it alone. It's not dangerous for the moment. It seems
+    to think it's achieved its mission.
+- character: BRIGADIER
+  line: Oh, no.
+- character: DOCTOR 2
+  line: Oh, yes.
+- character: BRIGADIER
+  line: Yes, but you're not the
+- character: BENTON
+  line: Yes, it is, sir. It's the first one.
+- character: DOCTOR 2
+  line: How are you, Brigadier?
+- character: BRIGADIER
+  line: Pretty well, thanks. Doctor, what the blazes are you doing? Why have you changed
+    your appearance? And what's happened to Miss Grant?
+- direction: The Doctor and Jo have just appeared, lying on their sides, on some dirty
+    rocky ground somewhere.
+- character: DOCTOR 2
+  line: There you are. It's all quite simple really.
+- character: BRIGADIER
+  line: Yes, well, I'm sorry. Well, I don't believe a word of it. Look, just tell
+    me this. Are you or are you not the Doctor that I met during the Yeti business,
+    and then later when the Cybermen invaded?
+- character: DOCTOR 2
+  line: Of course I am. You can see that.
+- character: BRIGADIER
+  line: Right. But then you subsequently appeared on Earth during that trouble with
+    the Autons, only then you'd changed into a tall, thin fellow.
+- character: DOCTOR 2
+  line: Had I really? How fascinating.
+- character: BRIGADIER
+  line: Doctor, I warn you.
+- character: DOCTOR 2
+  line: It's no use your asking me about all this, Brigadier. As far as I'm concerned,
+    it hasn't happened yet. Don't you see? I'm just a temporal anomaly.
+- character: BRIGADIER
+  line: It's quite obvious to me what's happened. You've been mucking around with
+    that infernal machine of yours.
+- character: BENTON
+  line: Be careful, sir.
+- character: BRIGADIER
+  line: You've been mucking around with that infernal machine of yours, and somehow
+    or other you've changed back your appearance and shot poor Miss Grant off to heaven
+    knows where.
+- character: BENTON
+  line: It's not quite as simple as that, sir, honestly.
+- character: BRIGADIER
+  line: Now that'll do, Benton. Just two things I want from you, Doctor. An effective
+    way of controlling that stuff and the safe return of Miss Grant.
+- character: BENTON
+  line: What about our Doctor, sir? Don't you want him back?
+- character: BRIGADIER
+  line: Enough of that nonsense, Benton. I've got him back. As long as he does the
+    job, he can wear what face he likes.
+- character: DOCTOR 2
+  line: Well, I'll do my best, but I can't make any promises.
+- character: BRIGADIER
+  line: In that case, you'd better consult those all-powerful superiors of yours for
+    their advice.
+- character: DOCTOR 2
+  line: Oh, I don't think that'd do any good. At the moment they're far from being
+    all-powerful. That's why it's been left up to me and me and me.
+- location: Time Control
+- character: CHANCELLOR
+  line: What's happening?
+- character: TIME LORD
+  line: It's draining our power as fast as we pump it in, sir.
+- character: CHANCELLOR
+  line: Yet you continue to waste the power we so urgently need. What is more, by
+    permitting the Doctor to meet his other selves, you have transgressed the first
+    and most important law of time.
+- character: TIME LORD
+  line: I know that, your Excellency, but this is an emergency.
+- character: CHANCELLOR
+  line: No emergency can justify this transgression. This operation must stop immediately.
+- character: PRESIDENT
+  line: On the contrary, it must continue. The Doctor is our only hope. There is no
+    one else.
+- character: CHANCELLOR
+  line: I could wish for more hope than that.
+- character: PRESIDENT
+  line: Your Excellency, you have said yourself we are dealing with a threat from
+    an area over which even we have no control. A black hole in space. The universe
+    of antimatter. Unknown forces at least equal and opposite to our own.
+- character: CHANCELLOR
+  line: But the first law of time must be obeyed!
+- character: PRESIDENT
+  line: It will be obeyed, later. For the moment the Doctor needs all the help he
+    can get. We can't stop now. Transporting his other selves across the time stream
+    has already utilised more energy than we can afford.
+- character: CHANCELLOR
+  line: Criminal irresponsibility.
+- character: PRESIDENT
+  line: They have only a limited time together, and if they do not succeed we shall
+    lose our time travel facility and become as vulnerable as those we are pledged
+    to protect.
+- character: CHANCELLOR
+  line: You would do better to husband your resources, not throw them away on what
+    is no more than a dangerous gamble.
+- character: PRESIDENT
+  line: I am prepared to take that risk.
+- character: CHANCELLOR
+  line: I understand your attempt to transport yet one more Doctor has met with only
+    limited success.
+- character: PRESIDENT
+  line: His transportation unit became trapped in a time eddy. At the moment he can
+    do no more than advise, but the second Doctor is assisting UNIT to help with matters
+    on Earth.
+- character: CHANCELLOR
+  line: I see. And the other?
+- character: PRESIDENT
+  line: He, together with his companion, has passed into the black hole. They are
+    over the absolute event horizon.
+- character: CHANCELLOR
+  line: Theoretically, they're dead.
+- location: Planet surface
+- character: DOCTOR
+  line: Jo? Jo? Can you hear me? Jo, wake up.
+- character: JO
+  line: Where are we? Everything seems so strange.
+- character: DOCTOR
+  line: Are you all right?
+- character: JO
+  line: We're not?
+- character: DOCTOR
+  line: Jo.
+- character: JO
+  line: We are, aren't we. We're dead.
+- character: DOCTOR
+  line: This is a place. It's just like any other place. Well, almost. We've been
+    brought here. Anyway, it's not much like heaven, is it. Come on, let's go and
+    take a look around.
+- direction: They start walking through the quarry, watched by one of the Gels.
+- location: Outside the Laboratory
+- character: DOCTOR 2
+  line: So wherever they are, Miss Grant and my other self, we can't contact them.
+    That's the problem with antimatter. You can see the effect but never the cause.
+    It's like being punched on the nose by the invisible man.
+- character: BRIGADIER
+  line: Then what's this stuff?
+- character: DOCTOR 2
+  line: The invisible man. Antimatter.
+- character: BRIGADIER
+  line: But I thought you said that matter and antimatter couldn't meet without an
+    explosion.
+- character: DOCTOR 2
+  line: Yes, that's right.
+- character: BRIGADIER
+  line: So, it shouldn't exist here, but it does.
+- character: DOCTOR 2
+  line: Yes. Awkward, isn't it? As far as I can see, there's only one explanation.
+- character: BRIGADIER
+  line: Yes?
+- character: DOCTOR 2
+  line: Well, this stuff, or whoever sent it, is cleverer than we are. Unfortunate,
+    isn't it.
+- character: BRIGADIER
+  line: And there's nothing that even you can do?
+- character: DOCTOR 2
+  line: Oh, I wouldn't say that. We can make sure it stays harmless for a start.
+- character: BRIGADIER
+  line: Oh, that's a relief. Look, can I leave you to get on with that? Those other
+    things are still outside there. I must contact Geneva.
+- direction: The Brigadier leaves. Patrick searches through all his pockets.
+- character: BENTON
+  line: Doc, I think the strain's been a bit too much for him. What are we going to
+    do now?
+- character: DOCTOR 2
+  line: Keep it confused. Feed it with useless information. I wonder if I have a television
+    set handy.
+- location: Planet surface
+- direction: The Doctor and Jo come across the water dispenser and a computer unit.
+- character: DOCTOR
+  line: That's odd.
+- character: JO
+  line: Hey, surely that's the water cooler from outside the lab.
+- character: DOCTOR
+  line: Yes.
+- character: JO
+  line: And what's this?
+- character: DOCTOR
+  line: Well, that's the Brigadier's computer.
+- character: JO
+  line: Oh.
+- character: DOCTOR
+  line: Look, this is the lab door.
+- character: JO
+  line: It's locked.
+- character: DOCTOR
+  line: Well, it says No Admittance.
+- direction: They walk past the coat hanger to the workbench with the weather balloon
+    box on it.
+- character: DOCTOR
+  line: Yes. Well, we both know what that is, don't we?
+- character: JO
+  line: Sure do.
+- character: DOCTOR
+  line: Er, Jo, do you see what I see?
+- character: JO
+  line: Oh, yes!
+- character: DOCTOR
+  line: That clinches it. We have been transported, and so has all this stuff. Come
+    on.
+- direction: They walk down a slope and get into Bessie.
+- character: DOCTOR
+  line: Right. All we've got to do is find out where we are and who brought us here.
+- character: JO
+  line: Right, come on then.
+- character: DOCTOR
+  line: Where to?
+- character: JO
+  line: Twice round the park?
+- character: DOCTOR
+  line: Right.
+- character: JO
+  line: Right.
+- direction: And off they drive, watched of course. Bessie stops further on and they
+    get out to look at a set of boot prints in the chalk.
+- character: DOCTOR
+  line: Man Friday, would you believe?
+- character: JO
+  line: At the moment, I'd believe anything.
+- character: DOCTOR
+  line: Come on.
+- direction: They set off to follow the prints, and Arthur Ollis peers over a ridge.
+- location: UNIT Laboratory
+- direction: Patrick has set up a large dish on a stand attached to a transformer
+    while the Thing crackles gently in the corner.
+- character: DOCTOR 2
+  line: It's quite like old time, eh, Sergeant?
+- character: BENTON
+  line: Yes, it is, isn't it. Is it ready yet?
+- character: DOCTOR 2
+  line: Hmm? Oh, nearly ready for testing.
+- character: BENTON
+  line: Look, Doc, why don't we give this great big blancmange the full treatment
+    now?
+- character: DOCTOR 2
+  line: Now steady on, Sergeant.
+- direction: The Brigadier enters.
+- character: BRIGADIER
+  line: Right, come on, Doctor. Security Council want an explanation and I'm leaving
+    it all up to you.
+- character: DOCTOR 2
+  line: Oh, no.
+- character: BRIGADIER
+  line: They're on video in my office.
+- character: DOCTOR 2
+  line: But won't they think it strange? I mean, me?
+- character: BRIGADIER
+  line: I've explained all that. You're his assistant.
+- character: DOCTOR 2
+  line: His what!
+- character: BRIGADIER
+  line: I decided the truth was too much for them. Assistant it will have to be. Well?
+- character: DOCTOR 2
+  line: Well, I've just set this thing up! Now I won't be able to confuse it!
+- character: BRIGADIER
+  line: No doubt. It seems to be your forte, Doctor, confusing people. You're sure
+    that thing's all right?
+- character: DOCTOR 2
+  line: Yes, as quiet as a lamb. We've got it thoroughly subdued, haven't we, Sergeant.
+- character: BENTON
+  line: We haven't tested it.
+- character: BRIGADIER
+  line: All right then, Benton, you'd better keep an eye on it.
+- character: BENTON
+  line: Me, sir?
+- character: BRIGADIER
+  line: Yes, you.
+- character: DOCTOR 2
+  line: Oh, very well. Here you are, Sergeant, you'll need this. Now if it gives the
+    slightest trouble, a little dose of that will settle it.
+- direction: Patrick hands over a control pad with a red button.
+- character: BENTON
+  line: Yes, but say that doesn't work, Doctor?
+- character: DOCTOR 2
+  line: Then give it the lot! Come on, Brigadier.
+- direction: Patrick and the Brigadier leave. Benton hangs the control on the dish
+    and unwraps some chewing gum.
+- character: BENTON
+  line: Now you're not going to give me any trouble, are you, okay?
+- direction: The Thing starts crackling and Benton picks up the control. He gives
+    it a short burst of a crackle from the dish, then a second. It has no effect.
+- character: BENTON
+  line: Doctor? Doctor, are you there?
+- direction: Benton turns the machine on full.
+- character: BENTON
+  line: Doctor! Doctor! Doctor!
+- direction: Patrick runs round the corner followed by the Brigadier.
+- character: DOCTOR 2
+  line: What is it? Oh!
+- character: BRIGADIER
+  line: Benton, what have you done?
+- character: BENTON
+  line: I did what the Doctor told me, sir, but it wouldn't work. It's gone mad.
+- character: DOCTOR 2
+  line: Into the Tardis, quickly! Come on, Brigadier!
+- direction: The doors close just before the big flash.
+- location: Tardis
+- character: DOCTOR 2
+  line: Yes, it's quite cozy, isn't it? Oh, you'll soon get used to it, old chap.
+    Relative dimensions and all that.
+- character: BRIGADIER
+  line: So this is what you've been doing with UNIT funds and equipment all this time.
+    How's it done? Some sort of optical illusion?
+- character: DOCTOR 2
+  line: Oh, no, no, no. They come like this. Really.
+- character: BRIGADIER
+  line: Yeah.
+- character: BENTON
+  line: Hey, Doc, it's going berserk out there.
+- direction: Lots of flashes on the scanner.
+- character: DOCTOR 2
+  line: Yes, it is, isn't it.
+- character: BRIGADIER
+  line: All right, now we're in here, what do we do?
+- character: DOCTOR 2
+  line: Oh, we have a think. Care for a jelly baby?
+- location: Planet surface
+- direction: Someone is been writing equations in the chalk.
+- character: TYLER
+  line: E equals MC squared. There's no doubt about that. But if you equate gravitation
+    with acceleration, I must have travelled faster than the speed of light. That's
+    impossible. By definition, the light here must be travelling backwards, but I
+    can still see.
+- character: JO
+  line: Who's that?
+- character: DOCTOR
+  line: It's Doctor Tyler. Doctor Tyler!
+- character: TYLER
+  line: Huh? Why, it's the Doctor, isn't it? And Miss Grant.
+- character: JO
+  line: How did you get here?
+- character: TYLER
+  line: Well, I was in your lab, developing that plate, and there was some kind of
+    an explosion and here I am. Oh, it's fascinating.
+- character: JO
+  line: Do you know where we are, Doctor Tyler?
+- character: TYLER
+  line: No, I don't. Do you, Doctor?
+- character: DOCTOR
+  line: Yes. We're at the other end of that light streak of yours.
+- character: TYLER
+  line: What?
+- character: DOCTOR
+  line: We've been transported along it.
+- character: TYLER
+  line: That's in the black hole.
+- character: DOCTOR
+  line: Yes, exactly. That's where we are. On a stable world in a universe of antimatter.
+    An anomaly within an impossibility.
+- character: JO
+  line: Huh?
+- character: TYLER
+  line: What he means is that a place like this shouldn't exist in a cosmos like this,
+    and even if it does, we shouldn't be here anyway. I think.
+- character: JO
+  line: Oh.
+- character: DOCTOR
+  line: Well, here we are. Kidnapped and marooned. But by whom?
+- location: Throne room
+- direction: Someone is watching them on a screen set into the rock wall.
+- character: OMEGA
+  line: At last, a Time Lord within my power. Let my guests be brought into my presence.
+- direction: The masked figure wearing a cloak like the Time Lords do, sends one of
+    the Gels off to do his bidding.
+- location: Planet surface
+- character: DOCTOR
+  line: Well, these things sound very much like the creatures that attacked us at
+    UNIT HQ.
+- character: JO
+  line: Yeah.
+- character: DOCTOR
+  line: What exactly did they look like?
+- character: TYLER
+  line: Like that.
+- direction: There are a pair of them on the cliff above them. Jo screams.
+- character: DOCTOR
+  line: Run!
+- direction: But a set of explosions go off all around them, so they surrender instead.
+    Ollis is watching from a safe vantage point.
+- location: Tardis
+- character: BRIGADIER
+  line: Doctor, will you open this door?
+- character: BENTON
+  line: It's still thrashing about out there, sir.
+- character: DOCTOR 2
+  line: Yes, it is, isn't it. My little plan seems to have misfired. I seem to have
+    accentuated its metabolic rate
+- character: BRIGADIER
+  line: Doctor!
+- character: DOCTOR 2
+  line: Most unfortunate. It shouldn't have happened. Now, what went wrong?
+- character: BRIGADIER
+  line: Will you let me out of this contraption!
+- character: DOCTOR 2
+  line: The beam should have desensitised. Of course, you fool. It's antimatter! The
+    opposite effect! Instead of quietening down, I've stimulated it.
+- character: BRIGADIER
+  line: Will you stop nattering?
+- character: DOCTOR 2
+  line: You haven't seen my recorder anywhere, have you? It's a little thing about
+    this long with holes in. I had it when I came in and I put it down somewhere and
+    I can't find it.
+- character: BRIGADIER
+  line: For the last time, will you let me out of this madhouse!
+- character: DOCTOR 2
+  line: There's no point.
+- character: BRIGADIER
+  line: I'm sorry, Doctor, but I'm afraid I must insist. My place is with the men
+    out there, trying to do something about this, well, whatever it is out there,
+    not standing around here messing about looking for some damn fool flute!
+- character: DOCTOR 2
+  line: Brigadier, I cannot open that door without first turning off the force field,
+    and even if I did, you'd never make it across the floor. That thing out there
+    has become a killer. It's my fault and I'm sorry.
+- character: BRIGADIER
+  line: Sorry?
+- character: DOCTOR 2
+  line: All we can do now is think, and I think best to music. Now, where is my recorder?
+- location: Omega's palace
+- direction: Jon, Jo and Tyler are escorted into a corridor built like the Gels, of
+    bright balls.
+- character: JO
+  line: It looks like Aladdin's cave.
+- character: DOCTOR
+  line: It's the entrance to some sort of palace, I should imagine.
+- character: TYLER
+  line: I wonder who it belongs to?
+- character: DOCTOR
+  line: I've no idea, but I expect we'll soon find out.
+- character: JO
+  line: I'm not sure that I really want to.
+- character: TYLER
+  line: Whoever had us brought here doesn't mean us much good.
+- character: JO
+  line: I have a feeling you might be right.
+- character: TYLER
+  line: And I don't fancy hanging around to meet him. I'm going to try and make a
+    break for it.
+- character: DOCTOR
+  line: What?
+- location: Tardis
+- direction: The Brigadier gets a radio handset out of his pocket.
+- character: BRIGADIER
+  line: Corporal Palmer, this is the Brigadier. Do you read me? Over.
+- character: DOCTOR 2
+  line: You're wasting your time. You'll never get through with the force field on.
+- character: BRIGADIER
+  line: I've got to find out what's going on out there.
+- character: DOCTOR 2
+  line: Let's have a look at this thing.
+- direction: Patrick starts to take the handset apart.
+- character: DOCTOR 2
+  line: I'll try to set you up a communications unit.
+- character: BRIGADIER
+  line: Be careful.
+- character: DOCTOR 2
+  line: It's all right. Don't worry. I can boost this through the Tardis's communication
+    circuit. I think.
+- character: BRIGADIER
+  line: Oh, I give up.
+- character: BENTON
+  line: With respect, sir, aren't we wasting time?
+- character: BRIGADIER
+  line: Yes, we are.
+- character: DOCTOR 2
+  line: Are you still worried about your other Doctor, Sergeant?
+- character: BENTON
+  line: Well, yes, I am, and Miss Grant.
+- character: DOCTOR 2
+  line: Well, I shouldn't worry too much if I were you. In fact, I rather envy them.
+- character: BENTON
+  line: You what?
+- character: DOCTOR 2
+  line: Yes, I think they're having a very interesting time.
+- location: Omega's palace
+- character: TYLER
+  line: The time to make a getaway is now, while we're still near the entrance. Once
+    they get us down that maze of passageways we shall never get out.
+- character: DOCTOR
+  line: My dear Doctor Tyler, I don't want to get out. I want to meet our host. I
+    allowed myself to be brought here for that very purpose.
+- character: TYLER
+  line: Perhaps you did, Doctor, but we didn't want to come here and we don't want
+    to stay.
+- character: DOCTOR
+  line: Don't you understand? You were both brought here by accident. Your only chance
+    of getting back lies in my persuading whoever brought you here to send you home.
+- character: TYLER
+  line: I prefer to take a chance on my own. How about you, Miss Grant? Are you coming
+    with me?
+- character: JO
+  line: No. No, I'll stick with the Doctor, thank you.
+- character: TYLER
+  line: Looks like I'll have to go on my own then.
+- character: DOCTOR
+  line: Doctor Tyler, you're not going anywhere.
+- character: TYLER
+  line: What?
+- character: DOCTOR
+  line: I refuse to allow you to endanger all our lives.
+- character: TYLER
+  line: No. No, I suppose you're right.
+- direction: Tyler makes a dash for it.
+- character: DOCTOR
+  line: Tyler! Tyler, come back! Tyler!
+- direction: Gels stop the Doctor from following.
+- character: DOCTOR
+  line: Idiot. He'll jeopardise the entire operation.
+- character: JO
+  line: With his life, probably.
+- character: DOCTOR
+  line: Yes.
+- direction: A Gel follows Tyler through the passages.
+- character: JO
+  line: They might not harm him. You said we were only here by mistake.
+- character: DOCTOR
+  line: Yes, that's right, Jo. I'm the one they're after. I'm sure I can persuade
+    our host to send you back.
+- character: JO
+  line: But supposing you can't? Well, they might just get rid of us.
+- direction: Tyler's way is blocked by a Gel. He retreats.
+- character: DOCTOR
+  line: Jo, we're dealing here with a creature of great intelligence, and superior
+    intelligence and senseless cruelty just do not go together.
+- character: JO
+  line: Oh, I hope you're right.
+- direction: Tyler runs back to them and falls.
+- character: JO
+  line: Tyler!
+- character: DOCTOR
+  line: Tyler! Come on, get up. Up, up. Are you all right?
+- character: TYLER
+  line: Yes, I think so. Thanks. That was a bit of a waste of time, wasn't it.
+- location: Tardis
+- direction: The Brigadier paces while Patrick works on his handset.
+- character: DOCTOR 2
+  line: Here we are, Brigadier. Have a try with that. It's all right, it won't bite
+    you.
+- character: BRIGADIER
+  line: Corporal Palmer? Come in, Palmer.
+- direction: All he gets is crackling, so the Pat bashes it against the Tardis console
+    a couple of times.
+- character: PALMER
+  direction: OC
+  line: Corporal Palmer here. Over.
+- character: BRIGADIER
+  line: Corporal Palmer, this is the Brigadier. Now listen. We're pinned down in the
+    laboratory. What's the situation there? Over.
+- character: PALMER
+  direction: OC
+  line: Ah, sir, we've been trying to reach you. The building is still surrounded
+    but we're just standing by for further orders. Over.
+- character: BRIGADIER
+  line: Now listen, Palmer. I want every man to maintain vigilance, but no further
+    offensive action, is that clear? Over.
+- character: PALMER
+  direction: OC
+  line: But sir, I thought
+- character: BRIGADIER
+  line: That's an order, Palmer!
+- character: PALMER
+  direction: OC
+  line: Roger, sir. Wilco.
+- character: BRIGADIER
+  line: Keep in contact. Out.
+- character: BENTON
+  line: Doc.
+- character: DOCTOR 2
+  line: Hmm?
+- character: BENTON
+  line: Hey, Doctor, it's the old boy.
+- character: DOCTOR 2
+  line: Oh, excuse me.
+- character: DOCTOR 2
+  line: No, none at all. And you?
+- character: DOCTOR 1
+  line: Hardly. I'm trapped in this infernal time eddy.
+- character: DOCTOR 2
+  line: What about our fellow Time Lords?
+- character: DOCTOR 2
+  line: We can't help you, I'm afraid.
+- character: DOCTOR 2
+  line: Oh? How?
+- character: DOCTOR 2
+  line: What? But I don't
+- character: DOCTOR 2
+  line: But I still don't see
+- direction: The image fades.
+- character: BRIGADIER
+  line: Who in the name of heaven was that?
+- character: DOCTOR 2
+  line: I'm afraid you'd never believe me.
+- location: Palace
+- direction: Jon, Tyler and Jo are being escorted through the passageways.
+- character: TYLER
+  line: It still doesn't make sense, Doctor. We are matter, and you say this place
+    is antimatter.
+- character: DOCTOR
+  line: That's right.
+- character: TYLER
+  line: So, the mere fact of our being here should cause a colossal explosion.
+- character: DOCTOR
+  line: Yes, well, our bodies have been converted, processed in some ways, so that
+    we can exist here.
+- character: JO
+  line: Just as that organism thing could exist in our world?
+- character: DOCTOR
+  line: Yes, exactly.
+- character: TYLER
+  line: I just don't believe it. This is matter. I can see it. Why, I can feel it.
+- character: DOCTOR
+  line: But things aren't always as they seem, you know, Doctor Tyler. Now, you take
+    this pencil, for example.
+- character: TYLER
+  line: It's just a pencil, isn't it?
+- character: DOCTOR
+  line: Ah, but is it? Watch very, very closely.
+- direction: 'The Doctor holds the pencil out vertically, at arms length, then lets
+    go with a flourish. It vanishes. Another flourish and '
+- character: DOCTOR
+  line: Or is it a bunch of flowers?
+- character: TYLER
+  line: Ah ha, that's all very well, but that's just a conjuring trick.
+- character: DOCTOR
+  line: Yes, that's exactly what this place is, a scientific conjuring trick of a
+    very high order. I think the waiting is over.
+- direction: There is a strange growling yet burbling noise, and the Gels usher them
+    along again. Jo leaves behind the fake flowers on the floor.
+- location: Tardis
+- character: BRIGADIER
+  line: But you're not going to turn off the force field?
+- character: DOCTOR 2
+  line: Yes, I think so.
+- character: BRIGADIER
+  line: But why?
+- character: DOCTOR 2
+  line: Because he told me to, and I've always had a great respect for his advice.
+- character: BENTON
+  line: Doctor, if you switch the force field off, that thing out there can get at
+    the Tardis.
+- character: DOCTOR 2
+  line: Precisely! Hold tight, everyone.
+- direction: Outside UNIT HQ, the Gels suddenly vanish. Then the building itself vanishes
+    and falls into the black hole, leaving Corporal Palmer and his men in the gardens,
+    staring at the empty space.
+- location: Throne room
+- direction: The Gels escort Tyler, Jo and Jon into the main room.
+- character: JO
+  line: It's fabulous!
+- character: DOCTOR
+  line: Yes, most impressive, I must admit that.
+- character: TYLER
+  line: Almost worth the trip just to see this place.
+- character: JO
+  line: Yes, but who brought us here, and why?
+- direction: A figure appears at the top of a short flight of stairs.
+- character: OMEGA
+  line: I did. I am the one who brought you here.
+- character: DOCTOR
+  line: Who are you?
+- character: OMEGA
+  line: In the legends of your people I am called Omega.
+- character: DOCTOR
+  line: Omega? But that's impossible. Omega was destroyed.
+- character: OMEGA
+  line: No, brother Time Lord, I was not destroyed, as you can see. Take the man and
+    the girl.
+- character: DOCTOR
+  line: Where are you taking them?
+- character: OMEGA
+  line: They will not be harmed, Doctor. They have no part in my revenge.
+- direction: Gels take Jo and Tyler out.
+- character: OMEGA
+  line: I have been grievously wronged, Doctor, and now it is time for my vengeance!
+- location: Room
+- character: TYLER
+  line: Well, they won't hold us long in here. Not in a cell without a door.
+- character: JO
+  line: Look!
+- direction: The open doorway becomes a solid piece of wall.
+- character: TYLER
+  line: It's impossible! It's a real wall.
+- character: JO
+  line: Really? What kind of a place is this? And who was that creature in the mask?
+- character: TYLER
+  line: I don't know.
+- character: JO
+  line: The Doctor seemed to know him.
+- character: TYLER
+  line: Yes, and whoever it was knew the Doctor, but I wouldn't say they were exactly
+    friends.
+- character: JO
+  line: No, it seemed more like they were deadly enemies.
+- location: Throne room
+- character: OMEGA
+  line: Without me, there would be no time travel. You and our fellow Time Lords would
+    still be locked in your own time, as puny as those creatures you now so graciously
+    protect.
+- character: DOCTOR
+  line: You knew your mission was dangerous.
+- character: OMEGA
+  line: Dangerous, yes, but I completed it, and I did not expect to be abandoned.
+    Many thousands of years ago, when I left our planet, all this was then a star
+    until I arranged its detonation.
+- character: DOCTOR
+  line: You were the solar engineer. It was your duty.
+- character: OMEGA
+  line: It was an honour, or so I thought then. I was to be the one to find and create
+    the power source that would give us mastery over time itself.
+- character: DOCTOR
+  line: Well, you succeeded, and are revered for it.
+- character: OMEGA
+  line: Revered? Here? I was abandoned.
+- character: DOCTOR
+  line: The histories say that you were lost in the supernova.
+- character: OMEGA
+  line: I was sacrificed to that supernova. I generated those forces, and for what?
+    To be blown out of existence into this black hole of antimatter? My brothers became
+    Time Lords, but I was abandoned and forgotten!
+- character: DOCTOR
+  line: No, not forgotten. All my life I've known of you and honoured you as our greatest
+    hero.
+- character: OMEGA
+  line: A hero? I should have been a god!
+- location: Room
+- character: JO
+  line: Why would the creature bring the Doctor here if they're deadly enemies? Unless
+    he means him some terrible harm.
+- character: TYLER
+  line: Come along, Jo, pull yourself together. No point in getting worried about
+    this. We don't know that they're enemies. In any case, I'm sure the Doctor knows
+    what he's doing.
+- character: JO
+  line: I hope you're right.
+- location: Throne room
+- character: DOCTOR
+  line: Well, theoretically, of course, all this is quite impossible.
+- character: OMEGA
+  line: Here, Doctor, everything is possible. Be seated.
+- direction: And an ornate gold chair appears.
+- character: DOCTOR
+  line: Thank you. Tell me, how did you manage to survive?
+- character: OMEGA
+  line: How does anyone survive? Force of will. Mind, you might say, over antimatter.
+- character: DOCTOR
+  line: And this organism stuff that you sent to bring us here?
+- character: OMEGA
+  line: Created from the raw stuff of matter. An organism that can exist in your world
+    and mine. It brought you here and imbued you with its properties so that you too
+    could exist in both worlds.
+- character: DOCTOR
+  line: But how do I fit into this picture?
+- character: OMEGA
+  line: There are some things that even I cannot do, not alone, and at this point
+    in my plans I need the help of a brother Time Lord.
+- character: DOCTOR
+  line: Oh, I see.
+- character: OMEGA
+  line: And it pleases me to use you against them.
+- character: DOCTOR
+  line: And if I give you my help, do you really think you can defeat the Time Lords?
+    All of them?
+- character: OMEGA
+  line: But I am defeating them, Doctor. All of their power is insufficient to prevent
+    the cosmic energy drain which I have caused.
+- character: DOCTOR
+  line: And if I refuse to cooperate?
+- character: OMEGA
+  line: Then you will face the wrath of Omega, you and those miserable humans who
+    accompany you.
+- direction: A communications device beeps. Omega goes over to it and hears a message
+    made up of high pitched beeps.
+- character: OMEGA
+  line: Investigate immediately but do not harm them.
+- character: DOCTOR
+  line: Them?
+- character: OMEGA
+  line: Well, Doctor, it seems that we have more company.
+- location: Tardis
+- direction: Patrick, the Brigadier and Benton all land on their feet just after the
+    Tardis touches down.
+- character: DOCTOR 2
+  line: Well, we appear to have arrived.
+- character: BRIGADIER
+  line: (into mike) Corporal Palmer. Come in, Palmer.
+- character: DOCTOR 2
+  line: I don't think you'll get through with that thing.
+- character: BRIGADIER
+  line: Why not?
+- character: DOCTOR 2
+  line: It hasn't quite got the range.
+- character: BRIGADIER
+  line: What are you talking about, Doctor? They're only just outside the building.
+- character: DOCTOR 2
+  line: Brigadier
+- character: BRIGADIER
+  line: Corporal Palmer, do you read me?
+- character: DOCTOR 2
+  line: I think you should prepare yourself for a bit of a shock.
+- character: BENTON
+  line: Can we take a look outside, Doc?
+- character: DOCTOR 2
+  line: We can try.
+- direction: The scanner shows the Tardis in the lab.
+- character: DOCTOR 2
+  line: Well, I never.
+- character: BENTON
+  line: It seems to have gone, sir.
+- character: BRIGADIER
+  line: Yes, well, it looks quiet enough. Right, Doctor, if you'll just open that
+    door, I'll see what's going on.
+- character: DOCTOR 2
+  line: I really wouldn't advise it.
+- character: BRIGADIER
+  line: Oh, come along now, Doctor.
+- character: DOCTOR 2
+  line: Oh, all right. Oh dear, oh dear, oh dear, I do wish you'd listen to me. Come
+    along, we'd better follow him.
+- location: UNIT Laboratory
+- character: DOCTOR 2
+  line: That's extraordinary. That stuff must have found the Tardis a bit indigestible
+    even without the force field on, so it swallowed a bit of the surrounding matter
+    as well. Hmm. Rather like taking a pill with a swig of water.
+- direction: Patrick has brought a small device with him.
+- character: BRIGADIER
+  line: Well, we seem to have got rid of it. Benton, you stay here.
+- direction: The Brigadier leaves.
+- character: BENTON
+  line: So you think we've moved, is that it, Doctor?
+- character: DOCTOR 2
+  line: Oh, I'm quite sure we have.
+- direction: The Brigadier opens an external door and sees the alien world.
+- character: BENTON
+  line: Well, where do you reckon we are?
+- character: DOCTOR 2
+  line: Not where he thinks we are.
+- character: BRIGADIER
+  line: Now see here, Doctor, You have finally gone too far.
+- character: DOCTOR 2
+  line: I rather think we all have. What's it like out there?
+- character: BRIGADIER
+  line: There's, well, there's sand everywhere!
+- character: DOCTOR 2
+  line: Oh, splendid. Who's for a swim?
+- character: BRIGADIER
+  line: Do you realise what you've done? You've stolen the whole of UNIT HQ. Now what
+    am I going to tell Geneva? That the whole blessed building has been picked up
+    and put down on some deserted beach? We're probably miles from London!
+- character: DOCTOR 2
+  line: I'm afraid we're a little bit further than that, Brigadier.
+- character: BRIGADIER
+  line: You mean we're not even in the same country? There'll be international repercussions.
+    This could be construed as an invasion.
+- character: BENTON
+  line: It's not just a matter of the same country, sir. If the Doctor's right, we're
+    not even in the same universe.
+- character: BRIGADIER
+  line: What? Oh, nonsense, Benton. I tell you that's a beach out there. It's probably
+    Norfolk or somewhere like that.
+- character: DOCTOR
+  line: Oh, please, if you'd only listen to me.
+- character: BRIGADIER
+  line: Right, now I'll tell you what we'll do. You two stay here. See that nobody
+    wanders in. We can't have the place overrun with holiday makers. I'll nip out,
+    find a phone and tell the authorities exactly where we are. I'm fairly sure that's
+    Cromer. Back in a jiff.
+- direction: The Brigadier leaves.
+- character: DOCTOR 2
+  line: Dear oh dear oh dear.
+- character: BENTON
+  line: Let's go after him, Doc.
+- character: DOCTOR 2
+  line: Yes, I suppose we better had. Just a minute. I think I'll have another look
+    for my recorder.
+- character: BENTON
+  line: Doctor, when are you going to face the facts? You've lost your recorder and
+    that's that.
+- character: DOCTOR 2
+  line: Oh, no, I'm sure it's in the Tardis somewhere. I shan't be a minute.
+- character: BENTON
+  line: Doctor! Look.
+- direction: A Gel enters the lab.
+- character: DOCTOR 2
+  line: Oh my giddy aunt!
+- location: Outside the lab
+- direction: More Gels hem them in.
+- character: DOCTOR 2
+  line: Oh!
+- character: BENTON
+  line: Get back. Back.
+- location: Planet surface
+- direction: The Brigadier makes his way through the quarry, service pistol at the
+    ready.
+- character: OLLIS
+  line: Hey! Hey, you! Just a minute.
+- character: BRIGADIER
+  line: Who are you?
+- character: OLLIS
+  line: Ollis, game warden.
+- character: BRIGADIER
+  line: Ollis? Yes, of course, the chap who found the balloon then vanished. Where
+    are we? What's going on here?
+- character: OLLIS
+  line: I thought you'd have told me that. They're your manoeuvres.
+- character: BRIGADIER
+  line: No, Mister Ollis, I'm as much in the dark as you are. Isn't there anything
+    you can tell me?
+- character: OLLIS
+  line: Well, there were two others in a daffy old motor car for a start. A man and
+    a girl. They went off after another fellow and all got took by those lumpy creatures.
+- character: BRIGADIER
+  line: What did the man look like?
+- character: OLLIS
+  line: Tall, fancy get up, white hair.
+- character: BRIGADIER
+  line: But that's. What happened to them?
+- character: OLLIS
+  line: I told you! They got took by those things. They didn't get me, though, because
+    I'm used to moving quiet, stalking them and that.
+- character: BRIGADIER
+  line: What, did you follow them?
+- character: OLLIS
+  line: I was just coming to that. Look out!
+- direction: They dive for cover and watch as Benton and Patrick are herded along
+    by a pair of Gels.
+- character: OLLIS
+  line: That's them. That's those things. That's what I meant.
+- character: BRIGADIER
+  line: They've got the Doctor and Benton. Come on.
+- character: OLLIS
+  line: Hold on now. It's no use rushing them. I know where they're bound.
+- direction: The Gels make their prisoners turn left towards a massive blue-edged
+    opening in a cliff face and take them inside.
+- character: OLLIS
+  line: Now what, General?
+- character: BRIGADIER
+  line: First we do a recce, then we mount a surprise attack. Mister Ollis, you will
+    consider yourself under my orders.
+- direction: A pair of massive bronze doors close in the cliff face.
+- location: Throne room
+- character: DOCTOR
+  line: Look, if you cannot reverse the energy drain, the fabric of the entire universe
+    could be torn apart.
+- character: OMEGA
+  line: What if it is? It will make an interesting spectacle.
+- character: DOCTOR
+  line: Then you would be utterly alone forever.
+- character: OMEGA
+  line: I am used to solitude. And I shall have had my revenge. I shall be satisfied.
+- character: DOCTOR
+  line: Omega, if you would undo the harm that you've done and resume your place on
+    the High Council, you could have the freedom to do anything that you wished.
+- character: OMEGA
+  line: Power is the only freedom that I seek.
+- direction: Patrick and Benton are brought in.
+- character: OMEGA
+  line: Absolute power is absolute freedom. No bargains.
+- direction: Benton points at the Jon and gets a kick in the shin to keep quiet.
+- character: OMEGA
+  line: Especially not with those who betrayed and deserted me. No, Doctor, you are
+    here for a reason. Who are you?
+- character: DOCTOR
+  line: Oh, just some more innocent bystanders. Probably scooped up by that bungling
+    organism of yours. Send them back, Omega. They can do you no harm.
+- character: OMEGA
+  line: The organism was programmed to seek out a Time Lord.
+- character: DOCTOR
+  line: And it has done so.
+- character: OMEGA
+  line: Can this or this also be a Time Lord?
+- character: DOCTOR 2
+  line: Appearances aren't everything, you know.
+- character: OMEGA
+  line: Ah, you do not fear me. Can it be? Two Time Lords? Ha! The same Time Lord!
+    The High Council must be desperate indeed to transgress the laws of time.
+- character: DOCTOR 2
+  line: I really think you're making a mistake, you know.
+- character: OMEGA
+  line: You have tried to trick me.
+- character: DOCTOR 2
+  line: I was out for a stroll with my friend here when this horrible great jelly
+- character: OMEGA
+  line: I might have known the High Council would make some such pathetic attempt
+    to deceive me.
+- character: DOCTOR
+  line: Now, Omega
+- character: OMEGA
+  line: Be silent! (thunder roll) While I consider what shall be your fate.
+- character: DOCTOR 2
+  line: (sotto) Is it really him? Omega?
+- character: DOCTOR
+  line: (sotto) Yes, I'm afraid so.
+- character: OMEGA
+  line: You have angered me. You are facing death! Take them away!
+- location: Planet surface
+- character: BRIGADIER
+  line: Did you find a way in?
+- character: OLLIS
+  line: No. You?
+- character: BRIGADIER
+  line: No. There's only one thing for it.
+- character: OLLIS
+  line: Eh?
+- character: BRIGADIER
+  line: Wait till the door opens then take them by storm. A full scale frontal attack
+    using all the resources available.
+- character: OLLIS
+  line: What does that mean?
+- character: BRIGADIER
+  line: That, Mister Ollis, means you and me. Come on.
+- location: Room
+- character: DOCTOR
+  line: I tell you, I practically had him won over then you turned up and he started
+    treating me like an imposter.
+- character: DOCTOR 2
+  line: Well, you are really, aren't you.
+- character: DOCTOR
+  line: What do you mean?
+- character: DOCTOR 2
+  line: Well, I suppose in another way we both are. Or is it neither of us?
+- character: DOCTOR
+  line: Look, for heaven's sake, stop twittering on.
+- character: DOCTOR 2
+  line: There's no need to be offensive!
+- character: DOCTOR
+  line: I'm not being offensive. The important thing is
+- character: JO
+  line: There they go again.
+- character: BENTON
+  line: You're supposed to help one another.
+- character: JO
+  line: That was the idea.
+- character: DOCTOR
+  line: Yes, well, all right, I'm sorry. Perhaps I did speak a trifle sharply.
+- character: DOCTOR 2
+  line: Yes, well, I'm sorry, too. Well, what did you think of this chap Omega?
+- character: DOCTOR
+  line: Frankly, I thought he was somewhat confused.
+- character: TYLER
+  line: Yes, and I'm somewhat confused. Who's he?
+- character: DOCTORS
+  line: Me.
+- character: TYLER
+  line: I beg your pardon?
+- character: DOCTOR
+  line: Oh, ask Jo, there's a good chap. You see, one minute he was talking about
+    destroying everything
+- character: DOCTOR 2
+  line: Yes.
+- character: DOCTOR
+  line: The next minute he's talking about freedom.
+- character: TYLER
+  line: Look if this is a world of antimatter, how can it all exist?
+- character: DOCTORS
+  line: The phenomenon of singularity.
+- character: TYLER
+  line: Singularity?
+- character: DOCTOR
+  line: Look, you explain to him. You're far better at it than I am.
+- character: DOCTOR 2
+  line: Oh, no, no, please. Older and wiser head.
+- character: TYLER
+  line: Singularity. Now I know it's supposed to exist
+- character: DOCTOR
+  line: Yes, well, it does exist. Right here, I'm afraid.
+- character: TYLER
+  line: But that's just a theory.
+- character: JO
+  line: Oh look, Doctors, what are you talking about? And simple answers, please.
+    One at a time this time.
+- character: DOCTOR 2
+  line: Well, singularity is a point in space time which can exist only inside a black
+    hole. We are in a black hole, in a world of antimatter very close to this point
+    of singularity, where all the known physical laws cease to exist. Now, Omega has
+    got control of singularity and has learned to use the vast forces locked up inside
+    the black hole.
+- character: DOCTOR
+  line: Now, that is how Omega is able to create the world we are now living in by
+    a fantastic effort of his will, but unfortunately he thinks he's been wronged
+    by the Time Lords.
+- character: TYLER
+  line: Time Lords?
+- character: DOCTOR
+  line: Yes, and now he's hell bent on revenge.
+- character: JO
+  line: Well, you'll just have to stop him, won't you.
+- character: DOCTOR 2
+  line: Well, the trouble is, we're not sure we can.
+- character: BENTON
+  line: Well, who is this Omega, anyway?
+- character: DOCTOR
+  line: A Time Lord. One of the greatest of all my race.
+- character: DOCTOR 2
+  line: Our race.
+- character: DOCTOR
+  line: Our race. Yes, sorry.
+- character: DOCTOR 2
+  line: Long, long ago, we learnt the secret of time travel, but in order to make
+    it a reality we had to have a colossal source of energy.
+- character: DOCTOR
+  line: Omega provided that energy by a fantastic feat of solar engineering. We thought
+    he was destroyed, instead of which he finished up here.
+- character: DOCTOR 2
+  line: Yes, it seems that his imprisonment was the price of our freedom to travel
+    in time.
+- character: JO
+  line: Even so, you can't let him smash everything up. Well, look, he's not all-powerful,
+    you know, or else why did he need to bring you here?
+- character: DOCTOR
+  line: Yes, that's true.
+- character: BENTON
+  line: There must be something you can do to get us out of here?
+- character: JO
+  line: What about your sonic screwdriver?
+- character: DOCTOR
+  line: No, that's useless in this world. The only natural law here is the law of
+    Omega's will.
+- character: JO
+  line: Omega's will. Look, if Omega can will up an entire world, well surely you
+    two could will up a small door. Well look, you're a Time Lord, aren't you?
+- character: DOCTOR
+  line: Yes.
+- character: JO
+  line: In fact, you're two Time Lords. Well, surely your wills combined are a match
+    for his? Why else do you think the High Council wanted the two of you here?
+- character: DOCTOR
+  line: That might work. It just might.
+- character: DOCTOR 2
+  line: It's worth a try.
+- character: DOCTOR
+  line: Yes.
+- character: DOCTOR 2
+  line: Right.
+- character: DOCTOR
+  line: Right.
+- character: DOCTOR 2
+  line: Ready?
+- character: DOCTOR
+  line: Ready.
+- character: DOCTOR 2
+  line: Contact.
+- character: DOCTOR
+  line: Contact.
+- direction: The two Doctors concentrate together and the door starts to fade.
+- character: JO
+  line: It's working.
+- direction: A blue old fashioned door with a knob appears.
+- character: DOCTOR
+  line: Well done.
+- character: DOCTOR 2
+  line: I couldn't possibly have done it without you. Well, what next?
+- character: DOCTOR
+  line: Now for the singularity chamber. That's the key to it all.
+- character: DOCTOR 2
+  line: Splendid. Come on.
+- character: DOCTOR
+  line: Come on.
+- character: JO
+  line: But you
+- character: DOCTOR
+  line: Jo, you wait there.
+- character: DOCTOR 2
+  line: It even opens!
+- direction: The two Doctors leave.
+- character: TYLER
+  line: Singularity chamber. Can't miss that. It's the chance of a lifetime!
+- direction: Tyler leaves.
+- character: JO
+  line: That's charming.
+- character: BENTON
+  line: I'm not just going to sit here while they have all the fun.
+- character: JO
+  line: Neither am I. Come on, Sergeant Benton.
+- direction: Jo and Benton leave just before the door disappears.
+- location: Palace
+- direction: The two Doctors hurry through the passages followed by Jo, Tyler and
+    Benton. Jo hears something ahead and they look for cover.
+- character: BENTON
+  line: Through here.
+- direction: A Gel glides past.
+- location: Throne room
+- character: DOCTOR 2
+  line: Well, shall we?
+- character: DOCTOR
+  line: The bull by the horns, eh?
+- character: DOCTOR 2
+  line: All right.
+- character: DOCTOR
+  line: Well, after you.
+- character: DOCTOR 2
+  line: Let's toss, shall we?
+- direction: Patrick tosses the coin and Jon catches it.
+- character: DOCTOR
+  line: What would be the point?
+- location: Singularity room
+- direction: Jon leads the way into the next room, where a raised round well with
+    steps up to it glows red and has smoke rising from it.
+- character: DOCTOR
+  line: Singularity.
+- character: DOCTOR 2
+  line: Fascinating.
+- character: OMEGA
+  line: What! How is it that you two are free?
+- character: DOCTOR
+  line: By combining our wills against yours.
+- character: DOCTOR 2
+  line: Together we were able to break down your barriers, so you're not all powerful
+    after all, Omega.
+- character: DOCTOR
+  line: If you free us, we'll plead your cause to the Time Lords. Otherwise we shall
+    combine our wills to destroy you.
+- character: OMEGA
+  line: You dare threaten to destroy me? You wish to fight the will of Omega?
+- character: DOCTOR
+  line: Yes, if I must.
+- character: OMEGA
+  line: Then you shall, but you will fight the dark side of my mind. The dark side
+    of my mind.
+- location: Palace
+- character: BENTON
+  line: It's no good. It all looks the same.
+- character: TYLER
+  line: Well, we can't just stay here.
+- character: JO
+  line: They're right behind us.
+- character: BENTON
+  line: This way. They're everywhere.
+- character: TYLER
+  line: Let's try down here.
+- character: JO
+  line: Yes, come on.
+- character: BENTON
+  line: It's no good, we're lost.
+- character: TYLER
+  line: Well, we can't just give ourselves up.
+- character: BENTON
+  line: Agreed. What do we do?
+- character: JO
+  line: Let's try this way.
+- direction: Jo picks up the bunch of conjurers flowers she dropped earlier.
+- character: JO
+  line: Hey, look what I found.
+- character: BENTON
+  line: Oh great. Well, how can that help us?
+- character: JO
+  line: It's the corridor to the main entrance. Come on.
+- location: Palace doors
+- direction: Benton starts tugging at the doors.
+- character: BENTON
+  line: Doctor Tyler, give me a hand with this.
+- character: JO
+  line: Quickly, they're coming!
+- direction: The Brigadier and Ollis are on the other side. The doors open.
+- character: BRIGADIER
+  line: Out! Make for the hills!
+- direction: The Brigadier fires a couple of shots at approaching Gels as everyone
+    dashes outside.
+- location: Planet surface
+- direction: The group run through the quarry, just ahead of the Gel's weapons range
+    until they reach shelter.
+- character: BENTON
+  line: How did you know we were trying to get out?
+- character: BRIGADIER
+  line: We didn't. We were trying to get in. Miss Grant, was the Doctor with you when
+    you came here?
+- character: JO
+  line: Yes, of course, sir.
+- character: BRIGADIER
+  line: Well he can't have been. He was with me.
+- character: BENTON
+  line: Sir, look over there.
+- direction: Gels coming down the path.
+- character: BRIGADIER
+  line: Come on, it's just over the dune.
+- character: JO
+  line: What is?
+- direction: Meanwhile, Jon and and a personification of Omega's dark side are having
+    a slightly slow-motion wrestling match in their heads. They are almost evenly
+    matched.
+- location: Time Control
+- character: PRESIDENT
+  line: Energy levels are dangerously low, Doctor. You are our last chance. You must
+    go in.
+- character: PRESIDENT
+  line: The black hole. I repeat, you are our last chance. All three are needed to
+    defeat Omega. We will use the last of our energy to send you through.
+- location: In the mind
+- direction: The mental fight is continuing, and Jon is starting to lose.
+- character: OMEGA
+  direction: OC
+  line: Those who oppose the will of Omega shall not live! Destroy him!
+- location: In the mind
+- character: DOCTOR 2
+  direction: OC
+  line: No, Omega! Destroy him and you'll destroy your only chance of freedom.
+- location: Singularity room
+- direction: Jon is on the floor, gurning as if someone is throttling him. It stops
+    and Patrick helps him up.
+- character: DOCTOR
+  line: Thank you, Omega. A most interesting demonstration.
+- character: OMEGA
+  line: Be warned. You have seen my power. You and your friends will learn that it
+    is useless to defy me.
+- character: DOCTOR 2
+  line: But our friends do not defy you!
+- character: OMEGA
+  line: Oh, yes. They too are trying to escape.
+- location: Planet surface
+- direction: The humans have found Bessie. They all clamber in with the Brigadier
+    driving.
+- character: JO
+  line: Where are we going?
+- character: BRIGADIER
+  line: UNIT HQ.
+- character: JO
+  line: What?
+- character: BRIGADIER
+  line: It's nearer than you think.
+- location: Singularity room
+- character: DOCTOR
+  line: All this exists because you have willed singularity to create it all for you.
+- character: OMEGA
+  line: Exactly.
+- character: DOCTOR 2
+  line: I say, you mean all you've got to do is think of a thing, rub your magic lamp
+    over there and shally me gally me zoop, there it is? That's jolly clever. That's
+    jolly clever.
+- character: OMEGA
+  line: Are you sure that you and he are of the same intelligence?
+- character: DOCTOR 2
+  line: You couldn't run me up a quick recorder, could you? It's a little thing about
+    this long with holes in. I've lost mine, you see.
+- character: OMEGA
+  line: I will tell you of the task that lies before you.
+- character: DOCTOR 2
+  line: It's not much to ask, a small recorder!
+- character: OMEGA
+  line: Silence!
+- character: DOCTOR
+  line: Please, ignore him. Just ignore him. He's incorrigibly frivolous.
+- character: DOCTOR 2
+  line: Just because you're not musical!
+- character: DOCTOR
+  line: Please! Will you stop interrupting? Continue.
+- character: OMEGA
+  line: Continue? (thunder and the palace wobbles) While you play stupid childish
+    games? You face annihilation, do you know that? You, your entire race, your precious
+    terrestrials, everything, and what do you do? Huh? You wrangle and babble of pipes!
+- character: DOCTOR 2
+  line: It's not a pipe!
+- character: DOCTOR
+  line: (sotto) What the hell do you think you're trying to do?
+- character: DOCTOR 2
+  line: (sotto) Testing the limits of his self control. They're not very good, are
+    they.
+- character: DOCTOR
+  line: (sotto) No. No, they're not, but it'll be dangerous if you push him too far.
+- character: DOCTOR 2
+  line: (sotto) We'll have to risk that. That temper is his only weakness.
+- character: OMEGA
+  line: What are you saying? Do you plot against me?
+- character: DOCTOR
+  line: No, no. I was just explaining to my associate here that he should show you
+    more respect, for both our sakes.
+- character: DOCTOR 2
+  line: I am thoroughly repentant. You mentioned some task.
+- character: OMEGA
+  line: Yes. I created this world through the power of my will. I created the organisms
+    which brought you here. This is the source of the light stream you travelled along,
+    and I created it. I alone! Omega! And it is not enough. None of it is enough.
+    I am still trapped. As trapped as I was the moment I arrived in this, this desolation.
+    Huh. Ironic, is it not?
+- character: DOCTOR 2
+  line: But surely, if you can transmit matter to Earth down that light stream, you
+    could transmit yourself anywhere.
+- character: OMEGA
+  line: Yes, so I imagined, but no, there was no way out. No escape.
+- character: DOCTOR
+  line: But why?
+- character: OMEGA
+  line: So long as I control singularity, I can make it do my will. All these things
+    exist because I will them to exist. Without me and the unceasing pressure of my
+    will, the work of thousands of years would collapse into chaos in microseconds.
+    I am, if you like, the Atlas of my world.
+- character: DOCTOR
+  line: So, the moment you abandon control, you cannot escape, and you cannot escape
+    without abandoning control.
+- character: OMEGA
+  line: Exactly. I am a prisoner of my own power, my own creation. Or rather, I was,
+    until now. And that is your task. To take over my burden so that I may escape.
+- direction: Bessie is dodging Gel weapons fire as the two Doctors confer.
+- character: OMEGA
+  line: Well? Your answer?
+- character: DOCTOR
+  line: We will obey you, Omega.
+- character: DOCTOR 2
+  line: We have no choice.
+- character: OMEGA
+  line: Then you help me make my preparations. You must first remove this mask. Now
+    you, too, will need such masks. The light stream has a slow, corrosive effect,
+    due to the acceleration of the particles, but you are in no immediate danger.
+    The process takes time. Come, the mask.
+- direction: They slowly lift the face plate of the mask. It creaks on its hinge and
+    they see the face of Omega.
+- character: OMEGA
+  line: What is it? Why do you not obey me? Take off the mask.
+- direction: Jon pushes the face plate back down.
+- character: OMEGA
+  line: What are you doing? I am in haste to be gone!
+- character: DOCTOR 2
+  line: We, we cannot remove the mask, Omega, because.
+- character: DOCTOR
+  line: Because beneath that mask there is nothing left of you. The corrosion has
+    already done its work.
+- character: OMEGA
+  line: What?
+- direction: Omega goes to a mirror in the wall and removes the mask completely. We
+    look straight through him to Jon and Patrick standing behind.
+- character: DOCTOR
+  line: You exist only because your will insists that you exist. Your will is all
+    that is left of you.
+- direction: Omega puts the mask back on and doubles over, howling.
+- character: OMEGA
+  line: It is not true. I am Omega, creator of this world! And I can also destroy!
+    Therefore I must exist!
+- character: DOCTOR 2
+  line: But don't you see? You can only exist here!
+- character: OMEGA
+  line: If I exist only by my will, then my will is to destroy, and all things shall
+    be destroyed! All things! All things!
+- direction: The palace begins to shake, and the Doctors make their escape.
+- location: Palace doors
+- character: OMEGA
+  direction: OC
+  line: All things! All things!
+- character: DOCTOR 2
+  line: I told you he'd got no self control.
+- character: DOCTOR
+  line: Come on, out!
+- location: Planet surface
+- character: BENTON
+  line: Brigadier, mind that rock!
+- character: TYLER
+  line: Watch out!
+- character: OLLIS
+  line: Watch it!
+- character: BRIGADIER
+  line: There it is, over there.
+- character: JO
+  line: How did it get there?
+- character: BRIGADIER
+  line: A very good question, Miss Grant. Come on!
+- direction: Meanwhile, elsewhere.
+- character: DOCTOR
+  line: That's funny. I could have sworn I left Bessie here.
+- character: DOCTOR 2
+  line: You did, old chap. The tracks are leading that way.
+- character: DOCTOR
+  line: That's Jo and Benton.
+- character: DOCTOR 2
+  line: They'll be making for UNIT Headquarters.
+- character: DOCTOR
+  line: What?
+- direction: Bang - the Gels have caught up to them.
+- character: DOCTOR
+  line: Come on! Let's get a move on.
+- direction: They run off.
+- location: UNIT Laboratory
+- direction: Everyone is talking over each other. The Brigadier goes over to the Tardis.
+- character: BRIGADIER
+  line: Locked. Typical. Just one moment, if you please! Now wait a moment. We may
+    be in a somewhat unusual situation, but you two at least are still supposed to
+    be members of UNIT.
+- character: JO
+  line: Yes, sir.
+- character: BENTON
+  line: Yes, sir. I'm sorry, sir.
+- character: BRIGADIER
+  line: The question is this, what offensive action should we or indeed can we take
+    against this chap Omega? Now in the absence of the Doctors it seems to me that
+- direction: Boom! Boom!
+- character: BENTON
+  line: Sir, listen!
+- character: BRIGADIER
+  line: Sounds like a full scale attack.
+- character: JO
+  line: Maybe they're not firing at us. Maybe
+- direction: There is a hammering at the outer door and familiar voices.
+- character: JO
+  line: It's the Doctors!
+- character: BRIGADIER
+  line: Benton, open the door, quick!
+- character: JO
+  line: Quickly, come on.
+- direction: The Doctors are let in and everyone talks over each other again.
+- character: DOCTOR 2
+  line: Tardis, everybody! Into the Tardis, quickly!
+- character: TYLER
+  line: But we can't all get in there!
+- character: DOCTOR
+  line: Come on, inside. Come on, Brigadier. Inside, inside!
+- location: Tardis
+- character: DOCTOR
+  line: Right, force field on.
+- character: DOCTOR 2
+  line: Force field's on.
+- location: Throne room
+- direction: On his monitor, Omega watches his Gels surround the Tardis.
+- character: OMEGA
+  line: Fools. Do yo think to deny the might of Omega? Soon you will come crawling
+    to me for mercy, but by that time, your universe will no longer exist.
+- location: Time Control
+- direction: The room is almost dark.
+- character: PRESIDENT
+  line: Well?
+- character: TIME LORD
+  line: Energy almost completely exhausted, sir.
+- character: PRESIDENT
+  line: And the latest transference?
+- character: TIME LORD
+  line: No contact since we tried to pass him through the black hole. The power level
+    was so low that he may only be able to observe, advise, not to act.
+- location: Tardis
+- character: DOCTOR
+  line: Well, there you are, then. They can't get in
+- character: DOCTOR 2
+  line: And we can't get out.
+- character: DOCTOR
+  line: We're besieged.
+- character: JO
+  line: Oh, great.
+- character: DOCTOR 2
+  line: If only I could find my recorder, I could play you a little something to pass
+    the time.
+- character: BRIGADIER
+  line: We must be thankful for small mercies.
+- character: TYLER
+  line: Well, this Tardis of yours is a real marvel, Doctor. I still don't understand
+    how we all got inside it, but I don't wish to spend the rest of my life in it.
+- character: JO
+  line: True. We can't just stay here for ever.
+- character: BENTON
+  line: Come on, Doc. I mean, with two of you there should be twice as many ideas.
+    Well surely you can think up something to nobble this Omega bloke?
+- character: DOCTOR 2
+  line: Nobble him? You're talking about one of the most powerful blokes in the cosmos.
+    Nobble him?
+- direction: An alarm sounds.
+- character: DOCTOR
+  line: Well, I. Excuse me. Someone's trying to get through to us.
+- character: DOCTOR 2
+  line: You don't think? (points up)
+- character: DOCTOR
+  line: I hardly think so.
+- character: DOCTOR
+  line: Well, we had to bring them all in here. It wasn't safe outside.
+- character: DOCTOR 2
+  line: You're trapped in your own bubble. You can talk.
+- character: DOCTOR 2
+  line: On with what?
+- character: DOCTOR 2
+  line: Ready.
+- character: DOCTOR
+  line: Ready.
+- character: DOCTOR 2
+  line: Contact.
+- character: DOCTOR
+  line: Contact.
+- direction: All three Doctors concentrate.
+- direction: The image fades.
+- character: DOCTOR
+  line: We'd have to strip down the force field.
+- character: DOCTOR 2
+  line: But that'd mean leaving the Tardis defenceless.
+- character: DOCTOR
+  line: Yes, I know, but I think we'll have to risk it.
+- character: DOCTOR 2
+  line: It's worth a try. Come on!
+- direction: The two Doctors start working underneath the console.
+- character: BRIGADIER
+  line: What was all that about, Miss Grant?
+- character: JO
+  line: Another telepathic conference, I think.
+- character: BRIGADIER
+  line: That old chap?
+- character: JO
+  line: Afraid so.
+- character: BRIGADIER
+  line: Three of them. I didn't know when I was well off. Doctor!
+- character: DOCTOR
+  line: Yes, what is it?
+- character: BRIGADIER
+  line: Would you mind telling us laymen what you scientists are getting so excited
+    about?
+- character: DOCTOR
+  line: We think we've found a way of dealing with Omega.
+- character: TYLER
+  line: Mind telling me how?
+- character: DOCTOR
+  line: Later, old chap. If there's still time.
+- character: TYLER
+  line: Oh, splendid.
+- character: DOCTOR
+  line: How do we know that he'll take the generator? What if he should refuse?
+- character: DOCTOR 2
+  line: Ah, I've found it.
+- character: DOCTOR
+  line: Found what?
+- character: DOCTOR
+  line: My recorder. It must have been there all the time.
+- direction: The recorder is part of a module in the console stand.
+- character: DOCTOR 2
+  line: Right in the corner of the force field.
+- character: DOCTOR
+  line: Well, don't touch it.
+- character: DOCTOR 2
+  line: I wasn't going to.
+- character: DOCTOR
+  line: Don't you understand? It's exactly what we want. Far better than the force
+    field generator.
+- character: DOCTOR 2
+  line: Oh no, not my recorder!
+- character: DOCTOR
+  line: I'll get you another one. I'll get you a hundred, I'll get you a thousand
+    of them. Come on.
+- location: Time control
+- character: TIME LORD
+  line: I've got a contact, sir.
+- character: PRESIDENT
+  line: Oh?
+- character: TIME LORD
+  line: The Doctor.
+- character: PRESIDENT
+  line: Did you find them? Did you make contact?
+- character: PRESIDENT
+  line: Is there any chance? We can't hold out much longer. What's happening?
+- location: Tardis
+- direction: The Doctors remove the module with the recorder wired up in the middle.
+- character: DOCTOR 2
+  line: Here we are, then. This should do the trick.
+- character: BRIGADIER
+  line: I suppose it would be too much to ask for someone to tell us what all this
+    means.
+- character: DOCTOR
+  line: It means, Brigadier, that we can now strike a bargain with our friend Omega.
+- character: BRIGADIER
+  line: With that box of tricks there?
+- character: JO
+  line: And a flute?
+- character: DOCTOR
+  line: This box of tricks, as you call it, is a kind of portable force field.
+- character: DOCTOR 2
+  line: And the recorder is considerably more than just a recorder.
+- character: DOCTOR
+  line: Yes. Right, ready?
+- direction: Patrick hands the device to Tyler.
+- character: DOCTOR 2
+  line: Here, if you'd just hold this.
+- character: TYLER
+  line: Oh, splendid. Yes.
+- character: DOCTOR
+  line: Right, switch on.
+- character: DOCTOR 2
+  line: On.
+- direction: Jon goes over to the scanner.
+- character: DOCTOR
+  line: Omega, we want to talk with you.
+- character: DOCTOR
+  line: We think we have discovered a way to give you back your freedom. Will you
+    now free the Tardis so that we can come to you?
+- character: DOCTOR 2
+  line: No, not a bit of it, old chap. We just want to avoid a long, tiring walk,
+    that's all.
+- character: DOCTOR
+  line: Right. Now listen to me, everybody. From now on you are to do exactly as you
+    are told.
+- character: JO
+  line: Why? What's going to happen?
+- character: DOCTOR
+  line: Now, Jo, please do as I ask. Do exactly as I tell you. Do you promise?
+- character: JO
+  line: All right, I promise.
+- character: DOCTOR
+  line: Good. Are you ready? Stand by. Here we go.
+- direction: Tyler gives Patrick the device back. The Tardis dematerialises from the
+    lab.
+- location: Singularity room
+- direction: Jon leads everyone out of the Tardis.
+- character: OMEGA
+  line: Do you think this trickery will save you for long?
+- character: DOCTOR
+  line: We have come to set you free.
+- character: OMEGA
+  line: What is this?
+- character: DOCTOR
+  line: On one condition.
+- character: OMEGA
+  line: I make the terms, Time Lords!
+- character: DOCTOR
+  line: Omega, if you will send these people back to where they came from, we will
+    stay and help you.
+- direction: Benton restrains Jo from protesting.
+- character: DOCTOR
+  line: We think we have devised a way of restoring your freedom to you.
+- character: OMEGA
+  line: What way? I know now that you cannot give me my freedom, but you can keep
+    me company in the endless empty years that lie ahead. If you will both stay here
+    willingly and share my exile, then I will spare your friends and their universe.
+- character: DOCTOR
+  line: We shall give you that promise, Omega. We will not attempt to leave this world
+    before you do.
+- character: JO
+  line: You can't!
+- character: OMEGA
+  line: Go, then, back to your planet. Be gone, and give thanks that Omega is merciful.
+- direction: Omega leaves.
+- character: BRIGADIER
+  line: Doctor, what shall we do?
+- character: DOCTOR
+  line: Brigadier, I want all of you to step through that column of smoke.
+- character: BRIGADIER
+  line: What?
+- character: DOCTOR
+  line: Don't be alarmed. It won't harm you. On the contrary, it will take you back
+    home.
+- character: DOCTOR 2
+  line: Please, Brigadier, it's the only way.
+- character: BRIGADIER
+  line: Well, I don't know what you're up to, but all right. Now, Mister Ollis?
+- character: OLLIS
+  line: Not me. I'm not going in there.
+- character: BRIGADIER
+  line: Doctor Tyler?
+- direction: Tyler walks up the steps to the well.
+- character: TYLER
+  line: Are you sure it's all right?
+- character: DOCTOR
+  line: Yes, of course I'm sure.
+- direction: Tyler steps over the well, and disappears in the smoke from the singularity.
+- character: BRIGADIER
+  line: Now then, Mister Ollis.
+- direction: Ollis walks through.
+- character: BRIGADIER
+  line: Sergeant Benton.
+- direction: Benton walks up to the well.
+- character: BENTON
+  line: I'd sooner Miss Grant.
+- character: BRIGADIER
+  line: Move, Benton.
+- direction: Benton walks through.
+- character: BRIGADIER
+  line: Now then, Miss Grant.
+- character: JO
+  line: No! No, I want to stay with the Doctor.
+- character: DOCTOR
+  line: Jo, please.
+- character: BRIGADIER
+  line: Come on, Jo.
+- character: DOCTOR
+  line: Trust me.
+- direction: Jo takes the Brigadier's hand and walks up the steps.
+- character: DOCTOR
+  line: You'll be all right.
+- direction: Jo steps into the smoke.
+- character: BRIGADIER
+  line: Goodbye, Doctor. Doctors.
+- direction: The Brigadier walks up the steps, turns and salutes then briskly walks
+    into the smoke and vanishes.
+- character: OMEGA
+  line: So, brother Time Lords, I have played your game. Now it is your turn to play
+    mine, and there can be no escape for any of us!
+- direction: Pat fetches the device from the Tardis.
+- character: DOCTOR 2
+  line: You are wrong, Omega. You can have your freedom. It is here.
+- character: OMEGA
+  line: What is this childish contraption?
+- character: DOCTOR 2
+  line: The only freedom you can ever have. Take it. Take it, Omega.
+- direction: The two Doctors close their eyes and concentrate. Omega laughs.
+- character: DOCTOR
+  line: Take it!
+- character: OMEGA
+  line: Commands? You command me? This is my world! I command! And you pester me with
+    trinkets!
+- direction: Omega knocks the device to the floor.
+- character: DOCTOR 2
+  line: Run!
+- character: DOCTOR
+  line: Come on, quick!
+- location: Time Control
+- direction: The black hole on the monitor disappears as it is replaced by the new
+    star, and the lights come back on.
+- character: PRESIDENT
+  line: Another source of energy. Once again, Omega.
+- location: UNIT Laboratory
+- direction: Everyone falls out of the air and lands on their feet. The room is back
+    in one piece.
+- character: BENTON
+  line: We're back!
+- character: TYLER
+  line: Well, we certainly seem to be.
+- direction: Benton looks out of the window.
+- character: BENTON
+  line: But we're really back.
+- character: JO
+  line: But the Doctors.
+- character: BRIGADIER
+  line: Oh, I dare say they'll turn up as usual.
+- direction: Jo falls into Benton's arms, sobbing.
+- character: BRIGADIER
+  line: Wonderful chap, both of him.
+- direction: A blue police box suddenly appears.
+- character: JO
+  line: The Tardis!
+- character: DOCTOR
+  line: I told you he had no self-control, didn't I?
+- character: JO
+  line: Doctor!
+- character: TYLER
+  line: How did you manage it?
+- character: DOCTOR 2
+  line: By the skin of our teeth.
+- character: TYLER
+  line: Splendid.
+- character: DOCTOR 2
+  line: Where's Mister Ollis?
+- character: TYLER
+  line: What?
+- character: DOCTOR 2
+  line: Where's Mister Ollis?
+- character: DOCTOR
+  line: Oh, back where he came from, I imagine.
+- direction: Ollis lands on his feet by the lake side.
+- character: DOCTOR
+  line: So there you are. Omega's will was like the tension in the elastic. Once that
+    will was broken, all the bits of Earth, UNIT etc just snapped back right into
+    their proper place.
+- character: BENTON
+  line: But how come you turned up in the Tardis?
+- character: DOCTOR 2
+  line: Because that was the proper place for us.
+- character: JO
+  line: What was all that business about the flute?
+- character: DOCTOR 2
+  line: Well, as you know, it accidentally fell into the force field of the Tardis,
+    so that when we were all transformed into antimatter, that was the only thing
+    that wasn't processed.
+- character: DOCTOR
+  line: And when Omega knocked it out of our hands and it fell out of the force field,
+    all the atoms and the anti-atoms annihilated one another.
+- character: TYLER
+  line: So, big bang, and the black hole becomes a supernova!
+- character: DOCTOR
+  line: Exactly.
+- character: DOCTOR 2
+  line: Pity, though. I think it had a lovely tone.
+- character: DOCTOR 1
+  direction: OC
+  line: Everything okay?
+- location: Tardis
+- character: DOCTOR
+  line: Well, here we are, back safe and sound.
+- character: DOCTOR 2
+  line: Quite a party.
+- direction: William's picture fades for the last time.
+- character: DOCTOR 2
+  line: Goodbye. Well, goodbye, everybody. Goodbye. It's been so nice to meet me.
+- character: DOCTOR
+  line: Yes, I see what you mean. I hope I don't meet me again.
+- character: DOCTOR 2
+  line: Ah.
+- direction: Patrick takes a step back, and waves as he disappears.
+- character: TYLER
+  line: Now I've seen it all.
+- character: JO
+  line: Pity. He was so sweet.
+- character: DOCTOR
+  line: Yes, wasn't I?
+- character: BRIGADIER
+  line: Yes, well, as far as I'm concerned, Doctor, one of you is enough. More than
+    enough. Sergeant Benton!
+- character: BENTON
+  line: Sir?
+- character: BRIGADIER
+  line: You and I'd better make a full inventory of the HQ. Make sure everything's
+    back in place. It's all got to be accounted for, you know.
+- character: BENTON
+  line: Sir?
+- character: BRIGADIER
+  line: Yes?
+- character: BENTON
+  line: Well, excuse me, sir, but, well, if anything is missing, where do we say it's
+    gone?
+- character: BRIGADIER
+  line: Come along, Benton.
+- direction: The Brigadier and Benton leave.
+- character: TYLER
+  line: Well, I think I'd better be on my way, too. Thank you for a fascinating trip,
+    Doctor.
+- character: DOCTOR
+  line: Goodbye.
+- character: TYLER
+  line: Goodbye. Goodbye, Jo.
+- character: JO
+  line: Goodbye.
+- character: TYLER
+  line: I don't think I'll write it up in the University journal, not if I want to
+    keep my job.
+- direction: Tyler leaves.
+- character: JO
+  line: What's the matter, Doctor? Everything worked out all right, didn't it?
+- character: DOCTOR
+  line: Yes, for us.
+- character: JO
+  line: I know what it is. It's because you had to trick Omega.
+- character: DOCTOR
+  line: I didn't exactly trick him. I promised him his freedom and I gave it to him.
+    The only freedom he could ever have.
+- character: JO
+  line: What else could you do? It was either him or everything.
+- direction: There is a materialisation sound, and a caltrop shaped circuit appears
+    on the time rotor.
+- character: DOCTOR
+  line: The Time Lords! Look, they've sent me a new dematerialisation circuit. And
+    my knowledge of time travel law and all the dematerialisation codes, they've all
+    come back. They've forgiven me. They've given me back my freedom.
+- character: JO
+  line: I suppose you'll be rushing off, then.
+- character: DOCTOR
+  line: No, not straight away, Jo. Of course not. I've got to build a new force field
+    generator first.
+- location: Outside the Lodge
+- character: MRS OLLIS
+  line: And where do you think you've been, Arthur Ollis? I've been worried sick about
+    you, I have. Everybody's been searching. Where have you been? Soldiers looking
+    for you. You didn't come home for your dinner. Well?
+- character: OLLIS
+  line: You'd never believe me, woman. Supper ready?
+---
+characters:
+- BENTON
+- BRIGADIER
+- CHANCELLOR
+- DOCTOR
+- DOCTOR 1
+- DOCTOR 2
+- DOCTORS
+- GUARD
+- JO
+- MRS OLLIS
+- OLLIS
+- OMEGA
+- PALMER
+- PRESIDENT
+- SOLDIER
+- TIME LORD
+- TYLER

@@ -1,0 +1,641 @@
+isf_version: '0.1'
+scriptconv_version: '0.1'
+src: put something here? --> A bit unsure not gonna lie lol oops
+---
+- character: carlota
+  line: el cuarto de andres  se quedó igual como lo dejó.  un día se salió de la casa,  supuestamente iba a una fiesta  y nunca pensamos que no  lo íbamos a volver a ver.  andy siempre quiso que nuestra  familia estuviera unida.  y si le digo toda la verdad  a temo, nunca voy a saber  qué pasó realmente  con mi hermano.  
+- character: aris
+  line: el--ese teclado  es idéntico al mío.  
+- character: carlota
+  line: sí, por eso  cuando te conocí  me recordaste a andres.  y hoy creo que él te mandó  a mi vida para ayudarme.  >> ¿qué es lo que esperan  del nuevo jefe de gobierno?  >> que escuche las voces  de todos, y que a los viejos  no nos hagan de menos.  >> que recuerde que nosotros  también nacimos en esta ciudad  y que tenemos derechos,  igual que los jóvenes.  >> bueno, no se preocupen,  que aquí los escuchamos a todos.  recuerden, porque ubaldo ortega  te cumple de corazón.  
+- character: elsa
+  line: no siguieron el guion  que habíamos planteado, señores.  >> yo lo dije, maestra,  pero cuauhtemoc ignoró todo.  
+- character: temo
+  line: usted me dijo  que tomara riesgos, maestra,  y es lo que estoy haciendo.  
+- character: elsa
+  line: usted no respetó  mi trabajo, señor lópez.  teníamos ya una propuesta hecha,  y usted decidió ignorarla.  debería de despedirlo  por su desobediencia.  sin embargo, a pesar de su claro  desdén por las reglas,  su atrevimiento trajo  una propuesta interesante.  
+- character: temo
+  line: ¿eso quiere decir que--?  
+- character: elsa
+  line: lo dejaré pasar,  señor lópez, pero a la siguiente  que usted se saltee  mi autoridad,  no seré tan benevolente.  
+- character: ubaldo
+  line: perfecto, cuauhtemoc,  te aprobó la maestra.  así que quiero que tengan listo  este video lo antes posible.  
+- character: temo
+  line: sí, señor, muchas gracias,  con permiso.  
+- character: ubaldo
+  line: y ahora sí,  ve con tu hija, te doy permiso.  pero que sea la última vez  que me fallas  a tus obligaciones.  
+- character: elsa
+  line: jamás he fallado  a mis obligaciones, señor.  seguiré trabajando  desde mi casa, como siempre.  
+- character: todos
+  line: [hablan a la vez]  
+- character: olegario
+  line: ven a jugar.  entonces con esta avanzas,  con esta prendes.  
+- character: elsa
+  line: ¿yo cuál soy?  
+- character: ambos
+  line: el de acá.  
+- character: nora
+  line: ay, qué bueno  que compraste pan.  engorda, pero a mí siempre  me hace sentir mejor.  
+- character: dora
+  line: ¿es tu manera de hacerme  sentir que te sientes mal?  
+- character: nora
+  line: qué pena que siempre  creas que te ataco.  
+- character: dora
+  line: aun con tu tono amable,  puedo sentir el reclamo.  toda la vida me has culpado  por no ser feliz.  
+- character: nora
+  line: no quiero terminar el día  peleando, mejor me voy a lavar.  
+- character: dora
+  line: buena idea, así mantienes  tu mente limpia también.  
+- character: nora
+  line: voy a preguntar a ver  si también limpian las almas,  hermana, a lo mejor te interesa  la promoción.  
+- character: elsa
+  line: aristoteles, yo sé que no  empezamos muy bien en el salón  de clases, pero yo creo que hoy  fue un buen día para cambiar  la perspectiva, ¿no cree?  
+- character: aris
+  line: la verdad es que yo  también vi las cosas  de manera muy diferente.  gracias, en serio, gracias  por dejarme conocer su hogar.  con permiso.  
+- character: elsa
+  line: que te vaya muy bien.  
+- character: carlota
+  line: adiós.  
+- character: elsa
+  line: pero ¿cómo, lo vas  a acompañar o--?  
+- character: olegario
+  line: ari, ¿no se les  antojan una hamburguesas?  hay unas deliciosas, mira--  
+- character: todos
+  line: [hablan a la vez]  
+- character: carlota
+  line: no.  
+- character: olegario
+  line: ¿no van a cenar?  
+- character: aris
+  line: lo que pasa es que--  tengo tarea, tengo tarea,  y la ropa que hay que lavar.  
+- character: carlota
+  line: yo también tengo muchas  cosas que hacer.  
+- character: elsa
+  line: ¿cómo, hija, no te vas  a quedar a dormir aquí?  
+- character: carlota
+  line: no, gracias,  ya me siento perfecta.  
+- character: elsa
+  line: pero es que yo prefiero  cuidarte, hija,  quédate una noche nada más.  
+- character: carlota
+  line: no, quiero ver si tengo  respaldos de mi compu.  además, allá tengo  tres enfermeros.  
+- character: olegario
+  line: bueno, bueno, ya sé,  cuando quieran repetimos  la reta, hay otros videojuegos  que soy buenísimo.  
+- character: aris
+  line: dirás "malísimo".  
+- character: olegario
+  line: no, otros, dije.  buenísimo, de verdad.  
+- character: elsa
+  line: bueno, los llevo  a la privada, si quieren.  
+- character: carlota
+  line: no, no, gracias, ma,  voy a caminar con aris.  tenemos mucho que platicar.  
+- character: aris
+  line: sí.  
+- character: carlota
+  line: sí, bye.  
+- character: elsa
+  line: con cuidado.  te la encargo, por favor.  
+- character: olegario
+  line: mucho gusto.  
+- character: aris
+  line: muchas gracias.  te voy a adelantar tu regalo  de cumpleaños, pero antes de eso  quiero que cantemos los dos  la canción.  
+- character: temo
+  line: pero ¿aquí entre  detergente y suavizante?  bueno, va,  pero no me la sé toda.  
+- character: aris
+  line: yo--yo te ayudo.  justo necesitamos suavizar  la preocupación, temo.  y cualquier escenario  es perfecto, si tienes  la compañía perfecta.  [música]  
+- character: aris
+  line: ahora--  
+- character: ambos
+  line: [gimen]  
+- character: nora
+  line: ay, perdón, perdón,  perdón, muchachos.  lo hice sin querer.  
+- character: aris
+  line: no, no, no.  no se preocupe,  lo peor que puede pasar  es que terminemos oliendo  a lavanda de la montaña.  
+- character: nora
+  line: [ríe]  mi hermana dora no les ha dado  la mejor bienvenida,  pero yo soy más alivianada,  como dicen ustedes, los chavos.  ¿y qué les ha parecido  la ciudad?  
+- character: ambos
+  line: ruidosa.  
+- character: aris
+  line: sí, es como intensa.  como que siento que la gente  siempre está yendo de arriba  para abajo, de un lado  para otro, corriendo.  
+- character: nora
+  line: sí, así es.  bueno, ya se acostumbrarán.  ustedes nada más concéntrense  en no perder esa chispa  de inocencia.  y, digan... perdón la pregunta,  pero ¿cómo fue la primera vez  que ustedes dos se vieron?  
+- character: ambos
+  line: [hablan a la vez]  
+- character: nora
+  line: bueno, me queda claro  que fue muy especial.  yo los admiro por defender  lo que son y lo que sienten.  [música]  
+- character: carlota
+  line: muchas gracias,  están muy lindas.  
+- character: ubaldo
+  line: me preocupé mucho  por lo que te pasó.  aunque 30 rosas no son  suficientes para decirte  cuánto me importas.  
+- character: carlota
+  line: tú también  me importas mucho, ubaldo.  
+- character: aris
+  line: itemo!  
+- character: temo
+  line: ¿qué pasó, dónde estás?  ¿aris, dónde estás?  >> ifeliz cumpleaños!  
+- character: todos
+  line: [ríen]  
+- character: aris
+  line: siempre agradeceré  el día en que naciste, temo.  
+- character: temo
+  line: [balbucea]  
+- character: aris
+  line: aquí empiezas un festejo.  tienes que pedir un deseo.  
+- character: elsa
+  line: deseo volver a unir  a mi familia.  
+- character: carlota
+  line: deseo hacer justicia.  
+- character: olegario
+  line: que las segundas  oportunidades sí existan.  
+- character: soledad
+  line: deseo, un día,  poder valorarme.  
+- character: diego
+  line: ya no sentirme tan solo.  
+- character: ubaldo
+  line: lo único que yo quiero  es ganar.  
+- character: dora
+  line: deseo encontrar a mi hijo.  
+- character: nora
+  line: deseo sentirme libre.  
+- character: thiago
+  line: encontrar a alguien  que me ame de verdad.  
+- character: pancho
+  line: yo deseo ver a mis hijos  felices.  
+- character: polita
+  line: ser mejor cada día,  por ellos.  
+- character: eduardo
+  line: deseo estar cerca  de polita y sus hijos.  
+- character: temo
+  line: deseo que estemos juntos  toda la vida.  deseo que triunfemos  como pareja, como personas,  como familia.  
+- character: polita
+  line: ya sopla el pastel,  yerno.  
+- character: julio
+  line: iqueremos pastel!  
+- character: polita
+  line: isí!  
+- character: todos
+  line: [celebran]  imordida, mordida,  mordida, mordida!  imordida, mordida!  
+- character: temo
+  line: no, no.  
+- character: aris
+  line: mordidita.  
+- character: temo
+  line: ok.  
+- character: todos
+  line: [ríen]  
+- character: temo
+  line: aris... aris.  
+- character: aris
+  line: cierra los ojos, temo.  usted se supone que todavía  tenía que seguir dormido,  señor cuauhtemoc lópez.  es su cumpleaños.  
+- character: temo
+  line: nada más no me vayas  a embarrar otro pedazo  de pastel.  
+- character: ambos
+  line: [ríen]  
+- character: aris
+  line: [gime]  
+- character: temo
+  line: [ríe]  
+- character: aris
+  line: ahora sí, despierta  y mira que ya amaneció.  
+- character: temo
+  line: [ríe]  
+- character: soledad
+  line: te hice  tamalitos canarios,  te hice unos sopecitos.  huevito ranchero,  que sé que te gusta mucho.  chorizo verde de toluca,  salsita verde, roja.  pan recién hechecito,  calientito, chocolatito caliente  o café de hoy,  a lo que tú quieras.  y pues todo lo que te hace falta  para que empieces tu día  con el pie derecho.  
+- character: ubaldo
+  line: pues yo te puedo decir  muchísimas gracias, soledad,  pero ¿qué mosco te picó?  
+- character: soledad
+  line: ya sé que lo nuestro  no ha estado muy bien  que digamos últimamente,  pero ¿no crees que deberíamos  de intentarlo otra vez?  
+- character: ubaldo
+  line: [ríe]  
+- character: temo
+  line: a ver...  
+- character: aris
+  line: solo no lo apretes mucho,  lo vas a lastimar.  
+- character: temo
+  line: ¿dónde lo pongo?  esto--está muy bonito.  ¿a qué hora lo compraste?  
+- character: aris
+  line: hoy es tu cumple, mi temo,  y tú te mereces todo,  porque te amo, quiero comprarte  todas las flores del mundo.  aparte, el girasol le va a dar  un nuevo aire al cuarto.  ¿qué te parece si redecoramos  un poquito?  
+- character: temo
+  line: me encanta la idea.  sí, sí, sí, me encanta.  así, que sea nuestro hogar.  [ruidos]  ¿son diego y carlota?  no me gusta que nos estemos  guardando secretos, aristoteles.  y lo de carlota me tiene  muy inquieto.  
+- character: aris
+  line: yo sé que los secretos  no son buenos, pero a veces  son necesarios.  
+- character: temo
+  line: no consideres,  aristoteles, yo recuerdo todo  lo que los secretos provocaron  en la familia.  
+- character: aris
+  line: temo, yo sé, pero le di  mi palabra a carlota.  aparte sé que en su momento  ella va a decir la verdad.  confía en mí, "porfa".  
+- character: diego
+  line: mi mamá nos mandó  tamales canarios  por tu cumpleaños, temo.  también café de olla, chocolate,  pan, chorizo verde,  ¿te acuerdas?  como cuando éramos niños.  
+- character: temo
+  line: soledad siempre ha sido  como una madre para mí.  
+- character: diego
+  line: ¿no te da gusto  que ya puedas estar con temo  sin que te metan a la cárcel,  aristoteles?  
+- character: aris
+  line: qué chistoso eres,  me caes increíble.  
+- character: diego
+  line: lo sé, por eso cuídenme.  
+- character: carlota
+  line: a lo mejor y podemos  festejar en la noche, ¿no?  estaría padre.  temo, aris, hoy más que nunca  quiero darles las gracias.  porque aunque estemos lejos  de nuestras familias,  entre nosotros cuatro  nos necesitamos y nos apoyamos.  
+- character: aris
+  line: de eso se trata, de darnos  fuerzas y superar todas  las pruebas, sean las que sean.  
+- character: diego
+  line: ¿me perdí de algo?  ustedes están muy raros.  
+- character: todos
+  line: [hablan a la vez]  
+- character: diego
+  line: temo, te buscan.  >> [llora]  
+- character: daniela
+  line: ifeliz cumpleaños,  temo!  feliz cumpleaños.  
+- character: temo
+  line: hola...  [música]  [música]  
+- character: ubaldo
+  line: la comida estaba  muy pero muy rica.  muchas gracias.  
+- character: soledad
+  line: es porque te amo,  ubaldo.  [celular]  
+- character: ubaldo
+  line: pancho, amigo,  pero qué sorpresa.  ¿a qué debo el honor?  
+- character: pancho
+  line: gracias por echarle  un ojo al "temochas"  y al "aristófanes".  ya me enteré de que temo  es tu favorito.  
+- character: ubaldo
+  line: cuauhtemoc  es como mi hijo, pancho.  es lo mínimo que podría  hacer por ti.  
+- character: pancho
+  line: ¿ya lo felicitaste  por su cumpleaños?  hoy cumple 18 añotes,  felicítalo.  
+- character: soledad
+  line: juanita, juanita,  pásame la pluma.  la que está en la mesa.  
+- character: ubaldo
+  line: justamente ahorita  me iba a saludarlos  al condominio.  
+- character: pancho
+  line: ah, qué a todo dar.  oye, hermano,  mandé a mis "calcamonías"  con su tía daniela para allá.  y yo no puedo ir porque estoy  atorado en la chamba.  ¿crees que puedas echarle  otro ojo?  es lo bueno de tener  dos oclayos.  [ríe]  
+- character: ubaldo
+  line: pero por supuesto  que sí, pancho,  tu familia es mi familia.  y para mí la familia siempre  ha sido lo más importante.  [claxon]  
+- character: polita
+  line: ¿es ubaldo, no?  
+- character: ubaldo
+  line: qué bueno  que los alcancé.  
+- character: diego
+  line: para los que no  lo conozcan,  le presento a mi papá.  
+- character: ubaldo
+  line: ¿cómo están?  
+- character: polita
+  line: hola, ubaldo.  
+- character: ubaldo
+  line: mira, qué grandes están  julio y lupita.  
+- character: daniela
+  line: yo soy daniela,  y ellos son mis trillizos.  eugenia, lucía y gabrielito.  
+- character: ubaldo
+  line: qué bonitos.  pancho me los encargó muchísimo.  hola, ¿cómo estás, hermoso?  así que podemos salir a pasear  cuando quieran.  
+- character: polita
+  line: sí, vamos a pasear.  
+- character: daniela
+  line: gracias, pero no  queremos incomodar tanto.  yo ya conozco la ciudad  y podemos salir más al rato.  
+- character: ubaldo
+  line: la familia de pancho  es también la mía, daniela.  además, no es lo mismo venir  de turistas que ser huéspedes  del futuro jefe de gobierno  de esta ciudad.  así que déjense consentir.  los invito al evento político  que será en un momento,  ¿qué les parece?  temo, feliz cumpleaños.  
+- character: temo
+  line: no, no, señor, ¿cómo cree?  no, no, yo no puedo aceptar eso,  no, discúlpeme, no.  
+- character: julio
+  line: ¿estás loco, temo?  es un carrazo, ¿ya viste--?  tiene un motor de 16 válvulas  y una inyección multipunto.  
+- character: ubaldo
+  line: [ríe]  exacto.  
+- character: julio
+  line: ¿qué?  me gustan las naves.  
+- character: lupita
+  line: ay, julio, no se 
+- character: dice
+  line:  "naves", se dice "vehículos"  e incluso "automóviles".  
+- character: temo
+  line: señor, muchas gracias,  pero es que es demasiado.  ¿cómo se lo voy a aceptar?  no, señor, no, no.  
+- character: polita
+  line: ubaldo, creo que  en esta ocasión voy a ponerme  del lado de temo,  un coche es mucho.  
+- character: ubaldo
+  line: ya sé,  ¿qué les parecería si lo ven  como un regalo para todos?  carlota, diego, aris y tú  son muy unidos.  así pueden moverse más fácil  por la ciudad,  ir a la universidad.  para hacer sus cosas.  temo, los regalos  no se devuelven, tú ya sabes  que eres como un hijo para mí.  
+- character: temo
+  line: señor, lo siento,  pero yo no puedo aceptar  un regalo así,  porque no me quiero comprometer.  
+- character: ubaldo
+  line: temo, no estoy  esperando nada a cambio,  piénsalo como un bien mayor.  
+- character: temo
+  line: mi papá nunca me dejaría  tener algo así,  lo siento, señor.  mi respuesta seguirá siendo  la misma, discúlpeme.  
+- character: ubaldo
+  line: lo intenté.  los veo en el evento, ¿vale?  a eso no me van a decir que no,  ¿verdad?  diego, vámonos.  
+- character: polita
+  line: requiere mucho valor  no aceptar un regalo así,  mi niño.  >> ubaldo ortega.  >> ubaldo ortega.  >> ubaldo ortega.  
+- character: todos
+  line: te cumple de corazón.  te cumple de corazón.  [aplauden]  iubaldo, ubaldo!  iubaldo, ubaldo!  
+- character: ubaldo
+  line: gracias, muchas gracias,  siéntense, siéntense, por favor.  sin ustedes el cambio  no sería posible.  
+- character: todos
+  line: [aplauden]  
+- character: ubaldo
+  line: pero no podría lograr  esto sin mi maravilloso equipo.  y hoy el más joven de ellos  está de cumpleaños.  
+- character: todos
+  line: [aplauden]  el es temo, ven.  ven, temo.  ven, por favor.  temo, como los hijos  de muchos de ustedes,  es un joven con ganas  de un mejor futuro.  y esta tarde me acompañan  todos sus seres queridos.  como jefe de gobierno  les voy a cumplir un 
+- character: deseo
+  line:  una ciudad mejor,  porque cada uno de ustedes  son mi familia.  
+- character: todos
+  line: [aplauden]  
+- character: ubaldo
+  line: basta de ser político,  mejor celebremos  que ya viene el cambio.  
+- character: todos
+  line: [aplauden]  iubaldo, ubaldo!  iubaldo, ubaldo!  iubaldo, ubaldo!  [música]  
+- character: carlota
+  line: temo, perdón  si he estado causando problemas  entre aris y tú.  te juro que no es mi intención.  pero, por favor,  no le digas a nadie.  
+- character: temo
+  line: aristoteles confió en ti,  yo confío en mi novio.  aunque yo no esté de acuerdo,  voy a guardar el secreto.  pero por favor, piensa bien  lo que estás haciendo.  tu relación con ubaldo  puede cambiarlo todo.  [música]  [música]  
+- character: ubaldo
+  line: bien, jóvenes.  ¿ya comieron?  la comida está muy buena.  
+- character: temo
+  line: en eso estamos, señor,  muchas gracias.  
+- character: ubaldo
+  line: perfecto,  espero que estén  disfrutando del evento.  
+- character: carlota
+  line: sí, sí,  y logré muy buenas tomas  para el documental.  
+- character: ubaldo
+  line: eso me da muchísimo  gusto, carlota.  sigan pasándola bien,  diviértanse.  
+- character: temo
+  line: muchas gracias, señor,  muchas gracias.  [aplausos]  
+- character: todos
+  line: [aplauden]  
+- character: thiago
+  line: gracias, gracias.  gracias, se lo agradezco,  gracias, gracias, tanto cariño,  tanto apoyo, se los agradezco  de verdad.  pero quiero aprovechar  para subir a una fan  que está llena de luz y chispa.  >> ay, quién fuera carlota.  
+- character: thiago
+  line: carlota me confesó  que es fan de todas  mis canciones y mis videos  desde hace muchísimo tiempo.  así que ¿qué les parece  si bailamos una rola?  >> isí!  
+- character: elsa
+  line: no sabía que carlota  era fan de thiago.  
+- character: olegario
+  line: bueno, yo tampoco,  pero me encanta ver  que se divierta.  siento que carlota  no se permite ser feliz.  
+- character: elsa
+  line: qué raro.  [música]  
+- character: todos
+  line: [aplauden]  
+- character: diego
+  line: ¿sabes qué es lo peor  del caso?  que sí se ven bien juntos.  pero thiago se vería mejor  conmigo, la verdad.  
+- character: ubaldo
+  line: muchísimas gracias,  thiago... un aplauso,  por favor, muy grande,  para la música de thiago.  
+- character: thiago
+  line: gracias.  
+- character: todos
+  line: [aplauden]  
+- character: ubaldo
+  line: y de esta manera,  rodeados de alegría y de unión,  cerramos este evento.  donde recordamos que la familia  siempre estará primero.  
+- character: todos
+  line: [aplauden]  
+- character: ubaldo
+  line: también quiero  aprovechar esta oportunidad  para cerrar el festejo  de temo lópez.  
+- character: carlota
+  line: yo creo  que no nos escuchó.  
+- character: ubaldo
+  line: temo, ven.  
+- character: aris
+  line: venga, viva, temo.  
+- character: olegario
+  line: ay, ahora es  el mareador de las masas.  
+- character: elsa
+  line: sí, tiene un imán natural.  
+- character: olegario
+  line: ajá, aunque cuenta  con todo tu respaldo.  porque detrás de todo gran  político, hay una gran mujer.  
+- character: elsa
+  line: [gime]  
+- character: ubaldo
+  line: les iba a pedir  que cantáramos "las mañanitas",  pero su suegra,  mi querida doña pola, me dio  una mejor idea, ¿me ayudan?  
+- character: todos
+  line: isí!  
+- character: ubaldo
+  line: los hermanos de temo  le tienen lista una gran  sorpresa, que tienen planeada  desde el mejor lugar.  el corazón.  [música]  
+- character: daniela
+  line: tía, creo que nos  quedaron muy bien los disfraces.  
+- character: dora
+  line: sí, fue ocurrencia  de las calcomanías  pero son un hit.  [música]  
+- character: carlota
+  line: oye, necesito  hablar contigo, thiago.  [música]  
+- character: dora
+  line: no vamos a ser parte  de este ridículo.  ay, con decirte que prefiero  ver los noticieros  que este showcito.  [música]  >> ¿no crees que estos dos  son demasiado cursis?  ya sé que son tus amigos,  pero son demasiado melosos.  
+- character: diego
+  line: no entiendo a qué van  tus comentarios.  >> a que tenemos enfrente  de nosotros un show  sobre "aristemo".  y que no sé, que yo creo  que tú haces mejor pareja  con cuauhtemoc, yo digo.  [música]  
+- character: todos
+  line: [aplauden]  
+- character: carlota
+  line: no sé de dónde sacaste  que soy tu fan, para nada.  
+- character: thiago
+  line: carlota...  
+- character: carlota
+  line: ¿por qué te ríes?  ¿cuál es el chiste?  estoy diciendo  que no me gusta tu música.  
+- character: thiago
+  line: acabas de abrir  una meta para mí, carlota.  gustarte.  
+- character: carlota
+  line: te estás enredando,  thiago, y gustar es el verbo  que menos pretendo  conjugar contigo.  
+- character: thiago
+  line: en presente tal vez no,  pero ¿qué tal en futuro?  
+- character: carlota
+  line: ni en presente,  ni en pasado ni en futuro.  la neta me pareces  un tanto presumido.  
+- character: thiago
+  line: creo que en este mundo  solemos juzgar muy rápido  a las personas.  solo por su envoltura  y no por su alma.  
+- character: carlota
+  line: [ríe]  por lo visto,  sí eres compositor.  pero eso no te quita el error  de haberme sacado a bailar.  
+- character: thiago
+  line: lo hice  porque me interesas, carlota,  y no lo puedo negar.  entre nosotros surgió  electricidad, y literalmente.  quisiera descubrir qué hay  detrás de esos ojos tan bonitos.  yo sí quiero... yo sí quiero  conjugar el verbo en presente.  me gustas.  [música]  [música]  
+- character: eduardo
+  line: hola, amor,  ¿cómo estás?  
+- character: polita
+  line: con helado.  
+- character: daniela
+  line: hola.  
+- character: polita
+  line: hola.  
+- character: daniela
+  line: ¿y ahora por qué traen  esa cara de travesura?  
+- character: temo
+  line: ¿nosotros?  no, para nada, no.  
+- character: lupita
+  line: sí, hermano,  se ven un poco nerviosos.  ¿qué hicieron?  
+- character: daniela
+  line: así le hacen  mis trillizos  cuando rompieron algo.  
+- character: polita
+  line: hubo otro pleito  con doña dora, ¿verdad?  
+- character: eduardo
+  line: polita, ¿crees  que podamos salir esta noche  tú y yo solos?  
+- character: polita
+  line: ¿hoy?  amor, tenemos visitas,  hay que cuidar a arqui.  
+- character: daniela
+  line: tía, salgan  sin preocuparse, yo le puedo  echar un ojo a los niños.  
+- character: aris
+  line: sí, aparte, cualquier cosa  yo estoy en mi depa, ma.  
+- character: polita
+  line: si hicieron  una travesura, mejor díganmelo  ya de una vez.  
+- character: aris
+  line: no, mamá, tranquila.  yo creo que eduardo quiere  que tengan un espacio  para los dos, y ya.  
+- character: polita
+  line: bueno, pero regresamos  temprano, amor.  mañana empiezo mi primer día  en la universidad.  
+- character: julio
+  line: oye, mamá, tengo hambre.  
+- character: polita
+  line: te acabas de comer  un helado, a ver, vente.  vamos a ver qué te preparo.  ahorita nos vemos.  
+- character: lupita
+  line: yo te acompaño, polita.  
+- character: polita
+  line: sí... niño comedor  de helados.  
+- character: daniela
+  line: no es nada malo,  ¿verdad?  
+- character: eduardo
+  line: no, no, no,  es muy bueno.  
+- character: aris
+  line: es muy bueno,  es muy bueno.  hoy quiero que temo tenga  una noche muy especial.  
+- character: temo
+  line: ya la haces especial, ari.  
+- character: ambos
+  line: [ríen]  [celular]  
+- character: carlota
+  line: es de la oficina.  [celulares]  
+- character: ubaldo
+  line: temo, me van a hacer  una entrevista,  y quiero que estés presente.  
+- character: temo
+  line: señor, pero yo ya tenía  un compromiso con aris.  
+- character: ubaldo
+  line: el trabajo es primero,  cuauhtemoc, hagan un sacrificio.  te espero en la casa de campaña.  
+- character: olegario
+  line: hay una pregunta  en la cabeza de todos  los 
+- character: votantes
+  line:  ¿por qué subir a un joven  inexperto al escenario  en tu último evento?  
+- character: ubaldo
+  line: olegario, el joven  al que tú te refieres  se llama cuauhtemoc lópez.  
+- character: olegario
+  line: la cuestión sigue  siendo la misma, ¿por qué hacer  tanto ruido con un becario  cuando la ciudad tiene  mayores preocupaciones  que su cumpleaños?  >> eso es un buen punto,  eso es un buen punto.  
+- character: ubaldo
+  line: mira, las elites  piensan que los individuos  no tienen nombre y que, además,  no son importantes.  y para mí, el pueblo es  lo más importante, olegario.  y estos muchachos, inteligentes,  propositivos y sobre todo,  trabajadores,  necesitan ser apoyados.  
+- character: olegario
+  line: ubaldo, te estás  postulando para gobernar  una ciudad,  no un consejo estudiantil.  
+- character: ubaldo
+  line: desde luego  que yo lo sé, pero la ciudad  la conforman personas, olegario.  y si yo no cuento con el apoyo  de cada una de esas personas,  mi campaña no tiene  ningún sentido.  yo quiero que jóvenes  como cuauhtemoc lópez  tengan todas las oportunidades  que esta ciudad puede darles.  >> bueno, querido público,  ustedes tienen  la última palabra.  queremos su opinión,  vamos a un corte y regresamos.  
+- character: soledad
+  line: disculpe.  
+- character: collins
+  line: ¿soledad elizalde?  
+- character: soledad
+  line: sí, soy yo.  
+- character: collins
+  line: escultora, ¿no?  
+- character: soledad
+  line: sí, sí.  
+- character: collins
+  line: justo acabo  de adquirir esta pieza.  es un honor conocerla,  soy un gran admirador de su obra  y su belleza.  
+- character: soledad
+  line: muchas gracias.  
+- character: collins
+  line: collins araujo.  es un placer conocerla.  
+- character: soledad
+  line: el gusto es mío.  
+- character: julio
+  line: hubieras hecho  unas tortas de chorizo  y de tamal, aris.  
+- character: lupita
+  line: ay, julio, acuérdate  que temo cena ligero.  se puede enfermar de la panza.  
+- character: julio
+  line: tienes razón, lupita,  no queremos que andes  como trompeta.  
+- character: aris
+  line: lo único que quiero  es que ahorita me recuerden  los mejores momentos  que vivimos en oaxaca.  
+- character: lupita
+  line: [suspira]  
+- character: diego
+  line: [suspira]  
+- character: todos
+  line: muy cursi, aristoteles.  
+- character: aris
+  line: [chista]  [alerta de mensaje]  [temo] después de la entrevista,  tengo que ir con ubaldo  a su oficina.  estoy tratando de apurarme,  perdón.  
+- character: aris
+  line: [suspira]  oigan, calcomanías,  ¿por qué no van mientras  al depa de mi mamá y les aviso  cuando temo llegue?  
+- character: julio
+  line: ¿no quieres  que te traigamos unos dulces  que compramos en la central?  
+- character: lupita
+  line: te harán sentir mejor.  
+- character: aris
+  line: no, no, no, gracias,  estoy bien, se los juro.  gracias.  
+- character: diego
+  line: vamos, los acompaño.  
+- character: ubaldo
+  line: temo, sé lo que es  estar en tu posición,  con un trabajo demandante,  que exige muchos sacrificios.  y no sabes cuánto me duele  haberme alejado de mi familia.  diego resiente que no estamos  tan unidos como antes.  y es mucho más difícil  con soledad, me reclama  todos los días que no estoy  suficiente tiempo con ella.  cada día es una maldita  pesadilla.  
+- character: temo
+  line: no sabía, ubaldo.  
+- character: ubaldo
+  line: pero ¿sabes por qué  hago todo esto?  ¿sabes por qué me dedico  a la política?  por mi hermana flora.  ella, temo, murió cuando yo  era un niño, y todo porque nunca  fuimos importantes  para la gente en el poder.  fuimos maltratados, humillados,  y abusaron de mi familia.  yo me prometí que nadie  nos iba a volver a pisar.  sé que es un tema sencillo,  pero imagínate qué habría pasado  si yo hubiera tenido  las oportunidades  que tú tienes, temo.  aprovecha este momento.  
+- character: temo
+  line: yo soy responsable,  pero yo siento que hay veces  que tenemos que darnos tiempo  para el trabajo,  para la familia,  podemos organizarnos  y nos organizamos con todo,  entonces--  
+- character: ubaldo
+  line: no, no, temo.  la realización  significa sacrificios.  sé que es difícil,  pero lo que tú puedes lograr  cerca de mí...  vale mucho la pena.  no importa que te tengas  que alejar de lo que más ames  en este mundo.  [música]  [música]  
+- character: eduardo
+  line: bella señora.  ¿quiere casarse con este  caballero y vivir eternamente  en su reino?  
+- character: polita
+  line: [llora]  
+- character: eduardo
+  line: tú cambiaste mi mundo.  me demostraste que eres  una mujer inteligente, capaz,  que puede luchar por sus hijos  y por su familia.  quiero ser parte permanente  de tus sueños, polita.  quiero ser ese hombre  que te acompañe a cada paso.  quiero ser esa persona  que te llene en todos  los sentidos.  
+- character: polita
+  line: sí, eduardo,  claro que sí, eduardo.  claro que acepto.  [gime]  ¿crees que nos podamos  regresar a la casa?  
+- character: eduardo
+  line: sí.  
+- character: temo
+  line: arruiné todos los planes  que teníamos para hoy...  
+- character: ubaldo
+  line: temo,  ¿sabes qué me funciona  cuando soledad está molesta?  le llevo una sorpresa.  
+- character: temo
+  line: gracias.  [música]  >> ♪ me espero  no voy a marcharme  no voy a alejarme  sin antes decir  que lloro  que sufro al mirarte  tan cerca mis manos ♪  
+- character: aris
+  line: temo, se supone  que la sorpresa te la tenía  que dar yo.  
+- character: temo
+  line: las sorpresas me las dio  la vida contigo,  aristoteles córcega.  >> ♪ porque ya creo merecerte  porque ya logré ponerte  en mi alma  tu más grande altar  ay, pero quiéreme  solo basta una sonrisa  para hacerte tres regalos  son el cielo, la luna y el mar ♪  
+- character: dora
+  line: [gime]  
+- character: nora
+  line: dora.  
+- character: dora
+  line: esos aristemos  me van a oír, les dije  que no quería escándalos.  
+- character: nora
+  line: hermana, déjalos,  déjalos nada más un ratito.  nada más esta noche.  
+- character: dora
+  line: si los dejo una noche,  van a hacer lo mismo  todas las demás.  
+- character: nora
+  line: pero ya escuchaste  a nuestro hermano  en su entrevista,  cuauhtemoc le importa.  además, es su cumpleaños,  tenemos muchas más noches  para pelearnos.  
+- character: dora
+  line: bueno, si le vuelven  a hacer, ahora sí,  ubaldo me va a escuchar.  y esos muchachitos me van  a conocer realmente enojada.  ♪ y además dime que sí ♪  
+- character: dora
+  line: inora!  
+- character: nora
+  line: [gime]  
+- character: temo
+  line: tenemos un camino difícil  por delante,  sigamos luchando juntos.  
+- character: aris
+  line: gracias por existir.  >> ♪ solo basta una sonrisa  para hacerte tres regalos  son el cielo, la luna  y el mar ♪  
+- character: carlota
+  line: perdón,  se me hizo tarde.  
+- character: ubaldo
+  line: aristoteles y cuauhtemoc  ya saben de nuestra relación.  ¿por qué no me lo habías dicho?  
+- character: carlota
+  line: ubaldo--  
+- character: ubaldo
+  line: te hice una pregunta.  
+- character: carlota
+  line: no te dije  porque quería protegerte.  quería proteger lo nuestro.  pero ellos no van a decir nada,  me lo prometieron.  
+- character: ubaldo
+  line: y tú me prometiste  que podía confiar en ti.  
+- character: carlota
+  line: por favor, ubaldo,  te necesito.  tú y yo somos una buena pareja.  
+- character: ubaldo
+  line: carlota,  este es el final de lo nuestro.  tú y yo no somos nada.
+---
+characters:
+- julio
+- collins
+- soledad
+- ambos
+- pancho
+- diego
+- dice
+- nora
+- eduardo
+- daniela
+- deseo
+- todos
+- polita
+- elsa
+- dora
+- aris
+- carlota
+- votantes
+- ubaldo
+- olegario
+- temo
+- lupita
+- thiago

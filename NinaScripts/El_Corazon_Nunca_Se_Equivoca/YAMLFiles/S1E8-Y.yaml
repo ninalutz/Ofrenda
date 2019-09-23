@@ -1,0 +1,726 @@
+isf_version: '0.1'
+scriptconv_version: '0.1'
+src: put something here? --> A bit unsure not gonna lie lol oops
+---
+- character: aris
+  line: perdóname, por favor, te lo suplico. mi hermano se perdió. 
+- character: polita
+  line: ¿dónde se perdió tu hermano? 
+- character: aris
+  line: fue en el mercado. me distraje con algunas fans y de pronto se soltó de la mano. el--él fue a ver--él fue a ver y dijo que quería un juguete, pero no regresó a ese puesto. fuimos a buscarlo ahí y a todos lados. 
+- character: polita
+  line: ¿ya le avisaron a la policía? 
+- character: aris
+  line: sí, sí, ya activaron la alerta "amber". 
+- character: diego
+  line: mi papá no me contesta, pero podemos pedirle ayuda. 
+- character: polita
+  line: voy a buscarlo en-- en cada calle, en cada lugar. 
+- character: aris
+  line: ma, ma, pero es que ¿por dónde vamos a empezar? esta ciudad es enorme. 
+- character: polita
+  line: por donde sea, por donde estuvieron. [llora] mi arquímedes, ino! 
+- character: aris
+  line: imamá! 
+- character: ambos
+  line: [lloran] 
+- character: thiago
+  line: hola, amigos, el pequeño se llama arquímedes córcega castañeda. ya tienen las fotos, así que si alguien lo ha visto o tienen alguna información, lo que sea, por favor, escríbanme de inmediato. voy a estar pendiente a todos los comentarios, ¿va? yo sé que juntos podemos encontrarlo. 
+- character: polita
+  line: por favor, déjame salir. 
+- character: aris
+  line: mami, mami, no conocemos esta ciudad. 
+- character: diego
+  line: mi papá está en la conferencia y la policía quedó de llamarme si tenía noticias. 
+- character: polita
+  line: vamos--vamos al ministerio público, entonces. 
+- character: aris
+  line: ma, ma, a ver, ya subí videos a mis redes sociales, ya subí fotos. lo van a encontrar. 
+- character: ambos
+  line: [lloran] 
+- character: eduardo
+  line: ¿hay alguna noticia? ¿alguien ha hablado? ya hablé con todos mis contactos. están intensificando la búsqueda. las fotos de arqui están en todos los portales. va a aparecer, ¿eh? 
+- character: aris
+  line: perdón, ma. [llora] 
+- character: polita
+  line: no puedo estar tranquila con nada. no hasta ver la cara de mi niño. llévame cerca de ese mercado. necesito encontrarlo. 
+- character: eduardo
+  line: amor, amor, amor... 
+- character: temo
+  line: lo siento, carlota, pero ubaldo dijo que tiene pruebas, ¿eh? yo creo que dice la verdad. 
+- character: carlota
+  line: mi papá es incapaz de algo así. el es un hombre honesto. ha criticado a ubaldo, pero siempre de frente. 
+- character: temo
+  line: perdón, carlota, perdón, pero yo ya no entiendo nada de tu situación. hablas como si odiaras a ubaldo. [suspira] a ver... [aris] te necesito mucho. 
+- character: temo
+  line: tahi, ¿qué tienes? ¿cómo estás? 
+- character: aris
+  line: mal, temo. muy mal. 
+- character: temo
+  line: ¿por qué? ¿qué pasó? 
+- character: aris
+  line: mi hermano-- [solloza] mi hermanito se perdió. 
+- character: temo
+  line: ¿qué? no--¿dónde? ¿en la privada o qué pasó? 
+- character: aris
+  line: no, no, fue en el mercado. 
+- character: temo
+  line: ¿y qué hacías en el mercado? 
+- character: mirna
+  line: temo, el señor ortega te quiere en su oficina. 
+- character: temo
+  line: gracias, mirna, ahí voy. sí, sí, ahorita. tahi, amor, tengo que ir con mi jefe ahorita, ¿ok? pero avísame si necesitas ayuda aquí, ¿ok? lo que sea. arqui es muy inteligente y va a pedir ayuda, así que te juro que va a aparecer. te amo y mucho. 
+- character: carlota
+  line: ¿qué pasó? 
+- character: temo
+  line: el hermanito de ari se perdió. 
+- character: elsa
+  line: creo que lo que usted dijo es completamente falso. 
+- character: ubaldo
+  line: ¿me estás llamando mentiroso, elsa? 
+- character: elsa
+  line: sí, estoy diciendo que usted es un mentiroso. 
+- character: ubaldo
+  line: [golpea el escritorio] creo que debes de cuidar tu actitud y sobre todo tus palabras. 
+- character: elsa
+  line: y creo que usted debió cuidar sus declaraciones y su estrategia, señor. porque no está basado en la verdad. 
+- character: ubaldo
+  line: no iba a permitir que me difamaran. 
+- character: elsa
+  line: pero no tenía que llevarse a olegario entre la corriente. 
+- character: ubaldo
+  line: no estás siendo objetiva, elsa. lo defiendes porque todavía estás casada con él. 
+- character: elsa
+  line: no, señor, no se equivoque. soy una profesional y soy 100 por ciento objetiva. defiendo a olegario porque sé que es un hombre íntegro. y él no fabricó ese video. meto las manos al fuego por él. 
+- character: ubaldo
+  line: pues vas a salir quemada porque hay pruebas. y se están investigando muchas más. 
+- character: elsa
+  line: expóngame qué pruebas son. andele, déjeme callada. 
+- character: carlota
+  line: iay! 
+- character: thiago
+  line: ¿qué? 
+- character: carlota
+  line: creí que era un mosco. y como que no estás muy alejado de la realidad. 
+- character: thiago
+  line: ay, ¿sabes qué? me encanta cuando te metes conmigo, pero mejor dime un abejorro, ¿no? soy más dulce. 
+- character: carlota
+  line: ¿sabes qué? te voy a tener un matamoscas gigante, o un insecticida como de este tamaño. 
+- character: thiago
+  line: bueno, bueno, mejor el matamoscos, ¿eh? porque con ese insecticida me has despeinado todo. 
+- character: carlota
+  line: creo que lo mejor será que me ponga repelente. 
+- character: thiago
+  line: si me conocieras de verdad, no dirías ni que soy mosco ni molesto. 
+- character: carlota
+  line: de hecho, acabo de ver que subiste un video para ayudar a encontrar al hermanito de ari. 
+- character: thiago
+  line: sí, todavía no tengo noticias, pero nunca hay que perder la fe, ¿no? 
+- character: carlota
+  line: mira, primera vez que estoy de acuerdo contigo. nunca hay que perder la fe. 
+- character: thiago
+  line: ¿quieres? 
+- character: carlota
+  line: no. 
+- character: ubaldo
+  line: symanski, con tus conocimientos tecnológicos, exponle a elsa cómo se produjo el video en mi contra. 
+- character: mateo
+  line: [carraspea] es evidente que tomaron el video del señor ortega donde habla de otro asunto y le insertaron otro audio compuesto por su misma voz. es algo que han hecho en otros países y es conocido como "deep fake". 
+- character: ubaldo
+  line: ultra falso. muy ad hoc con el ataque. 
+- character: mateo
+  line: es una técnica de inteligencia artificial que genera un video completamente falso, pero lo suficientemente realista para mostrar como hechos algo que es pura ficción. 
+- character: ubaldo
+  line: el pueblo es amable y maravilloso. el pueblo es fácilmente manipulable. 
+- character: elsa
+  line: la manipulación del video me queda clara. lo que quiero saber es cuáles son las pruebas que confirman que fue olegario. 
+- character: ubaldo
+  line: primero, el lenguaje utilizado. olegario me llamó "el mareador del pueblo" en su columna. y en el video truqueado se repite. segundo, se rastreó la ip y coincide con la zona y el edificio donde vive olegario cervantes. y tercero, él es el único que me ha atacado abiertamente. 
+- character: elsa
+  line: sinceramente, las pruebas son bastante débiles. pudo haber sido cualquiera. se debió investigar antes de declarar un culpable. 
+- character: ubaldo
+  line: mira, elsa, si te vas a poner del lado de mis enemigos, contrario a lo que se supone que debería hacer mi asesora y coordinadora de campaña, entonces, sí acepto tu renuncia. 
+- character: elsa
+  line: siempre estaré del lado de la justicia, señor. así que, por supuesto me voy, y con la conciencia tranquila, porque yo lo llevé a la cima. espero que gane... con honestidad. 
+- character: temo
+  line: señor, yo sé que usted está en una situación complicada, pero necesito su ayuda para encontrar al hermano de aristoteles. [llaman a la puerta] 
+- character: polita
+  line: [llora] [ríe][tema musical] 
+- character: soledad
+  line: yo vine aquí para cenar con mi hijo, no para preparar una fuga. 
+- character: nora
+  line: pero puedes hacer las dos cosas, ¿no? 
+- character: soledad
+  line: no, no, yo quiero cenar con mi hijo porque quiero que se sienta acompañado. 
+- character: nora
+  line: me parece perfecto. puedes cenar con diego y después vamos a la cafetería. tú no puedes salir si yo no voy y yo no puedo escaparme de aquí si tú no vas. estamos juntas en esto, soledad. ay, por favor, necesito respirar fuera de aquí. además, tengo mucha curiosidad de conocer al tal collins. como que parece que es un buen hombre, ¿no? 
+- character: soledad
+  line: pero si ni siquiera sé si va a estar ahí, por favor. mira, está bien, podemos salir, pero no por verlo a él. yo soy una mujer casada. 
+- character: nora
+  line: infelizmente casada. mira, yo sé que no estoy haciendo lo correcto, soledad, porque ubaldo es mi hermano. pero también sé que tú no eres feliz. y que él no te trata bien. 
+- character: soledad
+  line: sí, ya sé, ya sé, soy infeliz, pero no puedo usar eso como un pretexto. 
+- character: nora
+  line: ay, ya bastante nos hemos flagelado, soledad. mira, ve al tal collins como un amigo y punto. pero no hay marcha atrás. hoy salimos. 
+- character: soledad
+  line: está bien. 
+- character: dora
+  line: el policía llegó con arqui a la farmacia diciendo que el único nombre que se sabía en la ciudad era "farmacia sana dora". 
+- character: arqui
+  line: pero lo leo cuando salimos de la casa. 
+- character: diego
+  line: sana dora. siempre me pareció un nombre muy chistoso. 
+- character: aris
+  line: ay, cállate. 
+- character: dora
+  line: bueno, al menos la gente se acuerda del nombre. afortunadamente, arqui se supo acercar a un policía y llegó sano y salvo a mis manos. 
+- character: polita
+  line: sí, doña dora, no sabe cuánto le agradezco que haya traído a mi niño. es un milagro que esté aquí. 
+- character: eduardo
+  line: un verdadero milagro, considerando que estamos en la ciudad más grande del mundo. 
+- character: aris
+  line: y nunca debí descuidarte, hermanito. 
+- character: arqui
+  line: te quiero, hermano. 
+- character: aris
+  line: y yo más. te pido perdón mil veces, te lo juro. tú eres mi responsabilidad. 
+- character: polita
+  line: pero tú también fuiste responsable de lo que pasó, mi amor. te he dicho muchas veces que no puedes separarte de nosotros, y menos en la calle. 
+- character: aris
+  line: sí. 
+- character: polita
+  line: no debiste alejarte de tu hermano. 
+- character: arqui
+  line: perdón, mamá. 
+- character: polita
+  line: ¿sabes qué hubiera pasado si te roban? ¿si ese policía no te ayudaba? ¿sabes la cantidad de niños que se pierden todos los días y no regresan nunca a su casa? 
+- character: arqui
+  line: muchos, mamá. 
+- character: polita
+  line: yo no podría soportarlo si no te volvía a ver. jamás te vuelvas a separar, hijo. jamás. 
+- character: dora
+  line: es cierto, arqui. debes obedecer a tu mamá. 
+- character: polita
+  line: hoy vamos a aprendernos mi celular, el de tu hermano y nuestra dirección, ¿ok? y yo te prometo que voy a estar más cerca que nunca de ti. de ustedes. 
+- character: eduardo
+  line: bueno, pues para agradecer que estamos todos juntos, sugiero un paseo de familia mañana. podríamos ir a chapultepec. 
+- character: arqui
+  line: isí! 
+- character: aris
+  line: y aprovechando que es domingo y no trabajo. puedo invitar a temo, ¿verdad? ah, tengo que avisarle que arqui ya está con nosotros. a ver... [toma fotografías] 
+- character: todos
+  line: [ríen] 
+- character: ubaldo
+  line: sé que está la alerta amber, pero necesito más movimiento. [celular] [aris] tahi, mi hermanito ya está con nosotros. muero por estar contigo y abrazarte. 
+- character: temo
+  line: iseñor! arquímedes ya apareció. 
+- character: ubaldo
+  line: ya encontraron al niño. te informo después. 
+- character: temo
+  line: arqui ya está en su casa, lo ayudó un policía. ya está en su casa. 
+- character: ubaldo
+  line: gente comprometida con su ciudad y con su gente, temo. 
+- character: temo
+  line: señor, ¿de casualidad cree que pueda salir un poco antes para poder ir a verlos y estar con aristoteles? 
+- character: ubaldo
+  line: no. lo siento mucho, pero tenemos mucho trabajo. si quieres, puedes hablarle en alguna pausa. quiero que mateo y tú diseñen una publicación especial para nuestro portal web y redes explicándole a la gente la importancia de cuidar el agua, ¿sí? mañana voy a revisar el diseño. ya sé que esa cara 
+- character: significa
+  line: "mañana es domingo, señor", pero aquí, temo, se trabaja toda la semana. digo, si quieres trabajar en esto, ¿verdad? 
+- character: otto
+  line: aristoteles, llegaste tarde. muy tarde, más bien. 
+- character: aris
+  line: sí, sí, lo que pasa es que hubo un problema con mi hermano. 
+- character: otto
+  line: estás despedido. 
+- character: aris
+  line: no. no, otto, no me puedo quedar sin trabajo, por favor. no, iotto! 
+- character: olegario
+  line: sinceramente, me sorprendió mucho tu invitación, así que creí que merecía un brindis. 
+- character: elsa
+  line: ¿no viste la conferencia de ubaldo? 
+- character: olegario
+  line: sí, lo vi todo y ya me han querido entrevistar. 
+- character: elsa
+  line: olegario, te cité para decirte que creo en ti. te apoyo. 
+- character: carlota
+  line: ¿quiere ver parte del documental, señor ortega? 
+- character: ubaldo
+  line: en realidad solo quería verte aquí. te extraño, carlota. te voy a hacer una sola 
+- character: pregunta
+  line: a pesar del odio entre tu papá y yo, ¿es cierto que me amas? 
+- character: carlota
+  line: sí, no puedo evitar el amor por ti. 
+- character: ubaldo
+  line: talvez tú y yo podríamos volver a vernos. voy a pensarlo. por lo pronto, sigue luciéndote con mi documental. 
+- character: nora
+  line: tuve que cerrar la farmacia y venirme corriendo para acá. dora me va a matar. 
+- character: soledad
+  line: ay, no, hombre, no te preocupes. ¿no te topaste con diego? justo iba saliendo. [resuella] ahí está collins. 
+- character: nora
+  line: ¿a ver? está guapo. salúdalo. 
+- character: soledad
+  line: no, claro que no. hay que portarnos bien, no. 
+- character: dora
+  line: nora, ¿dónde andas? ay... ¿en dónde estarás metida? 
+- character: elsa
+  line: hemos pasado por altas, bajas y muy bajas, olegario. pero siempre he tenido claro que eres un muy buen hombre. siempre serás el padre de mi hija. bueno, de nuestros hijos. 
+- character: olegario
+  line: elsa, tus palabras consuelan mi alma. significa tanto que confíes en mí. significa todo. pero no tienes que renunciar por mí, elsa. yo voy a enfrentar a ubaldo y tú debes de seguir con tu éxito. 
+- character: elsa
+  line: no, no puedo seguir apoyando a un hombre que engaña. no, no. 
+- character: olegario
+  line: bueno, entonces, seamos más inteligentes que él. ayúdame a desenmascararlo desde adentro. 
+- character: elsa
+  line: ¿cómo? 
+- character: olegario
+  line: mira, regresa a trabajar con él y seamos cómplices, tú y yo. 
+- character: elsa
+  line: [suspira] 
+- character: olegario
+  line: como cuando decidimos ser novios, ¿te acuerdas? aún en contra de tus papás, pasé por ti en aquella moto barata que tenía en aquel entonces. ¿te acuerdas? 
+- character: ambos
+  line: [ríen] 
+- character: olegario
+  line: tú traías una blusa blanca, un pantalón negro muy bonito... 
+- character: elsa
+  line: guau. 
+- character: olegario
+  line: unos aretes como estos o muy parecidos. elsa, me acabas de regalar minutos de felicidad. porque con lo que hiciste no solo me demostraste confianza, también me haces sentir que todavía me amas. 
+- character: aris
+  line: ¿ya puedo entrar, temocles? qué bien te ves, tahi. 
+- character: temo
+  line: sé que me tienes que contar de tu familia, de tu trabajo, y yo del mío. pero quiero que ahorita hagamos una pausa, un suspiro en el tiempo, y que pisemos nuestro presente. 
+- character: ambos
+  line: [ríen] 
+- character: temo
+  line: cuando una puerta se cierra, una ventana se abre. y esta noche quiero que veamos el universo entero. cada una de estas luces representan los sueños que vamos a cumplir. 
+- character: aris
+  line: son todos los días, todos los años y toda la vida que nos queda por delante, amor. [música] [música] 
+- character: nora
+  line: salúdalo, soledad. 
+- character: soledad
+  line: ¿cómo crees? claro que no. ¿qué le voy a decir? 
+- character: nora
+  line: pues algo así 
+- character: como
+  line: "hola, collins, ¿cómo estás? yo soy la escultura famosa. ¿te acuerdas de mí?". 
+- character: soledad
+  line: ay, cuñada, de veras que qué creativa. cierra el pico, por favor. no, no, por supuesto que no. 
+- character: nora
+  line: está leyendo. pues nada más lo saludas como a cualquier amigo y ya. 
+- character: soledad
+  line: de verdad que no. 
+- character: nora
+  line: nos está viendo, ¿eh? nos está viendo. ahí viene, ahí viene. 
+- character: soledad
+  line: [resuella] 
+- character: nora
+  line: haz como que lees, haz como que lees. 
+- character: collins
+  line: ¿soledad? ¿qué tal? 
+- character: ambas
+  line: hola. 
+- character: collins
+  line: qué casualidad de encontrarme contigo por aquí. 
+- character: soledad
+  line: sí, claro, qué casualidad. estoy aquí con nora, mi cuñada. ¿la conoces a nora? 
+- character: ambos
+  line: muchos gusto. 
+- character: soledad
+  line: sí, estamos aquí, pues leyendo, ¿verdad? 
+- character: nora
+  line: mira, me tocó un libro de juventud. lo que uno se encuentra, ¿verdad? 
+- character: soledad
+  line: sí, yo estoy-- 
+- character: collins
+  line: "escultura para principiantes". 
+- character: soledad
+  line: es que siempre es bueno volver a--a los básicos, ¿no? recordar de dónde viene uno. 
+- character: collins
+  line: me imagino. los libros abren las puertas del mundo. bueno, no quería incomodarlas. 
+- character: nora
+  line: no, no nos incomodas. de hecho, ya queríamos saludarte. 
+- character: soledad
+  line: sí, sí, te queríamos saludar, porque la verdad es que ya--ya nos vamos. sí, sí. a ver si después te veo, ¿no? en otra ocasión. 
+- character: collins
+  line: ok. 
+- character: nora
+  line: con permiso, mucho gusto. 
+- character: collins
+  line: soledad, la salida queda por allá. 
+- character: nora
+  line: ah-- 
+- character: mesero
+  line: señoras, su cuenta. 
+- character: collins
+  line: no, no, permítanme invitarlas. 
+- character: nora
+  line: ah, pues muchas gracias, muy amable. 
+- character: soledad
+  line: gracias. 
+- character: nora
+  line: encantada. 
+- character: collins
+  line: un gusto. 
+- character: nora
+  line: hasta luego. 
+- character: collins
+  line: [ríe] 
+- character: ubaldo
+  line: necesitamos asegurarnos de que el plan no se vaya a caer, symanski. si elsa dudó, lo más probable es que la gente lo vaya a hacer. 
+- character: mateo
+  line: la duda es lo más importante, señor. en el mundo de la política, la verdad está sobrevalorada. lo único que debería de importarnos es que la gente sienta que la otra parte está equivocada. 
+- character: ubaldo
+  line: espero que estés consciente que no eres tan inteligente como crees que eres. 
+- character: mateo
+  line: no, talvez no, pero sí soy lo suficientemente astuto para no dejarme vencer. señor, ya declaramos la guerra y ahora solo queda ganar las batallas. 
+- character: ubaldo
+  line: ¿y qué es lo que vas a hacer con aristoteles y con temo? 
+- character: mateo
+  line: cambiar mi estrategia. los aristetos son capaces de creer cualquier cosa. [ríe] ellos confían en la bondad de la gente. 
+- character: ubaldo
+  line: sigue dando resultados y me aseguraré de cumplir tus sueños. pero si fallas, voy a convertir tu vida en una miserable pesadilla. 
+- character: mateo
+  line: usted deje todo en mis manos, señor. no pienso fallarle. 
+- character: temo
+  line: me encanta compartir estos momentos contigo. 
+- character: aris
+  line: sí. siempre me sorprendes, me consuelas. aparte, me encanta saber que podemos ser uno mismo. 
+- character: temo
+  line: cuéntame cómo te fue en el trabajo. 
+- character: aris
+  line: uy... pues, malas noticias, la neta, tahi. 
+- character: temo
+  line: ¿por qué? 
+- character: aris
+  line: me corrieron del restaurante. a otto no le pareció para nada que llegara tarde. 
+- character: temo
+  line: ¿cómo crees? ¿le dijiste que fue por lo de arqui? 
+- character: aris
+  line: sí, sí, pero no escuchaba razones. pero ¿sabes qué? no me voy a rendir, tahi. te juro que voy a encontrar otro trabajo y vamos a salir adelante. 
+- character: temo
+  line: por eso cada día me enamoras más, tahi. si necesitas ayuda, me tienes hoy y siempre. 
+- character: aris
+  line: gracias. pero tú ya haces mucho por mí, temocles. con que estés conmigo y me abraces, es más que suficiente. por cierto, se veía usted muy guapo. y te luciste con la decoración. 
+- character: temo
+  line: [ríe] bueno, lo que quería era regalarte las estrellas. 
+- character: aris
+  line: y me encontré con toda una galaxia. 
+- character: dora
+  line: ieh, eh! al fin llegó la pinta, señoras y señores, pero vamos a racionarla. les voy a dar horarios específicos a cada uno para el uso moderado del agua. 
+- character: hortensia
+  line: dora, pero ¿por qué decides esto? 
+- character: dora
+  line: porque soy la administradora del condominio, hortensia vaca. ¿por qué más va a ser, eh? 
+- character: hortensia
+  line: ay, no, pues ahora resulta que-- 
+- character: dora
+  line: hable usted, licenciado. iun momento! 
+- character: eduardo
+  line: señora, considero que sería una propuesta viable que estableciéramos un reglamento, así tenemos las reglas por escrito. 
+- character: todos
+  line: [asienten] 
+- character: dora
+  line: ¿quién va a pagar las copias de la impresión? son un gasto extra que yo no tengo considerado. 
+- character: carlota
+  line: yo puedo redactarlo e imprimirlo en el depa. todos queremos vivir en paz, ¿no? 
+- character: todos
+  line: [asienten] 
+- character: dora
+  line: bueno, ya, está bien. pero van a seguir mis reglas. 
+- character: nora
+  line: uy, no te preocupes, hermana. todos sabemos que tú eres la única que tiene la voz de la verdad en esta ciudad. [gime] 
+- character: dora
+  line: ya, ya, sírvales. sírvales, por favor. con medida. [música] 
+- character: mirna
+  line: con permiso. 
+- character: ubaldo
+  line: ¿a qué debo tu visita, elsa? 
+- character: elsa
+  line: recapacité las cosas y reconozco que tomé una decisión precipitada al renunciar al puesto, señor. 
+- character: ubaldo
+  line: pensé que estabas convencida de la inocencia de tu marido. ¿qué fue lo que te hizo cambiar de opinión? 
+- character: elsa
+  line: olegario es un hombre que utiliza métodos extraños para alcanzar sus objetivos. 
+- character: ubaldo
+  line: eso quiere decir que me crees. 
+- character: elsa
+  line: quiere decir que yo tengo una responsabilidad con usted. yo no me rindo ante los retos que tengo. y lo que hemos alcanzado con esta campaña es muy grande para dejarlo ir por la borda. 
+- character: ubaldo
+  line: yo necesito tener alguien que confíe en mí, elsa. tu hijo andres lo hacía, y yo no entiendo por qué te cuesta tanto trabajo hacer lo mismo conmigo. 
+- character: elsa
+  line: yo confío en su proyecto. sé que usted es el jefe de gobierno que esta ciudad necesita. 
+- character: ubaldo
+  line: dime una cosa. ¿por qué tendría que aceptarte de vuelta? 
+- character: elsa
+  line: porque juntos hemos avanzado de una manera impresionante. porque usted me necesita para ganar. 
+- character: ubaldo
+  line: [ríe] bienvenida a casa, elsa. 
+- character: elsa
+  line: sin embargo, antes de que me acepte de regreso, señor, necesito ponerle mis cartas sobre la mesa. 
+- character: polita
+  line: mil gracias por el rico desayuno, prometido. 
+- character: arqui
+  line: igracias, papá! 
+- character: eduardo
+  line: juré que les iba a dar todo de mí, prometida. 
+- character: arqui
+  line: guau, qué rico. 
+- character: polita
+  line: y usted, jovencito arquímedes, ¿cómo va con su promesa? 
+- character: arqui
+  line: bien. 
+- character: polita
+  line: ¿ajá? ¿promete que se va a portar bien? 
+- character: arqui
+  line: ¿mi cadena? 
+- character: polita
+  line: la traes aquí. 
+- character: eduardo
+  line: aquí está. ¿ya te aprendiste nuestros celulares y nuestra dirección, campeón? 
+- character: ambos
+  line: [ríen] 
+- character: eduardo
+  line: bueno, voy a apurarme a hacer unos pendientes para que podamos ir a chapultepec al ratito. 
+- character: arqui
+  line: ¿chapultepec? 
+- character: polita
+  line: está bien, aquí te esperamos, prometido. 
+- character: arqui
+  line: oye, mamá, en chapultepec hay un castillo, ¿verdad? 
+- character: polita
+  line: sí. 
+- character: arqui
+  line: yo quiero ser el príncipe. ¿o estoy castigado? 
+- character: polita
+  line: claro que sí, mi niño, pero no necesitas ser príncipe de chapultepec. tu hermano y tú son los príncipes de mi corazón. 
+- character: eduardo
+  line: ¿y yo, prometida? 
+- character: polita
+  line: tú eres el rey, futuro esposo. 
+- character: arqui
+  line: [silba] uy... 
+- character: polita
+  line: ¿qué? 
+- character: todos
+  line: [ríen] 
+- character: polita
+  line: usted a lo suyo, jovencito. 
+- character: eduardo
+  line: provecho. 
+- character: elsa
+  line: este es un trabajo en equipo, señor. necesito que me tome en cuenta para su toma de decisiones. no puede dejarme en la oscuridad con cada paso. 
+- character: ubaldo
+  line: lo que sucedió con tu marido era demasiado personal como para hacerte partícipe. 
+- character: elsa
+  line: aún así, señor, mi trabajo es defenderlo a usted. y claro, no puedo cumplir mi función si usted no me da las herramientas. no quiero falsas promesas. no tiene que hacer campaña conmigo. 
+- character: ubaldo
+  line: es una propuesta razonable, elsa. será un honor contar de nuevo contigo. 
+- character: carlota
+  line: puedes trabajar después de desayunar, ¿eh? te juro que la oficina no se va a ir a ningún lado. 
+- character: temo
+  line: quedamos con ubaldo que le íbamos a entregar una propuesta y no la terminé. 
+- character: diego
+  line: ay, temo, pues, ¿qué tanto estaba haciendo en la noche? [timbre] olvídenlo, no quiero saber. 
+- character: carlota
+  line: ari, temo, ¿creen que podamos hablar después de ya saben qué? es que hay algo que necesito contarles. 
+- character: aris
+  line: ¿pasó algo más? 
+- character: temo
+  line: yo no quiero que me metan en esas cosas, no. 
+- character: carlota
+  line: ay, temo, es que de verdad-- 
+- character: aris
+  line: ¿qué haces aquí, symonski? 
+- character: mateo
+  line: es "symanski", aristoteles. vine a recoger a temo para irnos juntos a la oficina. 
+- character: temo
+  line: gracias, symanski, pero yo puedo ir solo. gracias. 
+- character: mateo
+  line: cuauthémoc, mira, yo sé que hemos estado con el pie izquierdo desde que empezamos, pero la neta no podemos seguir así. estamos trabajando en la misma oficina, estudiando en la misma universidad. 
+- character: diego
+  line: guau, ¿neta? no nos habíamos dado cuenta. 
+- character: mateo
+  line: vengo en son de paz. por lo menos hoy. después de todo lo que pasó con tu hermanito, aristoteles, no quiero causar más problemas. todavía tenemos toda la vida para pelear. ¿qué dices, temo? 
+- character: temo
+  line: gracias, mateo, pero mejor te alcanzo allá, ¿vale? no hay que forzar las cosas. 
+- character: mateo
+  line: está bien. solamente quiero decirles que podemos volver a empezar. provecho. 
+- character: todos
+  line: gracias. 
+- character: diego
+  line: yo creo que le gustas a mateo. 
+- character: todos
+  line: idiego! 
+- character: mateo
+  line: cuauthémoc y yo planeamos subir pdfs a redes sociales donde la gente pueda descargar todo lo que necesita saber. 
+- character: elsa
+  line: ¿trabajaron en equipo, señor lópez? 
+- character: temo
+  line: desarrollamos propuestas independientes, maestra, pero decidimos unir fuerzas y estamos trabajando por el bien común. 
+- character: elsa
+  line: en ese caso, considero que las propuestas de ambos son complementarias. la sensibilidad de cuauthémoc converge adecuadamente con el pragmatismo de mateo. 
+- character: ubaldo
+  line: bueno, tal parece que necesitábamos una crisis para unirnos. y ahora lo que necesitan es un golpe de realidad. 
+- character: aris
+  line: ma, sé que ya lo platicamos, pero neta no sabes lo mal que me siento por lo que pasó ayer. 
+- character: polita
+  line: ari, lo importante es que mis dos hijos están bien. tu hermanito apareció, y arqui ya prometió que no se va a volver a separar de nosotros, ¿verdad, hijo? 
+- character: arqui
+  line: lo prometo, mamá. 
+- character: polita
+  line: [ríe] 
+- character: aris
+  line: sí, pero yo tenía que cuidar a arqui y siento que te decepcioné. siento que fui un mal hijo y un mal hermano. 
+- character: arqui
+  line: oye, tranquilo. tú eres un buen hermano. 
+- character: aris
+  line: sí, chaparro, pero no estoy muy seguro de eso. 
+- character: polita
+  line: aristoteles, arqui, sé que lo que pasó fue algo muy grave, pero va a llegar un momento de su vida en el que se van a acordar de esta anécdota y se van a reír. 
+- character: aris
+  line: digo, tanto así como reírme, no creo. neta me preocupé mucho. 
+- character: polita
+  line: quiero que se hagan una promesa, hijos. que los dos siempre se van a cuidar entre ustedes. que siempre van a estar ahí el uno para el otro, porque son el lazo más fuerte que tienen en el mundo. 
+- character: aris
+  line: ¿prometido? 
+- character: arqui
+  line: lo prometo. 
+- character: aris
+  line: pero también te tenemos a ti, madre. 
+- character: polita
+  line: sí, pero cuando yo no esté, pues ustedes van a ser su principal apoyo, mis niños. 
+- character: aris
+  line: madre, tú siempre vas a estar con nosotros. aparte todavía tenemos mil sueños por cumplir. 
+- character: polita
+  line: sí, mi ari. tú y yo nos vamos a graduar juntos de la universidad. 
+- character: aris
+  line: ieso! 
+- character: arqui
+  line: pero nosotros vamos a estar en tu boda. 
+- character: polita
+  line: isí, también eso! y a ti te falta mucho por crecer, y muchas cosas por ver, muchas cosas por hacer. y voy a estar con ustedes en cada paso. hemos superado muchas pruebas, todo pasa por algo. hoy somos más fuertes que ayer, y nuestro principal motor, aquí... es el corazón. 
+- character: aris
+  line: y juntos... pues el corazón nunca se equivoca. [música] [música] [aplausos] 
+- character: aris
+  line: neta que no deja de sorprenderme cómo le hiciste para sacarnos adelante, ma. estoy muy orgullosa de ti. 
+- character: polita
+  line: [ríe] una no nace sabiendo ser madre, mi aris. ya verás, cuando temo y tú tengan hijos, si así lo deciden, van a aprender muchísimo. 
+- character: aris
+  line: yo creo que va a estar bien complicado. 
+- character: polita
+  line: los tiempos han cambiado, hijo. algo que me queda muy claro es que tu novio y tú me cambiaron la vida. me enseñaron que existen muchas cosas más allá de lo que yo pensaba. me enseñaron a ser valiente. 
+- character: aris
+  line: no, no, mamá, tú ya eras muy valiente. a lo mucho te dimos un empujoncito. 
+- character: polita
+  line: no se hagan menos, aris. ustedes son un ejemplo. no solo para mí, para cientos de personas. todo lo que has logrado a través de tus videos, de tu música... y ahora temo en campaña. 
+- character: aris
+  line: ya sé. pero cada día es más difícil. crecer duele. 
+- character: polita
+  line: todo lo que vale la pena es difícil. y cuentas conmigo para cumplir tus metas, para abrazarte en los días difíciles. siempre. 
+- character: arqui
+  line: ¿quieren jugar? pero les advierto que les voy a ganar, ¿eh? 
+- character: polita
+  line: ah, ¿de verdad? 
+- character: aris
+  line: ok, va, vamos a ver. 
+- character: polita
+  line: no tenemos miedo. a ver, tira. 
+- character: aris
+  line: soy portero, soy portero. 
+- character: nora
+  line: hermana... ihermana! [risas] 
+- character: dora
+  line: ¿qué? ay, bueno, escuché ruido y pues, escándalo, y yo quería ver qué era. 
+- character: nora
+  line: ¿por qué mejor no reconoces que la familia de aristoteles te ha ablandado el corazón? 
+- character: dora
+  line: oye, estabas muy peleonera en la mañana, nora. ¿y ahora te preocupas por mí? ay, por dios, hay que ser congruentes. decídete. o estás enojada o no lo estás. me odias o me amas. 
+- character: nora
+  line: ay, ya, dora, ya. somos hermanas, no podemos estar peleando cada segundo del día. 
+- character: dora
+  line: mejor vamos a la farmacia, a ver si trabajando se te quitan las ideas de andar saliendo a deshoras. ay, mi bolsa. 
+- character: temo
+  line: tu papá no deja de sorprenderme. está cañón cómo lo ama la gente. 
+- character: diego
+  line: sí, ¿verdad? a este ritmo, va a ganar como jefe de gobierno. creo--creo que ni siquiera con lo que hizo el papá de carlota, le va tomar la campaña. 
+- character: temo
+  line: sí, me sorprendió mucho lo de olegario. 
+- character: diego
+  line: ni creas. la familia de carlota es medio rara. y con lo que le pasó a andres, todo se puso peor. 
+- character: temo
+  line: ¿por qué lo dices? 
+- character: diego
+  line: pues desde que le dije a mi papá que ya no quería ser político, se puso medio intenso buscando alguien que estuviera a su lado. y de repente andy se volvió una buena opción. 
+- character: temo
+  line: ¿andres se llevaba bien con tu papá? 
+- character: diego
+  line: bien se queda corto, temo. eran casi como papá e hijo, y eso causó muchas broncas en la familia de carlota. pero ya ves cómo terminó todo con andres. la depresión es una enfermedad silenciosa. nunca sabemos qué hay en el alma de los que la sufren. 
+- character: temo
+  line: diego, tengo una duda y quiero que me digas la verdad. ¿yo provoqué tu depresión? ¿fue porque no funcionamos como pareja? 
+- character: diego
+  line: no, temo, ¿cómo crees? contigo he vivido los momentos más maravillosos. lo que yo tengo es mucho más profundo. tengo que aprender a aceptarme tal y como soy. 
+- character: temo
+  line: pero tú siempre has sido el más seguro de los dos. ¿qué fue lo que pasó? 
+- character: diego
+  line: pues, llega un momento en el que te das cuenta que no eres la persona que te gustaría ser. bueno, vamos para la casa. no vas a llegar con toda esta política, ¿eh? 
+- character: temo
+  line: espérate que no puedo correr con esto. 
+- character: aris
+  line: muy bien, campeón. 
+- character: temo
+  line: llegué, llegué. perdón si los hice esperar. 
+- character: polita
+  line: dieguchas, ¿no quieres venir con nosotros? 
+- character: diego
+  line: no, gracias. se toman fotos y me las enseñan. tengo que ir a comprar unas cosas. inos vemos! 
+- character: polita
+  line: adiós. 
+- character: arqui
+  line: "bye". 
+- character: aris
+  line: ¿qué onda, tahi? 
+- character: temo
+  line: hola. 
+- character: aris
+  line: ¿todo bien? 
+- character: temo
+  line: cansado, pero sí me urge un respiro, más que nada. 
+- character: polita
+  line: [resuella] se me olvidó el arroz con leche. espérenme, ahorita regreso. no se vayan a ir sin mí, ¿eh? 
+- character: arqui
+  line: no te tardes, mamá. 
+- character: temo
+  line: ya se tardó tu mamá, tahi. 
+- character: aris
+  line: sí, tienes razón. seguro quiere traer como cien tápers. ya voy por ella. ustedes tranquilos, ¿eh? imamá! imamá! ma, se nos va a hacer tarde. ima! ma. ma... [solloza] ma, qué-- ma, ¿qué te pasa, ma? ima, ma, ma! [música] aris y 
+- character: temo
+  line: ♪ baila esta conmigo mientras te lo digo baby, te quiero hasta que el cuerpo siga vivo bésame la boca y ahora a ti te toca siente este el corazón que nunca se equivoca mira nuestros cuerpos son polos opuestos que más se atraen cuando la gente no está viendo vamos a otro lado poco iluminado y ahí te enseño lo que a mí me has provocado ♪
+---
+characters:
+- hortensia
+- soledad
+- mateo
+- ambos
+- ambas
+- diego
+- significa
+- mesero
+- nora
+- otto
+- polita
+- aris
+- todos
+- mirna
+- eduardo
+- elsa
+- pregunta
+- dora
+- como
+- collins
+- carlota
+- ubaldo
+- olegario
+- arqui
+- temo
+- thiago
