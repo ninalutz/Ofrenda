@@ -1,0 +1,17 @@
+project_format_version: '0.1'
+description: >-
+  Character training project for the Ofrenda
+---
+scripts_path: YAMLFiles/
+characters:
+  - temo
+  - boyfriend
+character_map:
+  aris: aris
+model_characters:
+  - temo
+max_turn_history: 16
+num_distractors: 4
+outputs:
+  train.yaml: 90
+  valid.yaml: 10

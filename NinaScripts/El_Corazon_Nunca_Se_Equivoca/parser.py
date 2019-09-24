@@ -1,9 +1,12 @@
 # f = open("S1E1.txt", "r")
 # print(f.readline())
+import collections
 import re
+import yaml
+import codecs
 
 master_string = ""
-episode = "S1E12"
+episode = "S1E6"
 f = open(episode + ".txt", "r")
 for x in f:
 	master_string += x
@@ -17,33 +20,15 @@ actors = re.findall(r'\w+:?(?=:)',master_string)
 actorSet = set(actors)
 result = re.sub(r'\w+:?(?=:)', "LUTZ", master_string)
 tokens = result.split("LUTZ: ")
-
 tokens.remove('')
 
-# for i in range(len(tokens)):
-# 	print(actors[i] + ": " + tokens[i])
-# 	print("")
-
-
-line1 = "isf_version: '0.1'" +"\n"
-line2 = "scriptconv_version: '0.1'"+"\n"
-line3 = "src: put something here? --> A bit unsure not gonna lie lol oops"+"\n"
-line4 = "---"+"\n"
-
-# Program to show various ways to read and
-# write data in a file.
-file1 = open(episode+"-Y.yaml","w")
-
-file1.write(line1)
-file1.write(line2)
-file1.write(line3)
-file1.write(line4)
+#Make the characters structure to dump into the YAML
+characters = []
 for i in range(len(tokens)):
-	file1.write("- character: " + actors[i] +"\n")
-	file1.write("  line: " + tokens[i]+"\n")
-file1.write(line4)
-file1.write("characters:"+"\n")
-for a in actorSet:
-	file1.write("- " + a+"\n")
-file1.close() #to change file access modes
+	characters.append({'character' : actors[i], 'line' : tokens[i]})
+
+#Use dump with unicode to correctly do accents, etc
+f = codecs.open("YAMLFiles/" + episode + ".yaml","w",encoding="utf-8")
+f.write(yaml.dump(characters, allow_unicode=True, default_flow_style=False))
+f.close()
 
