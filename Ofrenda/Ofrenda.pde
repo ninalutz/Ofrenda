@@ -24,17 +24,18 @@ void setup() {
   //size(1600, 900, P3D);
  // size(1200, 800, P3D);
    size(displayWidth, displayHeight, P3D);
+   setupFlower();
   stampedSkulls = new ArrayList<Calavera>();
   loadedSkulls = new ArrayList<Calavera>();
   initProjection();
   loadData();
-  
   skullPoints = new Table();
   skullPoints.addColumn("id");
   skullPoints.addColumn("x");
   skullPoints.addColumn("y");
   skullPoints.addColumn("w");
   skullPoints.addColumn("h");
+  frameRate(20);
 }
 
 void draw() {

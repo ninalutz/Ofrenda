@@ -15,7 +15,7 @@ void mousePressed() {
       stampedSkulls.add(cal);
     }
 }
-
+ 
 void saveSkullTable(){
   if(machineState == 4){
     for(int i = 0; i<stampedSkulls.size(); i++){

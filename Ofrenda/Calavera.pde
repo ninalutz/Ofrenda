@@ -47,6 +47,7 @@ class Calavera{
     p.strokeWeight(3);
     p.ellipseMode(CENTER);
     p.ellipse(loc.x, loc.y, faceWidth, faceHeight);
+    drawFlower(p);
     if(machineState == 4 || machineState == 5) hover();
     if(over) currentID = this.getId();
   }
