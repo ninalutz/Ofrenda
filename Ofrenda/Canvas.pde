@@ -9,7 +9,6 @@ void drawResolutionTest(PGraphics p){
     String res = "This is a resolution test.";
     int repeats = 50;
     int fontSize = 30;
-    
     int offset = fontSize;
     p.colorMode(HSB);
     for(int i = 0; i<repeats; i++){
@@ -23,17 +22,9 @@ void drawResolutionTest(PGraphics p){
     p.endDraw();
 }
 
-
 /*
-Draws basic ovals for skulls without eyes or features 
+Draws a skull shaped oval in the mouse position
 */
-void drawBasicSkulls(PGraphics p){
-  p.beginDraw();
-  p.background(255, 0, 0);
-  for(Calavera c : skulls) c.draw(p);
-  p.endDraw();
-}
-
 void drawMouseSkull(PGraphics p){
   p.beginDraw();
   p.background(255, 0, 0);
@@ -44,7 +35,9 @@ void drawMouseSkull(PGraphics p){
   p.endDraw();
 }
 
-
+/*
+Draws a basic background image of tiles
+*/
 void drawTileOnly(PGraphics p){
   p.beginDraw();
   p.background(0);

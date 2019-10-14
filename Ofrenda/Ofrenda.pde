@@ -1,5 +1,3 @@
-
-
 import deadpixel.keystone.*;
 Keystone ks;
 CornerPinSurface surface;

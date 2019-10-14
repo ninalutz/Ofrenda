@@ -23,33 +23,13 @@ void renderProjection(){
 void getRender(){
   switch(machineState) {
   case 1:
-    mouseDraw();
+     drawResolutionTest(offscreen);
     break;
-
   case 2:
-    drawResolutionTest(offscreen);
-    break;
-  
-  case 3: 
-    drawBasicSkulls(offscreen);
-    break;
-  
-  case 4: 
     drawMouseSkull(offscreen);
     break;
-    
-  case 5:
+  case 3: 
     drawTileOnly(offscreen);
     break;
   }
-}
-
-void mouseDraw(){
-  // Draw the scene, offscreen
-  PVector surfaceMouse = surface.getTransformedMouse();
-  offscreen.beginDraw();
-  offscreen.background(255);
-  offscreen.fill(0, 255, 0);
-  offscreen.ellipse(surfaceMouse.x, surfaceMouse.y, 75, 75);
-  offscreen.endDraw();
 }
