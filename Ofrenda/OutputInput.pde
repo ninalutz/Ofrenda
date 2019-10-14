@@ -44,6 +44,26 @@ void keyPressed() {
   case ' ':
     saveSkullTable();
     break;
+  
+  case 'W':
+    if(machineState == 5) loadedSkulls.get(currentID).addWidth();
+    if(machineState == 4) stampedSkulls.get(currentID).addWidth();
+    break;
+  
+  case 'w':
+    if(machineState == 5) loadedSkulls.get(currentID).subWidth();
+    if(machineState == 4) stampedSkulls.get(currentID).subWidth();
+    break;
+  
+  case 'H':
+    if(machineState == 5) loadedSkulls.get(currentID).addHeight();
+    if(machineState == 4) stampedSkulls.get(currentID).addHeight();
+    break;
+  
+  case 'h':
+    if(machineState == 5) loadedSkulls.get(currentID).subHeight();
+    if(machineState == 4) stampedSkulls.get(currentID).subHeight();
+    break;
 
   }
 }
