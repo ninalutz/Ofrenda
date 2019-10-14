@@ -35,7 +35,7 @@ void setup() {
   skullPoints.addColumn("y");
   skullPoints.addColumn("w");
   skullPoints.addColumn("h");
-  frameRate(20);
+  startTime = millis();
 }
 
 void draw() {
