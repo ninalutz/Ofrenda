@@ -30,7 +30,7 @@ void drawMouseSkull(PGraphics p){
   p.background(255, 0, 0);
   color c = color(255, 255, 0);
   PVector loc = surface.getTransformedMouse();
-  Calavera cal = new Calavera(loc, skullWidth, skullHeight, c);
+  Calavera cal = new Calavera(loc, skullBaseWidth, skullBaseHeight, c);
   cal.draw(p);
   p.endDraw();
 }
@@ -42,5 +42,14 @@ void drawTileOnly(PGraphics p){
   p.beginDraw();
   p.background(0);
   p.image(testImage, 0, 0,p.width, p.height);
+  p.endDraw();
+}
+
+void drawStampedSkulls(PGraphics p){
+  p.beginDraw();
+  p.background(0);
+  for (Calavera c : stampedSkulls){
+    c.draw(offscreen);
+  }
   p.endDraw();
 }

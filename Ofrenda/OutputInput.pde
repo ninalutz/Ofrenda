@@ -39,6 +39,10 @@ void keyPressed() {
   case 'f': 
     showFeatures = !showFeatures;
     break;
+  
+  case ' ':
+    saveSkullTable();
+    break;
 
   }
 }

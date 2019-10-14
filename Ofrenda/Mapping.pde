@@ -16,20 +16,5 @@ void renderProjection(){
   // Convert the mouse coordinate into surface coordinates
   // this will allow you to use mouse events inside the 
   // surface from your screen. 
-
   getRender();
-}
-
-void getRender(){
-  switch(machineState) {
-  case 1:
-     drawResolutionTest(offscreen);
-    break;
-  case 2:
-    drawMouseSkull(offscreen);
-    break;
-  case 3: 
-    drawTileOnly(offscreen);
-    break;
-  }
 }

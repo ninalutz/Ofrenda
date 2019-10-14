@@ -2,8 +2,15 @@
 Class for skulls to do skull things 
 */
 
+int skullBaseWidth = 140;
+int skullBaseHeight = 200;
+
+/*
+Calavera object
+A skull with a location and face and patterns that vary based on state machine
+*/
 class Calavera{
-  PVector loc;
+  PVector loc; //Center of the calavera ellipsoid 
   float x, y;
   color faceColor;
   int faceHeight;
@@ -17,7 +24,6 @@ class Calavera{
     this.faceWidth = w;
     this.faceColor = c;
   }
-  
 
   void draw(PGraphics p){
     p.fill(faceColor);
@@ -34,4 +40,7 @@ class Calavera{
     }
   }
 
+  void hover(){}
+  
+  
 }
