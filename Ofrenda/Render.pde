@@ -12,5 +12,8 @@ void getRender(){
   case 4:
     drawStampedSkulls(offscreen);
     break;
+  case 5:
+    drawLoadedSkulls(offscreen);
+    break;
   }
 }

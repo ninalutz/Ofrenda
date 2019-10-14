@@ -45,11 +45,22 @@ void drawTileOnly(PGraphics p){
   p.endDraw();
 }
 
+/*
+Draws stamped skulls
+*/
 void drawStampedSkulls(PGraphics p){
   p.beginDraw();
   p.background(0);
-  for (Calavera c : stampedSkulls){
-    c.draw(offscreen);
-  }
+  for (Calavera c : stampedSkulls)c.draw(offscreen);
+  p.endDraw();
+}
+
+/*
+Draws skulls loaded from spreadsheet
+*/
+void drawLoadedSkulls(PGraphics p){
+  p.beginDraw();
+  p.background(0);
+  for (Calavera c : loadedSkulls) c.draw(offscreen);
   p.endDraw();
 }

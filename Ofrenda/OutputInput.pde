@@ -33,6 +33,7 @@ void keyPressed() {
     break;
     
   case '5':
+    loadSkullTable();
     machineState = 5;
     break;
     

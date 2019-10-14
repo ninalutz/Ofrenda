@@ -15,6 +15,7 @@ Keystone ks;
 CornerPinSurface surface;
 PGraphics offscreen;
 HashSet<Calavera> stampedSkulls;
+HashSet<Calavera> loadedSkulls;
 
 void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
@@ -23,6 +24,7 @@ void setup() {
  // size(1200, 800, P3D);
    size(displayWidth, displayHeight, P3D);
   stampedSkulls = new HashSet<Calavera>();
+  loadedSkulls = new HashSet<Calavera>();
   initProjection();
   loadData();
   

@@ -23,5 +23,22 @@ void saveSkullTable(){
       newRow.setFloat("x", cx.get(i));
       newRow.setFloat("y", cy.get(i));
     }
-    saveTable(skullPoints, "data/SkullPoints.csv");
+    saveTable(skullPoints, "data/SkullPoints" + day() + hour() + minute() + second() + ".csv");
+}
+
+Table skullLoc; 
+/*
+Loads the most recent skull points spreadsheet
+*/
+void loadSkullTable(){
+  skullLoc = loadTable("data/skulls.csv", "header");
+  //new Calavera(loc, skullBaseWidth, skullBaseHeight, c);
+  for (TableRow row : skullLoc.rows()) {
+    float skullX = row.getFloat("x");
+    float skullY = row.getFloat("y");
+    PVector loc = new PVector(skullX, skullY);
+    color col = color(255, 255, 0);
+    Calavera c = new Calavera(loc, skullBaseWidth, skullBaseHeight, col);
+    loadedSkulls.add(c);
+  }
 }
