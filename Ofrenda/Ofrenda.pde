@@ -23,12 +23,14 @@ void setup() {
   // since it relies on texture mapping to deform
   //size(1600, 900, P3D);
  // size(1200, 800, P3D);
-   size(displayWidth, displayHeight, P3D);
-   setupFlower();
+  size(displayWidth, displayHeight, P3D);
+  setupFlower();
+  loadData();
+  println("Loaded images and data");
   stampedSkulls = new ArrayList<Calavera>();
   loadedSkulls = new ArrayList<Calavera>();
   initProjection();
-  loadData();
+  println("Initialized projection");
   skullPoints = new Table();
   skullPoints.addColumn("id");
   skullPoints.addColumn("x");
