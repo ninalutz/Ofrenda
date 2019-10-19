@@ -44,6 +44,7 @@ void timePass(){
 }
 
 void drawFlower(PGraphics p, PImage[] f, float x, float y, float imgSize){
+  imageMode(CENTER);
   p.image(f[value], x, y, imgSize, imgSize);
 }
 

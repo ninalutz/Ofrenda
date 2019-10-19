@@ -1,10 +1,15 @@
-/*
+/*s
 Class for skulls to do skull things 
 */
 
 int skullBaseWidth = 140;
 int skullBaseHeight = 200;
 int currentID; 
+float eyeSize = 50;
+float noseWidth = 30;
+float noseHeight = 40;
+float mouthWidth = 60;
+float mouthHeight = 10;
 
 /*
 Calavera object
@@ -47,15 +52,14 @@ class Calavera{
     p.strokeWeight(3);
     p.ellipseMode(CENTER);
     p.ellipse(loc.x, loc.y, faceWidth, faceHeight);
-    if(machineState == 4 || machineState == 5) hover();
+    if(machineState == 4 || machineState == 8) hover();
     if(over) currentID = this.getId();
-    drawFlower(p, pinkFlower, loc.x - 40, loc.y, 50);
-    drawFlower(p, pinkFlower, loc.x + 20, loc.y, 50);
   }
 
   void hover(){
-    if(mouseX < loc.x + faceWidth/2 && mouseX > loc.x - faceWidth/2 
-    && mouseY < loc.y + faceHeight/2 && mouseY > loc.y - faceHeight/2) over = true;
+    PVector mouseLoc = surface.getTransformedMouse();
+    if(mouseLoc.x < loc.x + faceWidth/2 && mouseLoc.x > loc.x - faceWidth/2 
+    && mouseLoc.y < loc.y + faceHeight/2 && mouseLoc.y > loc.y - faceHeight/2) over = true;
     else over = false;
   }
   

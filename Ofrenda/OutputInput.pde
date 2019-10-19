@@ -28,17 +28,34 @@ void keyPressed() {
     machineState = 3;
     break;
   
+  //Stamp skulls
   case '4':
     machineState = 4;
     break;
     
+  //Stamp eyes
   case '5':
-    loadSkullTable();
     machineState = 5;
     break;
     
+  //Stamp noses
   case '6':
     machineState = 6;
+    break;
+    
+  //Stamp mouths
+  case '7':
+    machineState = 7;
+    break;
+  
+ //Draw loaded stuff 
+  case '8':
+    loadSkullData();
+    machineState = 8;
+    break;  
+ 
+  case '9':
+    machineState = 9;
     break;
     
   case 'f': 
@@ -46,26 +63,26 @@ void keyPressed() {
     break;
   
   case ' ':
-    saveSkullTable();
+    saveData();
     break;
   
   case 'W':
-    if(machineState == 5) loadedSkulls.get(currentID).addWidth();
+    if(machineState == 8) loadedSkulls.get(currentID).addWidth();
     if(machineState == 4) stampedSkulls.get(currentID).addWidth();
     break;
   
   case 'w':
-    if(machineState == 5) loadedSkulls.get(currentID).subWidth();
+    if(machineState == 8) loadedSkulls.get(currentID).subWidth();
     if(machineState == 4) stampedSkulls.get(currentID).subWidth();
     break;
   
   case 'H':
-    if(machineState == 5) loadedSkulls.get(currentID).addHeight();
+    if(machineState == 8) loadedSkulls.get(currentID).addHeight();
     if(machineState == 4) stampedSkulls.get(currentID).addHeight();
     break;
   
   case 'h':
-    if(machineState == 5) loadedSkulls.get(currentID).subHeight();
+    if(machineState == 8) loadedSkulls.get(currentID).subHeight();
     if(machineState == 4) stampedSkulls.get(currentID).subHeight();
     break;
   case 'd':
