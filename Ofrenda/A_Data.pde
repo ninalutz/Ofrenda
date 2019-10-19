@@ -13,11 +13,12 @@ Loads all data needed for the visual
 */
 void loadData(){
   testImage = loadImage("testResImage.png");
+  loadSkullData();
 }
 
 void initData(){
   nose = loadImage("data/Nose.png");
-  mouth = loadImage("data/mouth.jpg");
+  mouth = loadImage("data/mouth.png");
   skullPoints = new Table();
   skullPoints.addColumn("id");
   skullPoints.addColumn("x");

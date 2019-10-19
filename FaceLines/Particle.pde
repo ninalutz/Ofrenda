@@ -7,23 +7,29 @@ class Particle {
   int id;
   // life length
   float age;
-  
   // some random color
-  color[] cols = {#000000, #CB3C28, #0079DC, #F8F32B, #EA7419 };
   color c = cols[(int)random(cols.length)];
   
-  //time var
-  float time = 0.0;
+  float startX, startY;
+  
+  float r;
   
   // mood factor
   float mood;
  
+   Particle(int i, float e, float g, float rad) {
+    startX = e;
+    id = i;
+    startY = g;
+    r = rad;
+    reset();
+  }
+  
   void reset() {
     // distribute initial point on the ring, more near the outer edge, distorted
     float angle = random(TWO_PI);
-    float r = 5.0*randomGaussian() + (width/2-100)*(1.0-pow(random(1.0), 7.0));
-    x = cos(angle)*r;
-    y = sin(angle)*r;
+    x = cos(angle)*r + startX;
+    y = sin(angle)*r + startY;
     // set random age
     age = (int)random(100, 2000);
     calcMood();
@@ -46,10 +52,6 @@ class Particle {
     }
   }
  
-  Particle(int i) {
-    id = i;
-    reset();
-  }
   
   // compare moods
   float moodSimilarity(Particle p) {
@@ -60,5 +62,4 @@ class Particle {
   private void calcMood() {
     mood = sin(noise(x/10.0,y/10.0,time)*TWO_PI); 
   }
- 
  }

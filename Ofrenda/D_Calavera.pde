@@ -6,8 +6,8 @@ int skullBaseWidth = 140;
 int skullBaseHeight = 200;
 int currentID; 
 float eyeSize = 50;
-float noseWidth = 30;
-float noseHeight = 40;
+float noseWidth = 25;
+float noseHeight = 20;
 float mouthWidth = 60;
 float mouthHeight = 10;
 

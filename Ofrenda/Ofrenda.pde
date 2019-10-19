@@ -22,19 +22,20 @@ void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
   // since it relies on texture mapping to deform
   size(1920, 1080, P3D);
-  setupFlower();
-  loadData();
-  println("Loaded images and data");
   stampedSkulls = new ArrayList<Calavera>();
   loadedSkulls = new ArrayList<Calavera>();
   initProjection();
+  println("Initialized the projection");
+  setupFlower();
+  println("Set up animations");
+  loadData();
+  println("Loaded images and data");
   println("Initialized projection");
   initData();
   startTime = millis();
 }
 
 void draw() {
-  
   timePass();
   renderProjection();
 

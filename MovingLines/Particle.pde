@@ -13,12 +13,20 @@ class Particle {
   // mood factor
   float mood;
  
+   Particle(int i, float e, float g) {
+    id = i;
+    reset();
+  }
+  
   void reset() {
     // distribute initial point on the ring, more near the outer edge, distorted
     float angle = random(TWO_PI);
     float r = 5.0*randomGaussian() + (width/2-100)*(1.0-pow(random(1.0), 7.0));
     x = cos(angle)*r;
     y = sin(angle)*r;
+    //float r = 50;
+    //x = cos(angle)*r + 150;
+    //y = sin(angle)*r + 150;
     // set random age
     age = (int)random(100, 2000);
     calcMood();
@@ -41,10 +49,6 @@ class Particle {
     }
   }
  
-  Particle(int i) {
-    id = i;
-    reset();
-  }
   
   // compare moods
   float moodSimilarity(Particle p) {

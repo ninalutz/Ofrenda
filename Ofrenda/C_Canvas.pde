@@ -96,6 +96,9 @@ void drawStampedNoses(PGraphics p){
   p.fill(255, 255, 0);
   PVector loc = surface.getTransformedMouse();
   p.image(nose, loc.x, loc.y, noseWidth, noseHeight);
+  for(int i = 0; i< eyeLocs.getRowCount(); i++){
+     drawFlower(p, redFlower, eyeLocs.getFloat(i, "x"), eyeLocs.getFloat(i, "y"), eyeSize);
+  }
   for(int i = 0; i<nx.size(); i++){
     p.image(nose, nx.get(i), ny.get(i), noseWidth, noseHeight);
   }
@@ -108,16 +111,13 @@ Draws skulls loaded from spreadsheet
 void drawLoadedSkulls(PGraphics p){
   p.beginDraw();
   p.background(0);
- for (Calavera c : loadedSkulls) c.draw(offscreen);
+ //for (Calavera c : loadedSkulls) c.draw(offscreen);
    
   for(int i = 0; i< eyeLocs.getRowCount(); i++){
      drawFlower(p, redFlower, eyeLocs.getFloat(i, "x"), eyeLocs.getFloat(i, "y"), eyeSize);
   }
   for(int i = 0; i< noseLocs.getRowCount(); i++){
      p.image(nose, noseLocs.getFloat(i, "x"), noseLocs.getFloat(i, "y"), noseWidth, noseHeight);
-  }
-  for(int i = 0; i< mouthLocs.getRowCount(); i++){
-     p.image(mouth, mouthLocs.getFloat(i, "x"), mouthLocs.getFloat(i, "y"),  mouthWidth, mouthHeight);
   }
  
   p.endDraw();
