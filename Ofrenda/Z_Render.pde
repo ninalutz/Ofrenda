@@ -4,7 +4,7 @@ void getRender(){
     animateTiles(offscreen);
     break;
   case 2:
-    drawMouseSkull(offscreen);
+    drawFlowers(offscreen);
     break;
   case 3: 
     drawTileOnly(offscreen);

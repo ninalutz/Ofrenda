@@ -1,5 +1,5 @@
 ArrayList<PImage> tiles =  new ArrayList<PImage>();
-int tileSpeed = 300;
+int tileSpeed = 20;
 
 void animateTiles(PGraphics p){
   p.beginDraw();
@@ -10,12 +10,12 @@ void animateTiles(PGraphics p){
 
 void tileAnimation(PImage img, PGraphics p){
   for(int i = 0; i<tileSpeed; i++){
-    float pointSize = random(2, 10);
+    float pointSize = random(2, 20);
     int x = int(random(img.width));
     int y = int(random(img.height));
     color pix = img.get(x, y);
     p.noStroke();
-    p.fill(pix, 128);
+    p.fill(pix, 100);
     p.ellipse(x, y, pointSize, pointSize);
   }
 }

@@ -1,4 +1,4 @@
-float loveSpeed = 1;
+float loveSpeed = 0.6;
 float loveDistance = 0.5;
 float loveNumerator = 1.5;
 float timeAmount = 1000;

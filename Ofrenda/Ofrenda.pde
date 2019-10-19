@@ -17,6 +17,8 @@ CornerPinSurface surface;
 PGraphics offscreen;
 ArrayList<Calavera> stampedSkulls;
 ArrayList<Calavera> loadedSkulls;
+ArrayList<PVector> flowersLoc = new ArrayList<PVector>();
+ArrayList<Float> flowersSize = new ArrayList<Float>();
 import java.util.*;
 
 

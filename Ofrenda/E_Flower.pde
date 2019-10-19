@@ -20,6 +20,17 @@ void setupFlower(){
    loadFlowerFull("data/Flowers/yellow", yellowFlower);
    loadFlowerFull("data/Flowers/orange", orangeFlower);
    loadFlowerFull("data/Flowers/purple", purpleFlower);
+   
+     
+  for(int i =0; i<13; i++){
+    for(int j =0; j<6; j++){
+      flowersLoc.add(new PVector(-200 + i*150, -200 + j*150));
+      flowersSize.add(random(300, 800));
+    }
+  }
+  
+  Collections.shuffle(flowersLoc);
+  
  }
 
 void loadFlowerFull(String file1, PImage[] flower){
@@ -50,11 +61,13 @@ void drawFlower(PGraphics p, PImage[] f, float x, float y, float imgSize){
   p.image(f[value], x, y, imgSize, imgSize);
 }
 
+  int numFlowers = 15;
+  
 void drawFlowers(PGraphics p){
   p.beginDraw();
   p.background(0);
-
-   drawFlower(p, blackFlower, 100, 100, 100);
-  
+  for(int i =0; i<flowersLoc.size(); i++){
+    drawFlower(p, flowers.get(i%8), flowersLoc.get(i).x, flowersLoc.get(i).y, flowersSize.get(i));
+  }
   p.endDraw();
 }
