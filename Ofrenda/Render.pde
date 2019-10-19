@@ -11,10 +11,12 @@ void getRender(){
     break;
   case 4:
     drawStampedSkulls(offscreen);
-    drawFlowers(offscreen);
     break;
   case 5:
     drawLoadedSkulls(offscreen);
+    break;
+  case 6:
+    drawFlowers(offscreen);
     break;
   }
 }

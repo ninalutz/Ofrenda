@@ -37,9 +37,81 @@ void loadFlowerFull(String file1, PImage[] flower){
 
 int value = 0;
 
+void drawFlower(PGraphics p, PImage[] f, float x, float y, float imgSize){
+  elapsedTime = millis() - startTime;
+  p.image(f[value], x, y);
+  if (elapsedTime % 5 == 0) value += 1;
+  if(value == 54) value = 0;
+}
+
 void drawFlowers(PGraphics p){
   p.beginDraw();
+  p.background(0);
   elapsedTime = millis() - startTime;
+  
+  p.image(pinkFlower[value], 100, 100 );
+  p.image(yellowFlower[value], 200, 100 );
+  p.image(redFlower[value], 300, 100 );
+  p.image(orangeFlower[value], 400, 100 );
+  p.image(tealFlower[value], 500, 100 );
+  p.image(blueFlower[value], 600, 100 );
+  p.image(purpleFlower[value], 700, 100 );
+  p.image(blackFlower[value], 800, 100 );
+  
+  p.image(pinkFlower[value], 100, 100 );
+  p.image(yellowFlower[value], 200, 100 );
+  p.image(redFlower[value], 300, 100 );
+  p.image(orangeFlower[value], 400, 100 );
+  p.image(tealFlower[value], 500, 100 );
+  p.image(blueFlower[value], 600, 100 );
+  p.image(purpleFlower[value], 700, 100 );
+  p.image(blackFlower[value], 800, 100 );
+  
+  p.image(pinkFlower[value], 100, 100 );
+  p.image(yellowFlower[value], 200, 100 );
+  p.image(redFlower[value], 300, 100 );
+  p.image(orangeFlower[value], 400, 100 );
+  p.image(tealFlower[value], 500, 100 );
+  p.image(blueFlower[value], 600, 100 );
+  p.image(purpleFlower[value], 700, 100 );
+  p.image(blackFlower[value], 800, 100 );
+  
+  p.image(pinkFlower[value], 100, 100 );
+  p.image(yellowFlower[value], 200, 100 );
+  p.image(redFlower[value], 300, 100 );
+  p.image(orangeFlower[value], 400, 100 );
+  p.image(tealFlower[value], 500, 100 );
+  p.image(blueFlower[value], 600, 100 );
+  p.image(purpleFlower[value], 700, 100 );
+  p.image(blackFlower[value], 800, 100 );
+  
+    p.image(pinkFlower[value], 100, 100 );
+  p.image(yellowFlower[value], 200, 100 );
+  p.image(redFlower[value], 300, 100 );
+  p.image(orangeFlower[value], 400, 100 );
+  p.image(tealFlower[value], 500, 100 );
+  p.image(blueFlower[value], 600, 100 );
+  p.image(purpleFlower[value], 700, 100 );
+  p.image(blackFlower[value], 800, 100 );
+  
+  p.image(pinkFlower[value], 100, 100 );
+  p.image(yellowFlower[value], 200, 100 );
+  p.image(redFlower[value], 300, 100 );
+  p.image(orangeFlower[value], 400, 100 );
+  p.image(tealFlower[value], 500, 100 );
+  p.image(blueFlower[value], 600, 100 );
+  p.image(purpleFlower[value], 700, 100 );
+  p.image(blackFlower[value], 800, 100 );
+  
+  p.image(pinkFlower[value], 100, 100 );
+  p.image(yellowFlower[value], 200, 100 );
+  p.image(redFlower[value], 300, 100 );
+  p.image(orangeFlower[value], 400, 100 );
+  p.image(tealFlower[value], 500, 100 );
+  p.image(blueFlower[value], 600, 100 );
+  p.image(purpleFlower[value], 700, 100 );
+  p.image(blackFlower[value], 800, 100 );
+  
   p.image(pinkFlower[value], 100, 100 );
   p.image(yellowFlower[value], 200, 100 );
   p.image(redFlower[value], 300, 100 );

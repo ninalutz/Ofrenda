@@ -4,10 +4,11 @@ final static int N = 100;
 final static color[] cols = {
   #000000, #CB3C28, #0079DC, #F8F32B, #EA7419 };
  
-float loveSpeed = 1.7;
-float loveDistance = 1.5;
-float loveNumerator = 2.0;
+float loveSpeed = 1;
+float loveDistance = 0.5;
+float loveNumerator = 1.5;
 float timeAmount = 100;
+float strokeWeight = 1.4;
 
 // collection of all particles
 ArrayList<Particle> particles = new ArrayList<Particle>(N);
@@ -16,7 +17,7 @@ void setup() {
   size(700,700);
   noFill();
   smooth(8);
-  strokeWeight(1.2);
+  strokeWeight(strokeWeight);
   background(255, 255, 255);
  
   // initialize particles

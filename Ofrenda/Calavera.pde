@@ -49,6 +49,8 @@ class Calavera{
     p.ellipse(loc.x, loc.y, faceWidth, faceHeight);
     if(machineState == 4 || machineState == 5) hover();
     if(over) currentID = this.getId();
+    drawFlower(p, pinkFlower, loc.x - 40, loc.y, 50);
+    drawFlower(p, pinkFlower, loc.x + 20, loc.y, 50);
   }
 
   void hover(){
