@@ -21,9 +21,8 @@ ArrayList<Calavera> loadedSkulls;
 void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
   // since it relies on texture mapping to deform
-  //size(1600, 900, P3D);
- // size(1200, 800, P3D);
-  size(displayWidth, displayHeight, P3D);
+  size(1920, 1080, P3D);
+  print(displayWidth, displayHeight);
   setupFlower();
   loadData();
   println("Loaded images and data");
