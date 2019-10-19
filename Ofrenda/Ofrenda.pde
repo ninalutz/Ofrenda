@@ -41,6 +41,8 @@ void setup() {
 }
 
 void draw() {
+  
+  timePass();
   renderProjection();
 
   // most likely, you'll want a black background to minimize
