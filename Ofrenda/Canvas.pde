@@ -51,6 +51,8 @@ Draws stamped skulls
 void drawStampedSkulls(PGraphics p){
   p.beginDraw();
   p.background(0);
+  p.fill(255, 255, 0);
+  p.ellipse(mouseX, mouseY,skullBaseWidth, skullBaseHeight);
   for (Calavera c : stampedSkulls)c.draw(offscreen);
   p.endDraw();
 }

@@ -68,6 +68,8 @@ void keyPressed() {
     if(machineState == 5) loadedSkulls.get(currentID).subHeight();
     if(machineState == 4) stampedSkulls.get(currentID).subHeight();
     break;
-
+  case 'd':
+    if(machineState == 4) stampedSkulls.remove(currentID);
+    break;
   }
 }
