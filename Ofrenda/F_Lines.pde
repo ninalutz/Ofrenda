@@ -12,11 +12,9 @@ int count = 0;
 
 //Configures the overall lines
 void configLinesOverall(){
-  for(int i = 0; i<8; i++){
-    for(int j = 0; j<4; j++){
-      spawn(100 + 170*i,  100 + 170*j, int(random(10,20)));
-    }
-  }  
+  for(Calavera c : loadedSkulls){
+    spawn(c.getX(), c.getY(), int(random(10, 30)));
+  }
 }
 
 //Spawns particles

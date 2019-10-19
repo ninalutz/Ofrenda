@@ -27,9 +27,8 @@ Draws a skull shaped oval in the mouse position
 void drawMouseSkull(PGraphics p){
   p.beginDraw();
   p.background(255, 0, 0);
-  color c = color(255, 255, 0);
   PVector loc = surface.getTransformedMouse();
-  Calavera cal = new Calavera(loc, skullBaseWidth, skullBaseHeight, c);
+  Calavera cal = new Calavera(loc, skullBaseWidth, skullBaseHeight, skullColor);
   cal.draw(p);
   p.endDraw();
 }
@@ -116,7 +115,7 @@ void drawLoadedSkulls(PGraphics p){
   graphic.endDraw();
   p.beginDraw();
   p.background(0);
- //for (Calavera c : loadedSkulls) c.draw(offscreen);
+ for (Calavera c : loadedSkulls) c.draw(offscreen);
   p.image(graphic, 0, 0);
    
   for(int i = 0; i< eyeLocs.getRowCount(); i++){
@@ -124,22 +123,6 @@ void drawLoadedSkulls(PGraphics p){
   }
   for(int i = 0; i< noseLocs.getRowCount(); i++){
      p.image(nose, noseLocs.getFloat(i, "x"), noseLocs.getFloat(i, "y"), noseWidth, noseHeight);
-  }
-  p.endDraw();
-}
-
-void  drawEllipses(PGraphics p){
-  p.beginDraw();
-  p.background(0);
-  float startX = 100;
-  float startY = 100;
-  float spaceX = 200;
-  float spaceY = 300;
-  p.fill(255, 255, 0);
-  for(int i = 0; i<4; i++){
-    for(int j = 0; j<8; j++){
-      p.ellipse(startX + j*spaceX, startY + i*spaceY, 10, 10);
-    }
   }
   p.endDraw();
 }

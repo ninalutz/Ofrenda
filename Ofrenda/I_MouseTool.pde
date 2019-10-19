@@ -18,7 +18,7 @@ Table skullPoints;
 Table eyePoints;
 Table mouthPoints;
 Table nosePoints;
-
+color skullColor = color(255, 255, 255);
 /*
 Stamping function for calavera objects
 */
@@ -27,7 +27,7 @@ void mousePressed() {
       PVector loc = surface.getTransformedMouse();
       cx.append(loc.x);
       cy.append(loc.y);
-      color c = color(mouseX, mouseY, 200);
+      color c = color(skullColor);
       Calavera cal = new Calavera(loc, skullBaseWidth, skullBaseHeight, c, stampedSkulls.size());
       stampedSkulls.add(cal);
     }

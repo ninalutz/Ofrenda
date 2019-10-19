@@ -7,7 +7,7 @@ Nina Lutz's Masters Thesis at the MIT Media Lab
 Nina Lutz
 MIT Media Lab
 nlutz@mit.edu 
-Last update: 10.14.19
+Last update: 10.19.19
 */
 
 import java.util.*;

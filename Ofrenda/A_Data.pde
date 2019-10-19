@@ -107,8 +107,7 @@ void loadSkullData(){
     float skullH = row.getFloat("h");
     int skullId = row.getInt("id");
     PVector loc = new PVector(skullX, skullY);
-    color col = color(255, 255, 0);
-    Calavera c = new Calavera(loc, skullW, skullH, col, skullId);
+    Calavera c = new Calavera(loc, skullW, skullH, skullColor, skullId);
     loadedSkulls.add(c);
   }
   
