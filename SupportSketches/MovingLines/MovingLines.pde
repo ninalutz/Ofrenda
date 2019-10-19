@@ -20,7 +20,7 @@ void setup() {
  
   // initialize particles
   for (int i=0; i<N; i++) {
-    particles.add( new Particle(i, 100, 100) );
+    particles.add(new Particle(i, 100, 100) );
   }
 }
  
@@ -29,7 +29,6 @@ float time = 0.0;
 void draw() {
   drawLines();
   time += timeAmount;
-  
   println(frameRate);
 }
 

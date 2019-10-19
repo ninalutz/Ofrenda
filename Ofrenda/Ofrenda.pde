@@ -17,6 +17,8 @@ CornerPinSurface surface;
 PGraphics offscreen;
 ArrayList<Calavera> stampedSkulls;
 ArrayList<Calavera> loadedSkulls;
+import java.util.*;
+
 
 void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
@@ -33,6 +35,7 @@ void setup() {
   println("Initialized projection");
   initData();
   startTime = millis();
+  configLinesOverall();
 }
 
 void draw() {

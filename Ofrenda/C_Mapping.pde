@@ -9,6 +9,7 @@ void initProjection(){
   // CornerPinSurface.
   // (The offscreen buffer can be P2D or P3D)
   offscreen = createGraphics(width, height, P3D);
+  graphic = createGraphics(width, height, P3D);
   
 }
 

@@ -10,27 +10,20 @@ class Particle {
   // some random color
   color c = cols[(int)random(cols.length)];
   
-  float startX, startY;
-  
-  float r;
-  
   // mood factor
   float mood;
  
-   Particle(int i, float e, float g, float rad) {
-    startX = e;
+   Particle(int i, float e, float g) {
     id = i;
-    startY = g;
-    r = rad;
     reset();
   }
   
   void reset() {
     // distribute initial point on the ring, more near the outer edge, distorted
     float angle = random(TWO_PI);
-    x = cos(angle)*r + startX;
-    y = sin(angle)*r + startY;
-    // set random age
+    float r = 5.0*randomGaussian() + (width/2-100)*(1.0-pow(random(1.0), 7.0));
+    x = cos(angle)*r;
+    y = sin(angle)*r;
     age = (int)random(100, 2000);
     calcMood();
   }

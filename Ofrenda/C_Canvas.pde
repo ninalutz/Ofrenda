@@ -105,13 +105,19 @@ void drawStampedNoses(PGraphics p){
   p.endDraw();
 }
 
+PGraphics graphic;
+
 /*
 Draws skulls loaded from spreadsheet
 */
 void drawLoadedSkulls(PGraphics p){
+  graphic.beginDraw();
+  drawLines();
+  graphic.endDraw();
   p.beginDraw();
   p.background(0);
  //for (Calavera c : loadedSkulls) c.draw(offscreen);
+  p.image(graphic, 0, 0);
    
   for(int i = 0; i< eyeLocs.getRowCount(); i++){
      drawFlower(p, redFlower, eyeLocs.getFloat(i, "x"), eyeLocs.getFloat(i, "y"), eyeSize);
@@ -119,7 +125,6 @@ void drawLoadedSkulls(PGraphics p){
   for(int i = 0; i< noseLocs.getRowCount(); i++){
      p.image(nose, noseLocs.getFloat(i, "x"), noseLocs.getFloat(i, "y"), noseWidth, noseHeight);
   }
- 
   p.endDraw();
 }
 

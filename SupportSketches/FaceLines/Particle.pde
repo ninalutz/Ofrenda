@@ -10,23 +10,26 @@ class Particle {
   // some random color
   color c = cols[(int)random(cols.length)];
   
+  float startX, startY;
+  
+  float r;
+  
   // mood factor
   float mood;
  
-   Particle(int i, float e, float g) {
+   Particle(int i, float e, float g, float rad) {
+    startX = e;
     id = i;
+    startY = g;
+    r = rad;
     reset();
   }
   
   void reset() {
     // distribute initial point on the ring, more near the outer edge, distorted
-    float angle = random(TWO_PI);
-    float r = 5.0*randomGaussian() + (width/2-100)*(1.0-pow(random(1.0), 7.0));
-    x = cos(angle)*r;
-    y = sin(angle)*r;
-    //float r = 50;
-    //x = cos(angle)*r + 150;
-    //y = sin(angle)*r + 150;
+    float angle = radians(random(360));
+    x = cos(angle)*r + startX;
+    y = sin(angle)*r + startY;
     // set random age
     age = (int)random(100, 2000);
     calcMood();
@@ -34,7 +37,7 @@ class Particle {
  
   void draw() {
     stroke(c,50);
-    point(x+width/2, y+height/2);
+    point(x, y);
   }
  
   // update position with externally calculated speed
@@ -57,6 +60,6 @@ class Particle {
   
   // calculate current mood
   private void calcMood() {
-    mood = sin(noise(x/10.0,y/10.0,time)*TWO_PI); 
+    mood = sin(noise(x/10.0,y/10.0,lineTime)*TWO_PI); 
   }
  }

@@ -1,3 +1,26 @@
+float loveSpeed = 1;
+float loveDistance = 0.5;
+float loveNumerator = 1.5;
+float timeAmount = 20;
+float strokeWeight = 1.4;
+
+// collection of all particles
+HashSet<HashSet<Particle>> masterList = new HashSet<HashSet<Particle>>();
+// number of particles
+final static color[] cols = {#000000, #CB3C28, #0079DC, #F8F32B, #EA7419 };
+int count = 0;
+
+void spawn(float locX, float locY, int num){
+  HashSet<Particle> particles = new HashSet<Particle>();
+  for (int i=0; i<num; i++) {
+    particles.add(new Particle(count, locX, locY, 50) );
+    count+=1;
+  }
+  masterList.add(particles);
+}
+ 
+float lineTime = 0.0;
+
 void drawLines(){  
   for(HashSet<Particle> particles : masterList){
     for (Particle p : particles) {
@@ -41,4 +64,5 @@ void drawLines(){
       p.draw();
     }
   }
+    lineTime += timeAmount;
 }
