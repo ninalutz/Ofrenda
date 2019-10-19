@@ -1,7 +1,7 @@
 void getRender(){
   switch(machineState) {
   case 1:
-     drawResolutionTest(offscreen);
+    animateTiles(offscreen);
     break;
   case 2:
     drawMouseSkull(offscreen);

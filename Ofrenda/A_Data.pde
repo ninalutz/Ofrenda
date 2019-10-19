@@ -15,12 +15,29 @@ PImage testImage;
 PImage mouth;
 PImage nose;
 
+PImage tile1, tile2, tile3, tile4, tile5;
+
 float flowerSize = 200;
 /*
 Loads all data needed for the visual 
 */
 void loadData(){
   testImage = loadImage("testResImage.png");
+  tile1 = loadImage("data/Tiles/tile1.jpg");
+  tile2 = loadImage("data/Tiles/tile2.jpg");
+  tile3 = loadImage("data/Tiles/tile3.jpg");
+  tile4 = loadImage("data/Tiles/tile4.jpg");
+  tile5 = loadImage("data/Tiles/tile5.jpg");
+  tile1.resize(width, height);
+  tile2.resize(width, height);
+  tile3.resize(width, height);
+  tile4.resize(width, height);
+  tile5.resize(width, height);
+  tiles.add(tile1);
+  tiles.add(tile2);
+  tiles.add(tile3);
+  tiles.add(tile4);
+  tiles.add(tile5);
   loadSkullData();
 }
 
