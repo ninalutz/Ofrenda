@@ -19,6 +19,7 @@ ArrayList<Calavera> stampedSkulls;
 ArrayList<Calavera> loadedSkulls;
 ArrayList<PVector> flowersLoc = new ArrayList<PVector>();
 ArrayList<Float> flowersSize = new ArrayList<Float>();
+ArrayList<Integer> flowersId = new ArrayList<Integer>();
 import java.util.*;
 
 

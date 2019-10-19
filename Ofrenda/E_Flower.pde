@@ -23,9 +23,10 @@ void setupFlower(){
    
      
   for(int i =0; i<13; i++){
-    for(int j =0; j<6; j++){
-      flowersLoc.add(new PVector(-200 + i*150, -200 + j*150));
+    for(int j =0; j<7; j++){
+      flowersLoc.add(new PVector(-100 + i*150, -100 + j*150));
       flowersSize.add(random(300, 800));
+      flowersId.add(int(random(0,8)));
     }
   }
   
@@ -67,7 +68,7 @@ void drawFlowers(PGraphics p){
   p.beginDraw();
   p.background(0);
   for(int i =0; i<flowersLoc.size(); i++){
-    drawFlower(p, flowers.get(i%8), flowersLoc.get(i).x, flowersLoc.get(i).y, flowersSize.get(i));
+    drawFlower(p, flowers.get(flowersId.get(i)), flowersLoc.get(i).x, flowersLoc.get(i).y, flowersSize.get(i));
   }
   p.endDraw();
 }
