@@ -1,7 +1,7 @@
 float loveSpeed = 1;
 float loveDistance = 0.5;
 float loveNumerator = 1.5;
-float timeAmount = 20;
+float timeAmount = 1000;
 float strokeWeight = 2;
 
 // collection of all particles

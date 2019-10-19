@@ -3,11 +3,19 @@ Table eyeLocs;
 Table noseLocs;
 Table mouthLocs;
 Table skullLoc; 
+Table flowerLocs;
+
+Table flowerPoints;
+Table skullPoints;
+Table eyePoints;
+Table mouthPoints;
+Table nosePoints;
 
 PImage testImage;
 PImage mouth;
 PImage nose;
 
+float flowerSize = 200;
 /*
 Loads all data needed for the visual 
 */
@@ -37,6 +45,11 @@ void initData(){
   nosePoints = new Table();
   nosePoints.addColumn("x");
   nosePoints.addColumn("y");
+  
+  flowerPoints = new Table();
+  flowerPoints.addColumn("x");
+  flowerPoints.addColumn("y");
+  flowerPoints.addColumn("id");
 }
 
 
@@ -80,11 +93,23 @@ void saveData(){
   //MOUTH
   try{
     for(int i = 0; i<mx.size(); i++){
-      TableRow newRow = nosePoints.addRow();
+      TableRow newRow = mouthPoints.addRow();
       newRow.setFloat("x",  mx.get(i));
       newRow.setFloat("y", my.get(i));
     }
-     saveTable(nosePoints, "data/MouthPoints" + day() + hour() + minute() + second() + ".csv");
+     saveTable(mouthPoints, "data/MouthPoints" + day() + hour() + minute() + second() + ".csv");
+  }
+  catch(Exception e){}
+  
+  //FLOWERS
+  try{
+    for(int i = 0; i<rx.size(); i++){
+      TableRow newRow = flowerPoints.addRow();
+      newRow.setFloat("x",  rx.get(i));
+      newRow.setFloat("y", ry.get(i));
+      newRow.setInt("id", int(random(flowers.size()-1)));
+    }
+     saveTable(flowerPoints, "data/FlowerPoints" + day() + hour() + minute() + second() + ".csv");
   }
   catch(Exception e){}
 }
@@ -98,7 +123,7 @@ void loadSkullData(){
   eyeLocs = loadTable("data/eyes.csv", "header");
   noseLocs = loadTable("data/noses.csv", "header");
   mouthLocs = loadTable("data/mouths.csv", "header");
-  
+  flowerLocs = loadTable("data/flowers.csv", "header");
   //new Calavera(loc, skullBaseWidth, skullBaseHeight, c);
   for (TableRow row : skullLoc.rows()) {
     float skullX = row.getFloat("x");

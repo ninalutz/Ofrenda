@@ -38,12 +38,12 @@ void keyPressed() {
     machineState = 5;
     break;
     
-  //Stamp noses
+  //Stamp large flowers
   case '6':
     machineState = 6;
     break;
     
-  //Stamp mouths
+  //Stamp noses
   case '7':
     machineState = 7;
     break;
@@ -55,6 +55,7 @@ void keyPressed() {
     break;  
  
   case '9':
+    loadSkullData();
     machineState = 9;
     break;
     

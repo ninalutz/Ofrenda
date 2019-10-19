@@ -86,6 +86,18 @@ void drawStampedMouths(PGraphics p){
   p.endDraw();
 }
 
+void drawStampedFlowers(PGraphics p){
+  p.beginDraw();
+  p.background(0);
+  p.fill(255, 255, 0);
+  PVector loc = surface.getTransformedMouse();
+  drawFlower(p, orangeFlower, loc.x, loc.y, flowerSize);
+  for(int i = 0; i<rx.size(); i++){
+    drawFlower(p, orangeFlower, rx.get(i), ry.get(i), flowerSize);
+  }
+  p.endDraw();
+}
+
 /*
 Draws stamped skulls
 */
@@ -123,6 +135,18 @@ void drawLoadedSkulls(PGraphics p){
   }
   for(int i = 0; i< noseLocs.getRowCount(); i++){
      p.image(nose, noseLocs.getFloat(i, "x"), noseLocs.getFloat(i, "y"), noseWidth, noseHeight);
+  }
+  p.endDraw();
+}
+
+/*
+Draws loaded flowers --> circles on the skull areas
+*/
+void drawLoadedFlowers(PGraphics p){
+  p.beginDraw();
+  p.background(0);
+  for(int i = 0; i< flowerLocs.getRowCount(); i++){
+     drawFlower(p, flowers.get(flowerLocs.getInt(i, "id")), flowerLocs.getFloat(i, "x"), flowerLocs.getFloat(i, "y"), flowerSize);
   }
   p.endDraw();
 }

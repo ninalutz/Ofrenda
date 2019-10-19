@@ -14,10 +14,11 @@ FloatList ny = new FloatList();
 FloatList mx = new FloatList();
 FloatList my = new FloatList();
 
-Table skullPoints;
-Table eyePoints;
-Table mouthPoints;
-Table nosePoints;
+//Large flower region lists
+FloatList rx = new FloatList();
+FloatList ry = new FloatList();
+
+
 color skullColor = color(255, 255, 255);
 /*
 Stamping function for calavera objects
@@ -38,11 +39,18 @@ void mousePressed() {
       ey.append(loc.y);
     }
     //Do the mouths
-    if(machineState == 6){
+    //if(machineState == 6){
+    //  PVector loc = surface.getTransformedMouse();
+    //  mx.append(loc.x);
+    //  my.append(loc.y);
+    //}
+    //Do the large flowers!
+     if(machineState == 6){
       PVector loc = surface.getTransformedMouse();
-      mx.append(loc.x);
-      my.append(loc.y);
-    }
+      rx.append(loc.x);
+      ry.append(loc.y);
+     }
+     
     //Do the noses
     if(machineState == 7){
       PVector loc = surface.getTransformedMouse();

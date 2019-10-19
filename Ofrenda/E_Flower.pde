@@ -1,5 +1,6 @@
 int startTime;
 int elapsedTime;
+ArrayList<PImage[]> flowers = new ArrayList<PImage[]>();
 
 PImage[] pinkFlower = new PImage[54];
 PImage[] yellowFlower = new PImage[54];
@@ -33,6 +34,7 @@ void loadFlowerFull(String file1, PImage[] flower){
      flower[9+i] = loadImage(file1+(9-i)+".png");
      flower[45+i] = loadImage(file1+(9-i)+".png");
    }
+   flowers.add(flower);
 }
 
 int value = 0;

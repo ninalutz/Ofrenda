@@ -16,13 +16,16 @@ void getRender(){
     drawStampedEyes(offscreen);
     break;
   case 6:
-    drawStampedMouths(offscreen);
+    drawStampedFlowers(offscreen);
     break;
   case 7:
     drawStampedNoses(offscreen);
     break;
   case 8:
     drawLoadedSkulls(offscreen);
+    break;
+  case 9:
+    drawLoadedFlowers(offscreen);
     break;
   }
 }
