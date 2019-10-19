@@ -124,6 +124,7 @@ Draws skulls loaded from spreadsheet
 void drawLoadedSkulls(PGraphics p){
   graphic.beginDraw();
   drawLines();
+  if(second() % 30 == 0) linesReset();
   graphic.endDraw();
   p.beginDraw();
   p.background(0);

@@ -53,7 +53,7 @@ int value = 0;
 
 void timePass(){
     elapsedTime = millis() - startTime;
-    if (elapsedTime % 3 == 0) value += 1;
+    if (elapsedTime % 5 == 0) value += 1;
     if(value == 54) value = 0;
 }
 

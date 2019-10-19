@@ -34,5 +34,5 @@ void draw() {
 
  
  void mousePressed(){
-	 //save('pic.jpg');
+  for(Particle p : particles) p.reset();
  }

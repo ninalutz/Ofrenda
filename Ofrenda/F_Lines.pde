@@ -7,21 +7,30 @@ float strokeWeight = 2;
 // collection of all particles
 HashSet<HashSet<Particle>> masterList = new HashSet<HashSet<Particle>>();
 // number of particles
-final static color[] cols = {#000000, #CB3C28, #0079DC, #F8F32B, #EA7419 };
+final color[] cols = {color(0), color(187, 38, 26), color(28, 79, 140), color(226, 195, 95), 
+    color(0, 20, 163), color(214, 87, 128), color(221, 126, 47), color(158, 85, 222), color(255, 255, 0)};
 int count = 0;
 
 //Configures the overall lines
 void configLinesOverall(){
   for(Calavera c : loadedSkulls){
-    spawn(c.getX(), c.getY(), int(random(10, 30)));
+    spawn(c.getX(), c.getY(), 30);
   }
+}
+
+void linesReset(){
+  println("RESETTING");
+  graphic.clear();
+  masterList =  new HashSet<HashSet<Particle>>();
+  count = 0;
+  configLinesOverall();
 }
 
 //Spawns particles
 void spawn(float locX, float locY, int num){
   HashSet<Particle> particles = new HashSet<Particle>();
   for (int i=0; i<num; i++) {
-    particles.add(new Particle(count, locX, locY, 50) );
+    particles.add(new Particle(count, locX, locY, 70) );
     count+=1;
   }
   masterList.add(particles);

@@ -22,7 +22,6 @@ ArrayList<Float> flowersSize = new ArrayList<Float>();
 ArrayList<Integer> flowersId = new ArrayList<Integer>();
 import java.util.*;
 
-
 void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
   // since it relies on texture mapping to deform
@@ -37,8 +36,8 @@ void setup() {
   println("Loaded images and data");
   println("Initialized projection");
   initData();
-  startTime = millis();
   configLinesOverall();
+  startTime = millis();
 }
 
 void draw() {

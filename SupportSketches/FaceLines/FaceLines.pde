@@ -23,3 +23,13 @@ void configLinesOverall(){
 //  }
    spawn(200, 200, int(random(10,20)));
 }
+
+void resetOverall(){
+  masterList = new HashSet<HashSet<Particle>>();
+  configLinesOverall();
+}
+
+void keyPressed(){
+  background(255);
+  resetOverall();
+} 
