@@ -1,8 +1,6 @@
 // number of particles
 final static int N = 100;
- 
-final static color[] cols = {
-  #000000, #CB3C28, #0079DC, #F8F32B, #EA7419 };
+final static color[] cols = {#000000, #CB3C28, #0079DC, #F8F32B, #EA7419 };
  
 float loveSpeed = 1;
 float loveDistance = 0.5;
