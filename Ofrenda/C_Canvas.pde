@@ -108,7 +108,7 @@ void drawStampedNoses(PGraphics p){
   PVector loc = surface.getTransformedMouse();
   p.image(nose, loc.x, loc.y, noseWidth, noseHeight);
   for(int i = 0; i< eyeLocs.getRowCount(); i++){
-     drawFlower(p, redFlower, eyeLocs.getFloat(i, "x"), eyeLocs.getFloat(i, "y"), eyeSize);
+     drawFlower(p, pinkFlower, eyeLocs.getFloat(i, "x"), eyeLocs.getFloat(i, "y"), eyeSize);
   }
   for(int i = 0; i<nx.size(); i++){
     p.image(nose, nx.get(i), ny.get(i), noseWidth, noseHeight);
@@ -132,7 +132,7 @@ void drawLoadedSkulls(PGraphics p){
   p.image(graphic, 0, 0);
    
   for(int i = 0; i< eyeLocs.getRowCount(); i++){
-     drawFlower(p, redFlower, eyeLocs.getFloat(i, "x"), eyeLocs.getFloat(i, "y"), eyeSize);
+     drawFlower(p, orangeFlower, eyeLocs.getFloat(i, "x"), eyeLocs.getFloat(i, "y"), eyeSize);
   }
   for(int i = 0; i< noseLocs.getRowCount(); i++){
      p.image(nose, noseLocs.getFloat(i, "x"), noseLocs.getFloat(i, "y"), noseWidth, noseHeight);

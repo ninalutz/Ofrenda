@@ -6,6 +6,10 @@ void keyPressed() {
     ks.toggleCalibration();
     break;
 
+  case 'r': 
+    rainbowMode = !rainbowMode;
+    break;
+    
   case 'l':
     // loads the saved layout
     ks.load();

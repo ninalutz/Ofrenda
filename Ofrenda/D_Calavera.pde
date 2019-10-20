@@ -10,7 +10,7 @@ float noseWidth = 25;
 float noseHeight = 20;
 float mouthWidth = 60;
 float mouthHeight = 10;
-
+boolean rainbowMode = false;
 /*
 Calavera object
 A skull with a location and face and patterns that vary based on state machine
@@ -45,10 +45,21 @@ class Calavera{
     this.faceColor = c;
   }
   
+  float c;
+  
   void draw(PGraphics p){
     p.fill(faceColor);
-    if(over) p.fill(255, 0, 0);
     p.stroke(0, 0, 255);
+    
+    if(rainbowMode){
+        p.colorMode(HSB);
+        p.stroke(c, 255, 255);
+        if (c >= 255)  c=0;  else  c++;
+        p.fill(c, 255, 255);
+    }
+    colorMode(RGB);
+    
+    if(over) p.fill(255, 0, 0);
     p.strokeWeight(3);
     p.ellipseMode(CENTER);
     p.ellipse(loc.x, loc.y, faceWidth, faceHeight);
