@@ -49,7 +49,7 @@ class Calavera{
   
   void draw(PGraphics p){
     p.fill(faceColor);
-    p.stroke(0, 0, 255);
+    p.stroke(faceColor);
     
     if(rainbowMode){
         p.colorMode(HSB);
