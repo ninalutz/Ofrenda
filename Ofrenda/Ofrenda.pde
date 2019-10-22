@@ -21,6 +21,9 @@ ArrayList<PVector> flowersLoc = new ArrayList<PVector>();
 ArrayList<Float> flowersSize = new ArrayList<Float>();
 ArrayList<Integer> flowersId = new ArrayList<Integer>();
 import java.util.*;
+boolean animateLoop = true;
+
+int machineLoop;
 
 void setup() {
   // Keystone will only work with P3D or OPENGL renderers, 
@@ -38,6 +41,7 @@ void setup() {
   initData();
   configLinesOverall();
   startTime = millis();
+  machineLoop = 1;
 }
 
 void draw() {

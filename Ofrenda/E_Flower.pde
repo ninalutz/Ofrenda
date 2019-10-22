@@ -50,11 +50,26 @@ void loadFlowerFull(String file1, PImage[] flower){
 }
 
 int value = 0;
+boolean looped = true;
 
 void timePass(){
     elapsedTime = millis() - startTime;
     if (elapsedTime % 5 == 0) value += 1;
     if(value == 54) value = 0;
+    
+    //println(second());
+    //println(elapsedTime);
+    
+    if(second() == 1 && looped == true) {
+       if(machineLoop == 4) machineLoop = 1;
+       else machineLoop += 1;
+       if(animateLoop) machineState = machineLoop;
+       offscreen.beginDraw();
+       offscreen.background(0);
+       offscreen.endDraw();
+       looped = false;
+    }
+    if(second() != 1) looped = true;
 }
 
 void drawFlower(PGraphics p, PImage[] f, float x, float y, float imgSize){

@@ -7,10 +7,10 @@ void getRender(){
     drawFlowers(offscreen);
     break;
   case 3: 
-    drawTileOnly(offscreen);
+    drawLoadedFlowers(offscreen);
     break;
   case 4:
-    drawStampedSkulls(offscreen);
+     drawLoadedSkulls(offscreen);
     break;
   case 5:
     drawStampedEyes(offscreen);
@@ -22,10 +22,7 @@ void getRender(){
     drawStampedNoses(offscreen);
     break;
   case 8:
-    drawLoadedSkulls(offscreen);
-    break;
-  case 9:
-    drawLoadedFlowers(offscreen);
+     drawStampedSkulls(offscreen);
     break;
   }
 }
