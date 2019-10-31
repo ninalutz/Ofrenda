@@ -61,7 +61,7 @@ void timePass(){
     //println(elapsedTime);
     
     if(second() == 1 && looped == true) {
-       if(machineLoop == 4) machineLoop = 1;
+       if(machineLoop == 3) machineLoop = 1;
        else machineLoop += 1;
        if(animateLoop) machineState = machineLoop;
        offscreen.beginDraw();

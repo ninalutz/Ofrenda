@@ -7,7 +7,7 @@ void getRender(){
     drawFlowers(offscreen);
     break;
   case 3: 
-    drawLoadedFlowers(offscreen);
+    drawLoadedSkulls(offscreen);
     break;
   case 4:
      drawLoadedSkulls(offscreen);
