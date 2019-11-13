@@ -126,7 +126,7 @@ void white_confetti()
 void white_confetti_slow() 
 {
   // random white speckles that blink in and fade smoothly
-  fadeToBlackBy( leds, NUM_LEDS, 3);
+  fadeToBlackBy( leds, NUM_LEDS, 2);
   int pos = random16(NUM_LEDS);
   leds[pos] += CHSV( 60, 200, 255);
 }
