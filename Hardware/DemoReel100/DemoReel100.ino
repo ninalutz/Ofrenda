@@ -39,7 +39,7 @@ void setup() {
 
 // List of patterns to cycle through.  Each is defined as a separate function below.
 typedef void (*SimplePatternList[])();
-SimplePatternList gPatterns = { rainbow, rainbowWithGlitter, confetti, white_confetti, white_confetti_slow,  juggle};
+SimplePatternList gPatterns = { rainbow, rainbowWithGlitter, confetti, white_confetti, white_confetti_slow, juggle};
 
 uint8_t gCurrentPatternNumber = 0; // Index number of which pattern is current
 uint8_t gHue = 0; // rotating "base color" used by many of the patterns
@@ -126,7 +126,7 @@ void white_confetti()
 void white_confetti_slow() 
 {
   // random white speckles that blink in and fade smoothly
-  fadeToBlackBy( leds, NUM_LEDS, 100);
+  fadeToBlackBy( leds, NUM_LEDS, 1);
   int pos = random16(NUM_LEDS);
   leds[pos] += CHSV( 60, 200, 255);
 }
