@@ -39,7 +39,7 @@ void setup() {
 
 // List of patterns to cycle through.  Each is defined as a separate function below.
 typedef void (*SimplePatternList[])();
-SimplePatternList gPatterns = { rainbow, rainbowWithGlitter, confetti, white_confetti, white_confetti_slow, juggle};
+SimplePatternList gPatterns = { rainbow,white_confetti, white_confetti_slow, juggle_white};
 
 uint8_t gCurrentPatternNumber = 0; // Index number of which pattern is current
 uint8_t gHue = 0; // rotating "base color" used by many of the patterns
@@ -140,3 +140,13 @@ void juggle() {
     dothue += 32;
   }
 }
+
+void juggle_white() {
+  // eight colored dots, weaving in and out of sync with each other
+  fadeToBlackBy( leds, NUM_LEDS, 20);
+  leds[NUM_LEDS] = CHSV(60, 200, 255);
+  }
+
+//void pulse() {
+  //pulsing, i hope
+//}
