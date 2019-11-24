@@ -142,13 +142,17 @@ void juggle() {
 }
 
 void juggle_white() {
-  // eight colored dots, weaving in and out of sync with each other
+  // eight  dots, weaving in and out of sync with each other
   fadeToBlackBy( leds, NUM_LEDS, 20);
   byte dothue = 60;
   for( int i = 0; i < 8; i++) {
     leds[beatsin16( i+7, 0, NUM_LEDS-1 )] |= CHSV(dothue, 200, 255);
   }}
 
-//void pulse() {
+void pulse() {
   //pulsing, i hope
-//}
+  leds[NUM_LEDS] = CHSV( 60, 255, 255);
+  delay( 500);
+  leds[NUM_LEDS].fadeLightBy(128);
+  delay( 500);
+}
