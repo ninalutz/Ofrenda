@@ -1,32 +1,15 @@
-float loveSpeed = 0.6;
+float loveSpeed = 1;
 float loveDistance = 0.5;
 float loveNumerator = 1.5;
-float timeAmount = 1000;
-float strokeWeight = 2;
+float timeAmount = 2000;
+float strokeWeight = 1.4;
 
 // collection of all particles
 HashSet<HashSet<Particle>> masterList = new HashSet<HashSet<Particle>>();
 // number of particles
-final color[] cols = {color(0), color(187, 38, 26), color(28, 79, 140), color(226, 195, 95), 
-    color(0, 20, 163), color(214, 87, 128), color(221, 126, 47), color(158, 85, 222), color(255, 255, 0)};
+final static color[] cols = {#000000, #CB3C28, #0079DC, #F8F32B, #EA7419 };
 int count = 0;
 
-//Configures the overall lines
-void configLinesOverall(){
-  for(Calavera c : loadedSkulls){
-    spawn(c.getX(), c.getY(), 30);
-  }
-}
-
-void linesReset(){
-  println("RESETTING");
-  graphic.clear();
-  masterList =  new HashSet<HashSet<Particle>>();
-  count = 0;
-  configLinesOverall();
-}
-
-//Spawns particles
 void spawn(float locX, float locY, int num){
   HashSet<Particle> particles = new HashSet<Particle>();
   for (int i=0; i<num; i++) {
@@ -37,7 +20,7 @@ void spawn(float locX, float locY, int num){
 }
  
 float lineTime = 0.0;
-//Draws particles
+
 void drawLines(){  
   for(HashSet<Particle> particles : masterList){
     for (Particle p : particles) {

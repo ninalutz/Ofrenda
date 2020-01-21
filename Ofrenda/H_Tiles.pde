@@ -1,5 +1,5 @@
 ArrayList<PImage> tiles =  new ArrayList<PImage>();
-int tileSpeed = 30;
+int tileSpeed = 60;
 
 void animateTiles(PGraphics p){
   p.beginDraw();

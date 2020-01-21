@@ -161,3 +161,20 @@ void loadSkullData(){
   }
   
 }
+
+
+//Configures the overall lines
+void configLinesOverall(){
+  for(Calavera c : loadedSkulls){
+    spawn(c.getX(), c.getY(), 15);
+  }
+}
+
+
+
+void linesReset(){
+  graphic.clear();
+  masterList =  new HashSet<HashSet<Particle>>();
+  count = 0;
+  configLinesOverall();
+}

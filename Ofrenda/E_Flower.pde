@@ -57,9 +57,6 @@ void timePass(){
     if (elapsedTime % 5 == 0) value += 1;
     if(value == 54) value = 0;
     
-    //println(second());
-    //println(elapsedTime);
-    
     if(second() == 1 && looped == true) {
        if(machineLoop == 3) machineLoop = 1;
        else machineLoop += 1;
