@@ -24,7 +24,8 @@ color skullColor = color(255, 255, 255);
 Stamping function for calavera objects
 */
 void mousePressed() {
-    if(machineState == 4){
+    if(machineState == 8){
+      println("HELLO");
       PVector loc = surface.getTransformedMouse();
       cx.append(loc.x);
       cy.append(loc.y);
@@ -38,12 +39,7 @@ void mousePressed() {
       ex.append(loc.x);
       ey.append(loc.y);
     }
-    //Do the mouths
-    //if(machineState == 6){
-    //  PVector loc = surface.getTransformedMouse();
-    //  mx.append(loc.x);
-    //  my.append(loc.y);
-    //}
+
     //Do the large flowers!
      if(machineState == 6){
       PVector loc = surface.getTransformedMouse();

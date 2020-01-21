@@ -82,7 +82,9 @@ void saveData(){
       newRow.setFloat("w",  stampedSkulls.get(i).getWidth());
       newRow.setFloat("h", stampedSkulls.get(i).getHeight());
     }
+    if(machineState == 4 || machineState == 8){
      saveTable(skullPoints, "data/SkullPoints" + day() + hour() + minute() + second() + ".csv");
+    }
   }
   catch(Exception e){}
   
@@ -93,7 +95,9 @@ void saveData(){
       newRow.setFloat("x",  ex.get(i));
       newRow.setFloat("y", ey.get(i));
     }
+    if(machineState == 5){
      saveTable(eyePoints, "data/EyePoints" + day() + hour() + minute() + second() + ".csv");
+    }
   }
   catch(Exception e){}
   
@@ -104,32 +108,34 @@ void saveData(){
       newRow.setFloat("x",  nx.get(i));
       newRow.setFloat("y", ny.get(i));
     }
+    if(machineState == 7){
      saveTable(nosePoints, "data/NosePoints" + day() + hour() + minute() + second() + ".csv");
+    }
   }
   catch(Exception e){}
   
   //MOUTH
-  try{
-    for(int i = 0; i<mx.size(); i++){
-      TableRow newRow = mouthPoints.addRow();
-      newRow.setFloat("x",  mx.get(i));
-      newRow.setFloat("y", my.get(i));
-    }
-     saveTable(mouthPoints, "data/MouthPoints" + day() + hour() + minute() + second() + ".csv");
-  }
-  catch(Exception e){}
+  //try{
+  //  for(int i = 0; i<mx.size(); i++){
+  //    TableRow newRow = mouthPoints.addRow();
+  //    newRow.setFloat("x",  mx.get(i));
+  //    newRow.setFloat("y", my.get(i));
+  //  }
+  //   saveTable(mouthPoints, "data/MouthPoints" + day() + hour() + minute() + second() + ".csv");
+  //}
+  //catch(Exception e){}
   
   //FLOWERS
-  try{
-    for(int i = 0; i<rx.size(); i++){
-      TableRow newRow = flowerPoints.addRow();
-      newRow.setFloat("x",  rx.get(i));
-      newRow.setFloat("y", ry.get(i));
-      newRow.setInt("id", int(random(flowers.size()-1)));
-    }
-     saveTable(flowerPoints, "data/FlowerPoints" + day() + hour() + minute() + second() + ".csv");
-  }
-  catch(Exception e){}
+  //try{
+  //  for(int i = 0; i<rx.size(); i++){
+  //    TableRow newRow = flowerPoints.addRow();
+  //    newRow.setFloat("x",  rx.get(i));
+  //    newRow.setFloat("y", ry.get(i));
+  //    newRow.setInt("id", int(random(flowers.size()-1)));
+  //  }
+  //   saveTable(flowerPoints, "data/FlowerPoints" + day() + hour() + minute() + second() + ".csv");
+  //}
+  //catch(Exception e){}
 }
 
 

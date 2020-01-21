@@ -72,12 +72,12 @@ void keyPressed() {
     break;
   
   case 'W':
-    if(machineState == 8) loadedSkulls.get(currentID).addWidth();
+    if(machineState == 8) stampedSkulls.get(currentID).addWidth();
     if(machineState == 4) stampedSkulls.get(currentID).addWidth();
     break;
   
   case 'w':
-    if(machineState == 8) loadedSkulls.get(currentID).subWidth();
+    if(machineState == 8) stampedSkulls.get(currentID).subWidth();
     if(machineState == 4) stampedSkulls.get(currentID).subWidth();
     break;
   

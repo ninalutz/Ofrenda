@@ -7,7 +7,7 @@ Nina Lutz's Masters Thesis at the MIT Media Lab
 Nina Lutz
 MIT Media Lab
 nlutz@mit.edu 
-Last update: 10.19.19
+Last update: 10.19.19l
 */
 
 import java.util.*;
@@ -21,7 +21,7 @@ ArrayList<PVector> flowersLoc = new ArrayList<PVector>();
 ArrayList<Float> flowersSize = new ArrayList<Float>();
 ArrayList<Integer> flowersId = new ArrayList<Integer>();
 import java.util.*;
-boolean animateLoop = true;
+boolean animateLoop = false;
 
 int machineLoop;
 
